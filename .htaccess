@@ -5,6 +5,10 @@ Options -MultiViews
 <IfModule mod_rewrite.c>
 RewriteEngine On
 
+# 0. Never redirect SSL domain-validation files (AutoSSL / Let's Encrypt / Sectigo read /.well-known/ on every host
+#    name, and a redirect makes the www certificate check fail).
+RewriteRule ^\.well-known/ - [L]
+
 # 1. Old and alternate hosts go to the canonical domain, same path (the old-URL rules below then finish the job).
 #    Park or alias lavenderpinco.com and pinaudit.marieharvey.com onto this docroot in cPanel for this to apply.
 RewriteCond %{HTTP_HOST} ^(www\.marieglowstudio\.com|(www\.)?lavenderpinco\.com|pinaudit\.marieharvey\.com)$ [NC]
