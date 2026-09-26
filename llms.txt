@@ -77,4 +77,5 @@ Blog posts live at https://marieglowstudio.com/blog/ and each post is at https:/
 ## Reference
 
 - [Pricing](https://marieglowstudio.com/pricing.md): structured pricing and inclusions for every service
+- [Full text](https://marieglowstudio.com/llms-full.txt): the text of every main page, the prices and every blog post in one file
 - [Pinterest](https://www.pinterest.com/LavenderPinCo/): the studio's Pinterest profile (still under its former name, Lavender Pin Co)
