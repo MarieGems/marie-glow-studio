@@ -79,3 +79,4 @@ Blog posts live at https://marieglowstudio.com/blog/ and each post is at https:/
 - [Pricing](https://marieglowstudio.com/pricing.md): structured pricing and inclusions for every service
 - [Full text](https://marieglowstudio.com/llms-full.txt): the text of every main page, the prices and every blog post in one file
 - [Pinterest](https://www.pinterest.com/marieglowstudio/): the studio's Pinterest profile
+- [Google Business Profile](https://www.google.com/search?kgmid=/g/11p19_k0j4): the studio's Google listing (a service-area business in Wichita, KS)
