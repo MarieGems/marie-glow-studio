@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+# /intake and /checklist stay crawlable on purpose: they carry a noindex tag, and a crawler has to be able to read the page to see it.
+
+# AI search and answer engines are welcome to read and cite this site.
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://marieglowstudio.com/sitemap.xml

@@ -1,0 +1,507 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Client Intake Form | Marie Glow Studio</title>
+<meta name="description" content="A short intake form for Marie Glow Studio clients. Choose the service you purchased and share the few details needed to get started.">
+<meta name="robots" content="noindex, follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<style>
+  /* Page-specific: the service-scoped question groups need to span the
+     .contact-form's own two-column grid and lay their own fields out the
+     same way, so each group behaves like a nested .contact-form. */
+  .intake-section{
+    grid-column:1 / -1;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:18px;
+    padding-top:4px;
+    border-top:1px dashed var(--mg-line);
+    margin-top:4px;
+  }
+  @media (max-width:600px){
+    .intake-section{grid-template-columns:1fr;}
+  }
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://marieglowstudio.com/intake#webpage",
+      "url": "https://marieglowstudio.com/intake",
+      "name": "Client Intake Form",
+      "isPartOf": { "@id": "https://marieglowstudio.com/#website" }
+    }
+  ]
+}
+</script>
+<!-- mg:head -->
+<meta name="theme-color" content="#342846">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "@id": "https://marieglowstudio.com/#org",
+      "name": "Marie Glow Studio",
+      "url": "https://marieglowstudio.com/",
+      "logo": "https://marieglowstudio.com/assets/brand/marie-glow-studio-logo.png",
+      "image": "https://marieglowstudio.com/assets/brand/og-default.jpg",
+      "description": "Marie Glow Studio is a digital studio in Wichita, KS that helps product and service small businesses with web design and development, Pinterest marketing, SEO and digital strategy.",
+      "slogan": "Web Design & Development • Pinterest Marketing • SEO & Digital Strategy",
+      "email": "hello@marieglowstudio.com",
+      "priceRange": "$197 to $1,497",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Wichita",
+        "addressRegion": "KS",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "City",
+          "name": "Wichita, Kansas"
+        }
+      ],
+      "founder": {
+        "@id": "https://marieglowstudio.com/#founder"
+      },
+      "knowsAbout": [
+        "Web design",
+        "Web development",
+        "Shopify",
+        "Custom-coded websites",
+        "Pinterest marketing",
+        "Pinterest SEO",
+        "Search engine optimization",
+        "Local SEO",
+        "Answer engine optimization",
+        "Schema markup",
+        "Digital strategy",
+        "Customer journeys",
+        "Email marketing strategy",
+        "Marketing automation"
+      ],
+      "sameAs": [
+        "https://www.pinterest.com/LavenderPinCo/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://marieglowstudio.com/#website",
+      "url": "https://marieglowstudio.com/",
+      "name": "Marie Glow Studio",
+      "publisher": {
+        "@id": "https://marieglowstudio.com/#org"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://marieglowstudio.com/#founder",
+      "name": "Marie Harvey",
+      "url": "https://marieharvey.com",
+      "jobTitle": "Founder, web designer and Pinterest and SEO strategist",
+      "worksFor": {
+        "@id": "https://marieglowstudio.com/#org"
+      },
+      "sameAs": [
+        "https://marieharvey.com"
+      ]
+    }
+  ]
+}
+</script>
+<!-- /mg:head -->
+</head>
+<body data-page="intake">
+
+<div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
+<!-- mg:nav -->
+<a class="skip-link" href="#top">Skip to content</a>
+<nav class="nav" aria-label="Main">
+  <div class="nav-inner">
+    <a href="/" class="brand" aria-label="Marie Glow Studio home">
+      <img class="brand-mark" src="/assets/brand/mg-monogram-160.png" width="50" height="46" alt="" aria-hidden="true">
+      <span class="brand-text"><span class="brand-name">Marie Glow</span><span class="brand-studio">Studio</span></span>
+    </a>
+    <ul class="nav-links">
+      <li class="nav-group">
+        <a href="/services" data-page="services" class="nav-group-label">Services</a>
+        <ul class="nav-dropdown">
+          <li><a href="/web-design" data-page="web-design"><strong>Web Design &amp; Development</strong><span>The destination: sites built to convert</span></a></li>
+          <li><a href="/pinterest-marketing" data-page="pinterest-marketing"><strong>Pinterest Marketing</strong><span>Discovery: traffic that keeps coming</span></a></li>
+          <li><a href="/seo" data-page="seo"><strong>SEO</strong><span>Search visibility on Google and AI answers</span></a></li>
+          <li><a href="/digital-strategy" data-page="digital-strategy"><strong>Digital Strategy</strong><span>Connecting the pieces into one journey</span></a></li>
+        </ul>
+      </li>
+      <li class="nav-group">
+        <a href="/for-service-businesses" data-page="who" class="nav-group-label">Who I Help</a>
+        <ul class="nav-dropdown">
+          <li><a href="/for-product-businesses" data-page="for-product-businesses"><strong>Product Businesses</strong><span>Shops, makers and product brands</span></a></li>
+          <li><a href="/for-service-businesses" data-page="for-service-businesses"><strong>Service Businesses</strong><span>Local, appointment and lead-based businesses</span></a></li>
+        </ul>
+      </li>
+      <li><a href="/portfolio" data-page="portfolio">Portfolio</a></li>
+      <li><a href="/blog/" data-page="blog">Blog</a></li>
+      <li><a href="/about" data-page="about">About</a></li>
+    </ul>
+    <div class="nav-actions">
+      <a class="btn btn-primary btn-nav" href="/contact" data-page="contact">Let&rsquo;s Talk</a>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+  <div class="mobile-menu" id="mobile-menu">
+    <ul class="mobile-menu-links">
+      <li class="mobile-menu-label">Services</li>
+      <li><a href="/web-design" data-page="web-design">Web Design &amp; Development</a></li>
+      <li><a href="/pinterest-marketing" data-page="pinterest-marketing">Pinterest Marketing</a></li>
+      <li><a href="/seo" data-page="seo">SEO</a></li>
+      <li><a href="/digital-strategy" data-page="digital-strategy">Digital Strategy</a></li>
+      <li class="mobile-menu-label">Who I Help</li>
+      <li><a href="/for-product-businesses" data-page="for-product-businesses">Product Businesses</a></li>
+      <li><a href="/for-service-businesses" data-page="for-service-businesses">Service Businesses</a></li>
+      <li class="mobile-menu-label">Studio</li>
+      <li><a href="/portfolio" data-page="portfolio">Portfolio</a></li>
+      <li><a href="/blog/" data-page="blog">Blog</a></li>
+      <li><a href="/about" data-page="about">About</a></li>
+      <li><a href="/faqs" data-page="faqs">FAQs</a></li>
+      <li><a href="/contact" data-page="contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+<!-- /mg:nav -->
+
+<main id="top">
+
+  <!-- ================= HERO ================= -->
+  <section class="ed-hero ed-hero-video ed-hero-photo">
+    <div class="hero-video-wrap" aria-hidden="true">
+      <img class="hero-video" src="/assets/mockups/contact-envelope-checkmark-square.jpg" alt="" fetchpriority="high">
+    </div>
+    <div class="wrap-wide">
+      <div class="ed-hero-copy">
+      <span class="eyebrow reveal">Client Intake</span>
+      <h1 class="reveal" id="intake-headline">Thanks for your purchase. <em>Let&rsquo;s get started.</em></h1>
+      <p class="reveal">Pick the service you just bought below, and fill in that section. Everything here comes straight to me, and work begins once I have what I need.</p>
+    </div>
+    </div>
+  </section>
+
+  <!-- ================= INTAKE FORM ================= -->
+  <section class="ed-section">
+    <div class="wrap">
+      <div class="contact-split">
+      <div class="contact-details reveal">
+        <span><strong>What happens next:</strong> I personally review every intake form, usually within 1&ndash;2 business days.</span>
+        <span><strong>Delivery timelines</strong> start from the day your intake form and any required access arrive, not from your purchase date.</span>
+        <span><strong>Not sure which service you bought?</strong> Check your Stripe receipt email, or write to <strong>hello@marieglowstudio.com</strong>.</span>
+      </div>
+
+      <!-- Posted to intake-handler.php (this site's cPanel PHP mail backend, same
+           pattern as contact.html). Only works once deployed to a real PHP host,
+           not under a plain static file:// or npx serve preview. -->
+      <form class="contact-form reveal js-server-form" id="intake-form" method="POST" action="intake-handler.php" data-endpoint="intake-handler.php" enctype="multipart/form-data">
+        <label class="hp-field" for="in-hp" aria-hidden="true">Leave this field blank</label>
+        <input class="hp-field" type="text" id="in-hp" name="hp_company_url" tabindex="-1" autocomplete="off">
+
+        <div class="form-field is-full">
+          <label for="in-service">Which service did you purchase?</label>
+          <select id="in-service" name="service" required>
+            <option value="">Choose your service</option>
+            <option value="pinterest-audit">Pinterest SEO Audit ($197)</option>
+            <option value="pinterest-account-setup">Pinterest Business Account Setup ($497)</option>
+            <option value="pinterest-management">Monthly Pinterest Management</option>
+            <option value="website-starter">Website Starter ($249)</option>
+            <option value="complete-website-package">Complete Website &amp; Brand Identity Package ($1,497)</option>
+            <option value="website-seo-audit">Website SEO Audit ($247)</option>
+            <option value="seo-foundations">SEO Foundations Setup ($697)</option>
+            <option value="digital-strategy-roadmap">Digital Strategy Roadmap ($397)</option>
+          </select>
+        </div>
+
+        <div class="form-field">
+          <label for="in-name">Name</label>
+          <input type="text" id="in-name" name="name" required>
+        </div>
+        <div class="form-field">
+          <label for="in-email">Email Address</label>
+          <input type="email" id="in-email" name="email" required>
+        </div>
+        <div class="form-field">
+          <label for="in-business">Business Name</label>
+          <input type="text" id="in-business" name="business" required>
+        </div>
+        <div class="form-field">
+          <label for="in-website">Current website URL (if you have one)</label>
+          <input type="url" id="in-website" name="website">
+        </div>
+        <div class="form-field">
+          <label for="in-pinterest">Current Pinterest account URL (if you have one)</label>
+          <input type="url" id="in-pinterest" name="pinterest_profile_url" placeholder="https://www.pinterest.com/yourname">
+        </div>
+
+        <!-- ===== Pinterest SEO Audit ===== -->
+        <div class="intake-section" data-service="pinterest-audit">
+          <div class="form-field is-full">
+            <label for="in-audit-access">Have you added hello@marieglowstudio.com as a collaborator on your Pinterest account?</label>
+            <select id="in-audit-access" name="audit_access_granted"><option>Yes, access granted</option><option>Not yet, I will do it next</option><option>Not sure how, please send steps</option></select>
+          </div>
+          <div class="form-field is-full">
+            <label for="in-audit-goal">Main goal for this audit, in a sentence</label>
+            <input type="text" id="in-audit-goal" name="audit_goal" placeholder="For example: more clicks to my shop">
+          </div>
+        </div>
+
+        <!-- ===== Pinterest Account Setup ===== -->
+        <div class="intake-section" data-service="pinterest-account-setup">
+          <div class="form-field is-full">
+            <label for="in-setup-keywords">Top products or services to feature on Pinterest</label>
+            <textarea id="in-setup-keywords" name="setup_keywords" rows="3"></textarea>
+          </div>
+          <div class="form-field is-full">
+            <label for="in-setup-brand">Link to your logo, colors and photos (Drive, Dropbox, etc.)</label>
+            <input type="url" id="in-setup-brand" name="setup_brand_assets_link">
+          </div>
+        </div>
+
+        <!-- ===== Monthly Pinterest Management ===== -->
+        <div class="intake-section" data-service="pinterest-management">
+          <div class="form-field">
+            <label for="in-mgmt-tier">Which tier did you choose?</label>
+            <select id="in-mgmt-tier" name="management_tier"><option value="starter">Pinterest Starter ($497/mo)</option><option value="growth">Pinterest Growth ($797/mo)</option><option value="pro">Pinterest Pro ($1,097/mo)</option></select>
+          </div>
+          <div class="form-field">
+            <label for="in-mgmt-brand">Link to your logo, colors and photos</label>
+            <input type="url" id="in-mgmt-brand" name="management_brand_assets_link">
+          </div>
+          <div class="form-field is-full">
+            <label for="in-mgmt-promote">What should the pins promote first? Products, services, posts or launches</label>
+            <textarea id="in-mgmt-promote" name="management_promote" rows="3"></textarea>
+          </div>
+        </div>
+
+        <!-- ===== Website Starter ===== -->
+        <div class="intake-section" data-service="website-starter">
+          <div class="form-field">
+            <label for="in-starter-logo">Logo file (optional)</label>
+            <input type="file" id="in-starter-logo" name="starter_logo_file">
+          </div>
+          <div class="form-field">
+            <label for="in-starter-photos">Link to your photos and copy (Drive, Dropbox, Google Doc)</label>
+            <input type="url" id="in-starter-photos" name="starter_photos_link">
+          </div>
+          <div class="form-field is-full">
+            <label for="in-starter-info">What you offer, and what visitors should do: book, buy, call or email</label>
+            <textarea id="in-starter-info" name="starter_business_info" rows="3"></textarea>
+          </div>
+        </div>
+
+        <!-- ===== Complete Website and Brand Identity ===== -->
+        <div class="intake-section" data-service="complete-website-package">
+          <div class="form-field">
+            <label for="in-complete-branding">Do you already have branding?</label>
+            <select id="in-complete-branding" name="complete_has_branding"><option>No, please design it</option><option>Yes, some pieces</option><option>Yes, a full brand to use</option></select>
+          </div>
+          <div class="form-field">
+            <label for="in-complete-domain">Do you own a domain? If so, which one</label>
+            <input type="text" id="in-complete-domain" name="complete_domain_info">
+          </div>
+          <div class="form-field">
+            <label for="in-complete-logo">Logo file (if you have one)</label>
+            <input type="file" id="in-complete-logo" name="complete_logo_file">
+          </div>
+          <div class="form-field">
+            <label for="in-complete-photos">Link to your photos, products or service list</label>
+            <input type="url" id="in-complete-photos" name="complete_photos_link">
+          </div>
+        </div>
+
+        <!-- ===== Website SEO Audit ===== -->
+        <div class="intake-section" data-service="website-seo-audit">
+          <div class="form-field is-full">
+            <label for="in-seoaudit-found">What do you most want to be found for? Your top 3 products or services</label>
+            <textarea id="in-seoaudit-found" name="seoaudit_found_for" rows="3"></textarea>
+          </div>
+          <div class="form-field">
+            <label for="in-seoaudit-area">City or service area (if you serve local customers)</label>
+            <input type="text" id="in-seoaudit-area" name="seoaudit_service_area">
+          </div>
+          <div class="form-field">
+            <label for="in-seoaudit-gsc">Do you have Google Search Console set up?</label>
+            <select id="in-seoaudit-gsc" name="seoaudit_search_console"><option>Yes</option><option>No</option><option>Not sure</option></select>
+          </div>
+        </div>
+
+        <!-- ===== SEO Foundations Setup ===== -->
+        <div class="intake-section" data-service="seo-foundations">
+          <div class="form-field">
+            <label for="in-seofound-platform">What is your website built on?</label>
+            <select id="in-seofound-platform" name="seofound_platform"><option>Shopify</option><option>Squarespace</option><option>Wix</option><option>WordPress</option><option>Custom coded</option><option>Not sure</option></select>
+          </div>
+          <div class="form-field">
+            <label for="in-seofound-area">City or service area (if local)</label>
+            <input type="text" id="in-seofound-area" name="seofound_service_area">
+          </div>
+          <div class="form-field is-full">
+            <label for="in-seofound-pages">Which pages matter most? List up to 10</label>
+            <textarea id="in-seofound-pages" name="seofound_pages" rows="3"></textarea>
+          </div>
+        </div>
+
+        <!-- ===== Digital Strategy Roadmap ===== -->
+        <div class="intake-section" data-service="digital-strategy-roadmap">
+          <div class="form-field is-full">
+            <label for="in-strategy-goal">Your main goal for the next 90 days</label>
+            <input type="text" id="in-strategy-goal" name="strategy_goal">
+          </div>
+          <div class="form-field is-full">
+            <label for="in-strategy-tools">What you use today: website, social, email, booking or other tools</label>
+            <textarea id="in-strategy-tools" name="strategy_tools" rows="3"></textarea>
+          </div>
+        </div>
+
+        <div class="form-field is-full">
+          <label for="in-message">Anything else I should know?</label>
+          <textarea id="in-message" name="message"></textarea>
+        </div>
+
+        <p class="intake-note">Short on purpose. If I need anything else, I will reach out by email.</p>
+
+        <button class="btn btn-primary" type="submit">
+          Submit My Intake Form
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h13M13 6l6 6-6 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <svg class="spark" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 2l1.8 6.2L20 10l-6.2 1.8L12 18l-1.8-6.2L4 10l6.2-1.8L12 2z" fill="#FFF"/></svg>
+        </button>
+        <p class="form-status" aria-live="polite"></p>
+      </form>
+      </div>
+      <p class="who-note reveal">Every intake form is read personally before work begins. No forms into the void.</p>
+    </div>
+  </section>
+
+</main>
+
+<!-- mg:footer -->
+<footer class="site-footer">
+  <div class="wrap-wide footer-grid">
+    <div class="footer-about">
+      <a href="/" class="brand" aria-label="Marie Glow Studio home">
+        <img class="brand-mark" src="/assets/brand/mg-monogram-160.png" width="38" height="35" alt="" aria-hidden="true">
+        <span class="brand-text"><span class="brand-name">Marie Glow</span><span class="brand-studio">Studio</span></span>
+      </a>
+      <p class="footer-tagline">Web Design &amp; Development &middot; Pinterest Marketing &middot; SEO &amp; Digital Strategy</p>
+      <p class="footer-entity">Marie Glow Studio is a digital studio in Wichita, KS that helps product and service small businesses with web design and development, Pinterest marketing, SEO and digital strategy. Working with clients across the United States.</p>
+      <a class="footer-email" href="mailto:hello@marieglowstudio.com">hello@marieglowstudio.com</a>
+    </div>
+    <nav class="footer-col" aria-label="Services">
+      <h2 class="footer-heading">Services</h2>
+      <a href="/services" data-page="services">All Services</a>
+      <a href="/web-design" data-page="web-design">Web Design &amp; Development</a>
+      <a href="/pinterest-marketing" data-page="pinterest-marketing">Pinterest Marketing</a>
+      <a href="/seo" data-page="seo">SEO</a>
+      <a href="/digital-strategy" data-page="digital-strategy">Digital Strategy</a>
+      <a href="/for-product-businesses" data-page="for-product-businesses">For Product Businesses</a>
+      <a href="/for-service-businesses" data-page="for-service-businesses">For Service Businesses</a>
+    </nav>
+    <nav class="footer-col" aria-label="Offers">
+      <h2 class="footer-heading">Start Here</h2>
+      <a href="/website-starter" data-page="website-starter">Website Starter</a>
+      <a href="/complete-website-package" data-page="complete-website-package">Complete Website &amp; Brand Identity</a>
+      <a href="/pinterest-audit" data-page="pinterest-audit">Pinterest SEO Audit</a>
+      <a href="/pinterest-account-setup" data-page="pinterest-account-setup">Pinterest Account Setup</a>
+      <a href="/pinterest-management" data-page="pinterest-management">Pinterest Management</a>
+      <a href="/website-seo-audit" data-page="website-seo-audit">Website SEO Audit</a>
+      <a href="/seo-foundations" data-page="seo-foundations">SEO Foundations Setup</a>
+      <a href="/digital-strategy-roadmap" data-page="digital-strategy-roadmap">Digital Strategy Roadmap</a>
+    </nav>
+    <nav class="footer-col" aria-label="Studio and resources">
+      <h2 class="footer-heading">Studio</h2>
+      <a href="/about" data-page="about">About</a>
+      <a href="/portfolio" data-page="portfolio">Portfolio</a>
+      <a href="/design-evolution" data-page="design-evolution">Design Evolution</a>
+      <a href="/blog/" data-page="blog">Blog</a>
+      <a href="/guides/" data-page="resources">Guides</a>
+      <a href="/compare/" data-page="resources">Comparisons</a>
+      <a href="/tools/" data-page="resources">Free Tools</a>
+      <a href="/faqs" data-page="faqs">FAQs</a>
+      <a href="/billing" rel="nofollow">Manage Your Subscription</a>
+      <a href="/contact" data-page="contact">Contact</a>
+    </nav>
+  </div>
+  <div class="wrap-wide footer-bottom">
+    <span>&copy; 2026 Marie Glow Studio</span>
+    <nav class="footer-legal" aria-label="Legal">
+      <a href="/privacy-policy" data-page="privacy-policy">Privacy Policy</a>
+      <a href="/terms-of-service" data-page="terms-of-service">Terms of Service</a>
+    </nav>
+  </div>
+</footer>
+<!-- /mg:footer -->
+<script src="/assets/js/main.js"></script>
+<script>
+  (function(){
+    var params = new URLSearchParams(window.location.search);
+    var offerParam = params.get('offer') || params.get('service') || '';
+    var tierParam = params.get('tier') || '';
+    var form = document.getElementById('intake-form');
+    var serviceSelect = document.getElementById('in-service');
+    var tierSelect = document.getElementById('in-mgmt-tier');
+    var sections = document.querySelectorAll('.intake-section');
+    var headline = document.getElementById('intake-headline');
+    var validServices = ['pinterest-audit', 'pinterest-account-setup', 'pinterest-management', 'website-starter', 'complete-website-package', 'website-seo-audit', 'seo-foundations', 'digital-strategy-roadmap'];
+    var offerNames = {
+      'pinterest-audit': 'Pinterest SEO Audit',
+      'pinterest-account-setup': 'Pinterest Account Setup',
+      'pinterest-management': 'Monthly Pinterest Management',
+      'website-starter': 'Website Starter',
+      'complete-website-package': 'Complete Website &amp; Brand Identity',
+      'website-seo-audit': 'Website SEO Audit',
+      'seo-foundations': 'SEO Foundations Setup',
+      'digital-strategy-roadmap': 'Digital Strategy Roadmap'
+    };
+
+    function showSection(value){
+      sections.forEach(function(section){
+        section.style.display = section.getAttribute('data-service') === value ? 'grid' : 'none';
+      });
+    }
+
+    function setHeadline(value){
+      if (!headline) return;
+      var name = offerNames[value];
+      headline.innerHTML = 'Thanks for your purchase. <em>Let&rsquo;s get started.</em>';
+    }
+
+    if (offerParam && validServices.indexOf(offerParam) !== -1) serviceSelect.value = offerParam;
+    if (tierParam && tierSelect) tierSelect.value = tierParam;
+    showSection(serviceSelect.value);
+    setHeadline(serviceSelect.value);
+    serviceSelect.addEventListener('change', function(){ showSection(serviceSelect.value); setHeadline(serviceSelect.value); });
+    // form.reset() doesn't re-run the change handler, so the select would go
+    // blank while the last section stayed visible without this.
+    form.addEventListener('reset', function(){ setTimeout(function(){ showSection(''); }, 0); });
+  })();
+</script>
+<script src="/assets/js/contact-form.js"></script>
+</body>
+</html>
