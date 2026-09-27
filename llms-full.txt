@@ -18,7 +18,8 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 - Price: $249 (one-time)
 - Delivery: 5 business days from completed intake, guaranteed, or the revision round is free
 - Works for: a shop or a service business (buy button, booking link, quote form or call button)
-- Includes: professionally designed mobile-responsive one-page website customized to your brand colors/fonts/logo/photos/copy, basic on-page SEO, contact section with social links, domain-connection assistance, basic pre-launch testing, one revision round
+- Includes: professionally designed mobile-responsive one-page website customized to your brand colors/fonts/logo/photos/copy, basic on-page SEO, contact section with social links, domain-connection assistance, basic pre-launch testing, one revision round, a free Pinterest Quick-Start Checklist. For a service business, the site connects to your existing booking tool, quote form or phone number (a link/embed to the client's own tool; Marie Glow Studio does not provide or pay for the booking platform itself).
+- Hosting: delivered as static files, no ongoing platform subscription charged by Marie Glow Studio for the Website Starter itself. Host it anywhere that supports a static HTML site (your own domain, GitHub Pages, Netlify, or similar); hosting, domain and any third-party service costs are the client's own.
 - Add-ons: extra pages $79 each; Light-Edit Care Plan (first 30 days free, then $25/edit or $15/month for up to two)
 - Not included: e-commerce, custom photography or copywriting, unlimited revisions
 - Upgrade path: $100 of what you paid is credited toward the Complete Package if you upgrade within 6 months
@@ -27,7 +28,7 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 #### Complete Website & Brand Identity
 - Price: $1,497 (one-time)
 - Delivery: roughly 2-3 weeks depending on how quickly product images/content are provided
-- Includes: custom primary logo, brand colors, font recommendations, visual brand direction, style guide, social media graphics, full site build (Shopify for online stores, custom-coded for service businesses), custom homepage, mobile-responsive layout, essential pages, navigation, product/collection organization for up to 20 items, contact form, footer, policy pages, domain support, full store review/testing/training
+- Includes: custom primary logo, brand colors, font recommendations, visual brand direction, style guide, social media graphics, full site build (Shopify for online stores, custom-coded for service businesses), custom homepage, mobile-responsive layout, essential pages, navigation, product/collection organization for up to 20 items, contact form, footer, policy pages, domain support, full store review/testing/training. For a service business, the custom-coded site is wired to your existing booking or scheduling tool, quote form or phone number (a link/embed to the client's own tool; Marie Glow Studio does not provide or pay for the booking platform itself).
 - Credit: the $397 Digital Strategy Roadmap is credited toward this package if booked within 60 days
 - Refund policy: non-refundable once work begins
 - Checkout: https://buy.stripe.com/28E3cwgdc3Pq7x6czo3VC06
@@ -74,6 +75,7 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 - Scope: up to 10 pages
 - Includes: keyword map, titles and meta descriptions, schema markup, Google Search Console and Bing Webmaster Tools setup, sitemap, internal linking, Google Business Profile optimization
 - No ranking guarantees; this builds the foundation search engines and AI assistants need to understand the site
+- Delivery: needs-info. The site previously stated "usually two to three weeks," which was never confirmed by Marie and was removed from seo-foundations.html on 2026-09-27. Do not restate a specific timeline here or on the site until Marie confirms one.
 - Checkout: https://buy.stripe.com/28EbJ28KKeu42cMdDs3VC08
 
 ### Digital Strategy
@@ -89,7 +91,8 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 
 - Email: hello@marieglowstudio.com
 - Website: https://marieglowstudio.com/contact
-- Offers with a checkout link can be bought directly, then you complete a short intake form. The SEO audit, SEO Foundations and Strategy Roadmap start with a short message through the contact page.
+- Offers with a checkout link can be bought directly, then you complete a short intake form. This is true for every offer above, including the Website SEO Audit, SEO Foundations Setup and Digital Strategy Roadmap: each of their live pages leads with the Stripe checkout button as the primary call to action, confirmed 2026-09-27. The Website SEO Audit and SEO Foundations Setup pages also offer hello@marieglowstudio.com as a secondary option for anyone who wants to ask a question first; that is optional, not the required path.
+- General questions before buying anything, for any offer, can also go to the contact page (https://marieglowstudio.com/contact) or hello@marieglowstudio.com.
 
 ---
 
@@ -726,7 +729,7 @@ Included
 
 #### Everything a first real website needs
 
-A professionally designed, mobile-responsive one-page site, customized with your brand colors, fonts and logo, built with your photos and copy. Basic on-page SEO (heading structure, page title, meta description, image alt text), a contact section with your social links, domain-connection assistance, pre-launch testing, and one revision round.
+A professionally designed, mobile-responsive one-page site, customized with your brand colors, fonts and logo, built with your photos and copy. Basic on-page SEO (heading structure, page title, meta description, image alt text), a contact section with your social links, domain-connection assistance, pre-launch testing, one revision round, and a free Pinterest Quick-Start Checklist.
 
 Not included: multiple pages (add for $79 each), e-commerce, custom photography or copywriting, extensive custom graphics, or unlimited revisions. Anything past this scope moves into the Complete Website & Brand Identity Package.
 
@@ -740,7 +743,7 @@ Make it fit your business
 
 #### Optional add-ons.
 
-Most Starters do not need these, but if you do, here is the a la carte option instead of jumping straight to the Complete Package.
+Most Starters do not need these paid extras, but if you do, here is the a la carte option instead of jumping straight to the Complete Package.
 
 - +$79
 
@@ -753,12 +756,6 @@ Need two or three pages instead of one? Add them individually without a full cus
 #### Light-edit care plan
 
 Small text or photo swaps after launch are free for your first 30 days. After that, $25 per edit or $15 a month for up to two.
-
-- Free
-
-#### Pinterest quick-start checklist
-
-A short guide to getting your new site in front of people on Pinterest, included with every Website Starter.
 
 The process
 
@@ -880,7 +877,7 @@ One round, made after you review your preview.
 
 **Where does the site live?**
 
-You get static files you can host on your own domain, GitHub Pages, Netlify, or wherever you prefer, no ongoing platform fee required.
+You get static files you can host on your own domain, GitHub Pages, Netlify, or any host that supports a static HTML site. Marie Glow Studio does not charge an ongoing platform subscription for the Website Starter itself; hosting, your domain and any third-party service costs are your own.
 
 **Can I upgrade later?**
 
@@ -1976,7 +1973,7 @@ Ready when you are
 
 #### Stop guessing what’s wrong. Get the list.
 
-Send me your website and I’ll reply within one to two business days to confirm details and get the audit started. $247, one time, no contract.
+A technical, on-page, local and AI-search review with a prioritized fix list: $247, one time, no contract. Have a question first? Email me before you buy.
 
 [Get your SEO audit for $247](https://buy.stripe.com/6oU28saSS1HiaJidDs3VC07)
 hello@marieglowstudio.com
@@ -2072,7 +2069,7 @@ If you already have a Website SEO Audit, its fix list becomes the starting check
 
 Timeline
 
-#### Usually two to three weeks
+#### No fixed timeline yet
 
 - You request the setup and send access
 
@@ -2134,7 +2131,7 @@ Ready when you are
 
 #### Get the SEO foundation built right, once.
 
-Send me your website and I’ll reply within one to two business days to confirm details and get started. $697, one time, up to 10 pages.
+A keyword map, titles and meta, schema and search-console setup for up to 10 pages: $697, one time. Have a question first? Email me before you buy.
 
 [Get SEO Foundations Setup for $697](https://buy.stripe.com/28EbJ28KKeu42cMdDs3VC08)
 hello@marieglowstudio.com
@@ -2480,7 +2477,7 @@ Start here
 
 #### Get the plan before you spend on anything else.
 
-Tell me about your business and what feels stuck. I will confirm the roadmap is the right fit before you pay for it.
+A customer-journey map and a written 90-day plan: $397, one time, delivered within 10 business days once everything needed to begin has been received.
 
 [Start your roadmap for $397](https://buy.stripe.com/3cIeVe2mm5Xy9Feczo3VC09)
 [Back to Digital Strategy](https://marieglowstudio.com/digital-strategy)
