@@ -202,23 +202,36 @@ document.addEventListener('partials:loaded', function(){
   window.addEventListener('resize', function(){ layout(); });
 
   // drag the front card to cycle the deck (mouse + touch, unified via Pointer Events)
-  var dragging = false, startX = 0, dx = 0, movedFar = false;
-  deck.addEventListener('pointerdown', function(e){
-    if (e.target.closest('a')) return; // let link clicks navigate normally, no drag capture
+  var dragging = false, startX = 0, dx = 0, movedFar = false, captured = false;
+  function capture(e){
     var card = cards[current];
-    dragging = true; startX = e.clientX; dx = 0; movedFar = false;
+    captured = true;
     if (card.setPointerCapture) { try { card.setPointerCapture(e.pointerId); } catch(err) {} }
     card.style.transition = 'none';
+  }
+  deck.addEventListener('pointerdown', function(e){
+    var onLink = !!e.target.closest('a');
+    // A mouse press on a link is left alone so a click navigates normally. A finger on a link is different: the
+    // screenshot is one big link, so on a phone the deck could only be swiped from the caption. For touch and pen the
+    // drag starts on the link too, and pointer capture waits until the finger has really moved (below), so a plain tap
+    // still lands on the link.
+    if (onLink && e.pointerType === 'mouse') return;
+    dragging = true; startX = e.clientX; dx = 0; movedFar = false; captured = false;
+    if (!onLink) capture(e);
   });
   deck.addEventListener('pointermove', function(e){
     if (!dragging) return;
     dx = e.clientX - startX;
-    if (Math.abs(dx) > 6) movedFar = true;
-    layout(dx);
+    if (Math.abs(dx) > 6) {
+      movedFar = true;
+      if (!captured) capture(e);
+    }
+    if (captured) layout(dx);
   });
   function endDrag(){
     if (!dragging) return;
     dragging = false;
+    captured = false;
     var card = cards[current];
     card.style.transition = '';
     if (Math.abs(dx) > 60) {
@@ -230,6 +243,8 @@ document.addEventListener('partials:loaded', function(){
   }
   deck.addEventListener('pointerup', endDrag);
   deck.addEventListener('pointerleave', endDrag);
+  // a vertical scroll that starts on a card makes the browser cancel the pointer; without this the deck stayed "dragging"
+  deck.addEventListener('pointercancel', endDrag);
   // a drag shouldn't also fire the "View Site" link click underneath it
   deck.addEventListener('click', function(e){ if (movedFar) { e.preventDefault(); e.stopPropagation(); } }, true);
 

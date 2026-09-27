@@ -211,9 +211,9 @@ html.js .reveal.in{opacity:1;transform:none;}
   justify-content:center;
   align-items:center;
   gap:5px;
-  width:40px;
-  height:40px;
-  margin-right:-10px;
+  width:44px;
+  height:44px;
+  margin-right:-12px;
   padding:0;
   border:none;
   border-radius:8px;
@@ -269,7 +269,8 @@ html.js .reveal.in{opacity:1;transform:none;}
   padding:16px 2px 4px;font-family:var(--font-accent);font-style:italic;
   font-size:0.95rem;color:var(--mg-gold-deep);
 }
-.mobile-menu.is-open{max-height:760px;overflow-y:auto;}
+/* the open menu never grows taller than the screen (nav is sticky, so anything past the fold, FAQs and Contact, could not be reached on a short phone); it scrolls inside itself instead */
+.mobile-menu.is-open{max-height:min(760px,calc(100vh - 76px));max-height:min(760px,calc(100dvh - 76px));overflow-y:auto;overscroll-behavior:contain;}
 .mobile-menu-links a:hover,
 .mobile-menu-links a:focus-visible,
 .mobile-menu-links a.active{color:var(--mg-plum-dark);}
@@ -341,6 +342,16 @@ html.js .reveal.in{opacity:1;transform:none;}
   .nav .brand-mark{width:38px;}
   .nav-actions{gap:0;}
   .btn-nav{padding:9px 13px;font-size:0.82rem;min-height:40px;}
+}
+/* very narrow phones (340px is a real one): the row above still ran 13px past the edge, which widened the whole page */
+@media (max-width:359px){
+  .nav-inner{padding-left:16px;padding-right:16px;gap:6px;}
+  .brand{gap:5px;}
+  .nav .brand-mark{width:32px;}
+  .brand-text{gap:5px;}
+  .brand-name{font-size:1.02rem;}
+  .brand-studio{font-size:0.5rem;letter-spacing:0.16em;}
+  .btn-nav{padding:9px 10px;font-size:0.78rem;}
 }
 
 /* ================= HERO ================= */
@@ -1331,7 +1342,7 @@ html.js .objection-card.in svg{transform:scale(1) rotate(0deg);}
   top:0;
   height:100vh;
   overflow:visible;
-  padding-top:clamp(16px,4vh,32px);
+  padding-top:88px; /* the sticky nav is 72px tall on phones and tablets; without this the top of the front card slid under it */
 }
 .portfolio-carousel{
   width:100%;
@@ -1346,7 +1357,8 @@ html.js .objection-card.in svg{transform:scale(1) rotate(0deg);}
 }
 @media (min-width:960px){
   .portfolio-scroller{height:calc(100vh + var(--pf-steps, 6) * 55vh);}
-  .portfolio-sticky{overflow:hidden;align-items:center;padding-top:0;height:min(100vh,640px);}
+  /* pin the deck just below the 78px desktop nav (top:0 hid the top of the front card behind it) */
+  .portfolio-sticky{overflow:hidden;align-items:center;padding-top:0;top:78px;height:min(calc(100vh - 78px),640px);}
   .portfolio-carousel{
     max-width:1760px;
     display:grid;
@@ -1414,6 +1426,7 @@ html.js .objection-card.in svg{transform:scale(1) rotate(0deg);}
 .portfolio-frame-link{display:block;}
 .portfolio-frame{
   margin:0;
+  box-shadow:none; /* the device-frame drop shadow showed as a grey smudge under the screenshot inside the white card; Marie asked for no undershadow on the deck */
   border-radius:0;
   border:2px solid var(--mg-plum);
 }
@@ -1469,8 +1482,8 @@ html.js .objection-card.in svg{transform:scale(1) rotate(0deg);}
   gap:16px;
 }
 .portfolio-nav{
-  width:42px;
-  height:42px;
+  width:44px;
+  height:44px;
   border-radius:50%;
   border:1px solid var(--mg-line);
   background:var(--mg-white);
@@ -3078,7 +3091,7 @@ html.js .stagger{opacity:0;translate:0 14px;animation:ed-rise 0.7s var(--ease-ou
 .mg-review-more summary{cursor:pointer;list-style:none;font-family:var(--font-mono);font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--mg-plum-dark);}
 .mg-review-more summary::-webkit-details-marker{display:none;}
 .mg-review-more summary::after{content:" +";}
-.mg-review-more[open] summary::after{content:" 2";}
+.mg-review-more[open] summary::after{content:" \2212";}
 .mg-review-more blockquote{margin:14px 0 0;font-size:0.95rem;line-height:1.65;color:var(--mg-ink-soft);}
 .mg-review figcaption{margin-top:auto;display:flex;align-items:center;gap:12px;padding-top:16px;border-top:1px solid var(--mg-line);}
 .mg-review-avatar{flex:none;width:40px;height:40px;border-radius:50%;background:var(--mg-ink);color:var(--mg-bg);
@@ -3227,3 +3240,23 @@ html.js .stagger{opacity:0;translate:0 14px;animation:ed-rise 0.7s var(--ease-ou
 /* Footer resources row */
 .footer-resources{margin-top:6px;}
 /* seo-pages:end */
+
+/* ---------- touch targets: keep links and controls at least 44px tall on phones, tablets and touch screens ---------- */
+@media (max-width:999px), (pointer:coarse){
+  .brand{min-height:44px;}
+  .btn-nav{min-height:44px;}
+  .ed-link{min-height:44px;margin-top:0;}
+  .portfolio-card figcaption a{display:inline-flex;align-items:center;min-height:44px;}
+  .mg-review-more summary{display:flex;align-items:center;min-height:44px;}
+  .footer-col{gap:0;}
+  .footer-col a,.footer-legal a,.footer-email{display:inline-flex;align-items:center;min-height:44px;}
+  .footer-col a{display:flex;}
+  .blog-card-hub,.blog-card-more,.faq-jump a,.badge-pill,.contact-details a[href^="mailto"]{display:inline-flex;align-items:center;min-height:44px;}
+  .blog-card h2 a,.blog-card h3 a{display:inline-block;padding:6px 0;}
+  .blog-pager-pages a{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;}
+}
+
+/* long button labels (for example "See the Digital Strategy Roadmap, $397") ran past the edge of a 340px phone because buttons never wrapped and the hero clips overflow; let them wrap and stay inside their column */
+@media (max-width:480px){
+  .btn{white-space:normal;max-width:100%;text-align:center;line-height:1.25;}
+}

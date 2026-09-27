@@ -80,6 +80,7 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 
 #### Digital Strategy Roadmap
 - Price: $397 (one-time)
+- Delivery: within 10 business days once everything needed to begin has been received. The project timeline begins only after all required content, information, files and access have been received. It does not start on the purchase date or first contact, and time spent waiting on the client (information, content, branding or assets, photos or files, logins or access, or other required materials) does not count. Confirmed by Marie on 2026-09-26. This clock-start rule applies to the Digital Strategy Roadmap only; it has not been extended to any other offer.
 - Includes: a map of how customers move across the website, search, Pinterest, email and tools; where they drop off today; a written 90-day plan with priorities; a walkthrough
 - Credit: the full $397 is credited toward the Complete Website & Brand Identity package if booked within 60 days
 - Checkout: https://buy.stripe.com/3cIeVe2mm5Xy9Feczo3VC09
@@ -94,7 +95,7 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 
 ## Site pages
 
-### Page: Web Design, Pinterest Marketing & SEO for Small Business
+### Page: Small Business Web Design, Pinterest & SEO
 
 URL: https://marieglowstudio.com/
 
@@ -326,7 +327,7 @@ A few lines about your business is plenty. I read every message myself and reply
 [Start the conversation](https://marieglowstudio.com/contact)
 hello@marieglowstudio.com
 
-### Page: Web Design, Pinterest & SEO Services for Small Business
+### Page: Web Design, Pinterest & SEO Services
 
 URL: https://marieglowstudio.com/services
 
@@ -457,7 +458,7 @@ The Pinterest SEO Audit reviews your Pinterest account, keywords, boards and pin
 
 **How fast do these services get delivered?**
 
-Audits and the roadmap typically take about a week. The Website Starter is live in about five business days. SEO Foundations Setup and the Complete Website & Brand Identity package usually take two to three weeks, depending on how much content you have ready.
+The Pinterest SEO Audit is delivered within 4 business days and the Website SEO Audit in about 7 business days. The Website Starter is live in about five business days from a completed intake. Pinterest Account Setup takes 10 to 15 business days after everything is received, and the Complete Website & Brand Identity package usually takes two to three weeks, depending on how quickly your photos and content arrive. The Digital Strategy Roadmap is within 10 business days once everything needed to begin has been received. Each service page lists its own timeline.
 
 Start here
 
@@ -468,7 +469,7 @@ A few lines about your business is plenty. I read every message myself and reply
 [Start the conversation](https://marieglowstudio.com/contact)
 hello@marieglowstudio.com
 
-### Page: Small Business Website Design: Shopify & Custom Sites
+### Page: Website Design: Shopify & Custom-Coded Sites
 
 URL: https://marieglowstudio.com/web-design
 
@@ -509,7 +510,7 @@ A cart and checkout flow that does not lose people between "add to cart" and "or
 
 Shopify means you can add products, run sales and check orders without calling a developer every time.
 
-Included in the Website Starter and the Complete Website & Brand Identity Package. [More on websites for product businesses →](https://marieglowstudio.com/for-product-businesses)
+A full Shopify store is part of the Complete Website & Brand Identity Package. The Website Starter is a one-page site with a buy button and no e-commerce. [More on websites for product businesses →](https://marieglowstudio.com/for-product-businesses)
 
 For service businesses
 
@@ -539,7 +540,7 @@ Whatever your customers already use to reach you, the site is wired to it so nob
 
 No monthly platform fee. A custom-coded site loads fast, and you host it wherever you like.
 
-Included in the Website Starter and the Complete Website & Brand Identity Package. [More on websites for service businesses →](https://marieglowstudio.com/for-service-businesses)
+The Website Starter is the one-page version. A multi-page custom-coded site is part of the Complete Website & Brand Identity Package. [More on websites for service businesses →](https://marieglowstudio.com/for-service-businesses)
 
 Where to start
 
@@ -641,7 +642,7 @@ Yes. Upgrade to the Complete Website & Brand Identity Package within 6 months of
 
 **Do you write the copy for my site?**
 
-You provide the copy for the Website Starter. The Complete Package can include copy support depending on the project. Either way, nothing goes live without your review.
+You provide the copy for the Website Starter. Copywriting is not included in the Website Starter. If you need copy help with the Complete Package, ask before you buy. Either way, nothing goes live without your review.
 
 **What if I sell products and also take bookings?**
 
@@ -791,7 +792,7 @@ You get a preview and one round of revisions before anything goes live.
 
 #### Launch
 
-Connected to your domain and live, hours of work rather than weeks of waiting.
+Connected to your domain and live.
 
 Who it’s for
 
@@ -951,7 +952,7 @@ Delivered as a reference you can hand to anyone helping with your marketing late
 
 Built to match, so your brand shows up consistent everywhere, not just on your homepage.
 
-Already have branding you want to keep? Say so during intake and the focus shifts fully to the website side.
+Already have branding you like? Say so during intake: your existing brand assets can inform the direction instead of being replaced from scratch.
 
 The website side
 
@@ -1015,9 +1016,9 @@ Your brand and site are designed and built from scratch around your business.
 
 - 04
 
-#### Review & revise
+#### Review & test
 
-A full review and testing pass, plus your revision round, before anything goes live.
+A full store or site review and testing pass before anything goes live.
 
 - 05
 
@@ -1078,7 +1079,7 @@ Branding and a full website, built together in one package, not pieced together 
 [Start your project for $1,497](https://buy.stripe.com/28E3cwgdc3Pq7x6czo3VC06)
 [See the Website Starter](https://marieglowstudio.com/website-starter)
 
-### Page: Pinterest Marketing Services for Small Business
+### Page: Pinterest Marketing for Small Business
 
 URL: https://marieglowstudio.com/pinterest-marketing
 
@@ -1141,7 +1142,7 @@ $197 one-time · no ongoing management included
 
 A business account created or rebuilt around your actual keywords, audience and offers: board strategy, competitor analysis, 10 custom pins, and a personalized 30-day launch plan.
 
-$497 one-time · delivered 10 to 15 business days after intake
+$497 one-time · delivered 10 to 15 business days after everything is received
 
 [Pinterest Account Setup details →](https://marieglowstudio.com/pinterest-account-setup)
 
@@ -1169,7 +1170,7 @@ Product businesses
 
 - Keyword-rich title and description
 
-- Rich Pin or catalog connection where the platform supports it
+- Rich Pin and catalog readiness check where the platform supports it
 
 - Traffic lands ready to browse and buy
 
@@ -1193,7 +1194,7 @@ Real accounts, real work
 
 #### Built and run on three Pinterest Verified Merchant accounts.
 
-Three shops run under this account setup, including Marie Gems, are Pinterest Verified Merchants, the platform’s own confirmation that an account meets its standards for a business selling real products. That same account and SEO discipline carries over to the service-business side of the work.
+Three shops run under this account setup, including [Marie Gems](https://mariegems.com), are Pinterest Verified Merchants, the platform’s own confirmation that an account meets its standards for a business selling real products. That same account and SEO discipline carries over to the service-business side of the work.
 
 [See the portfolio →](https://marieglowstudio.com/portfolio)
 
@@ -1452,7 +1453,7 @@ Pinterest Account Setup & SEO Optimization · One-Time, $497
 
 #### Start Pinterest on the foundation it should’ve had from day one.
 
-Whether you’re creating your first Pinterest business account or rebuilding one that was never set up strategically, this builds the account foundation around your business, audience, offers and the keywords your customers are actually searching. $497 one-time, delivered 10 to 15 business days after intake.
+Whether you’re creating your first Pinterest business account or rebuilding one that was never set up strategically, this builds the account foundation around your business, audience, offers and the keywords your customers are actually searching. $497 one-time, delivered 10 to 15 business days after all required information and account access are received.
 
 [Get your account set up for $497](https://buy.stripe.com/28E6oI9OOclWaJi42S3VC01)
 [All Pinterest Marketing services](https://marieglowstudio.com/pinterest-marketing)
@@ -1525,13 +1526,13 @@ Included
 
 #### Account, keywords and board strategy
 
-A created or optimized Pinterest business account with an SEO-focused profile, keyword research and competitor analysis specific to your business, content pillar development, and board strategy across up to 10 boards with cleanup and a branding review.
+A created or optimized Pinterest business account with an SEO-focused profile, keyword research and competitor analysis specific to your business, content pillar development, and board strategy across up to 10 boards.
 
 Included
 
 #### 10 pins, plus website and platform connection
 
-10 custom Pinterest pins with SEO titles, descriptions, alt text and UTM tracking, website connection support, a Shopify integration review and Rich Pin or catalog readiness check where that applies, merchant recommendations, a Tailwind setup review, and a personalized 30-day launch plan.
+10 custom Pinterest pins with SEO titles, descriptions, alt text and UTM tracking, website connection support, a store or website integration review, a Rich Pin and catalog readiness check where that applies, a Tailwind setup review, and a personalized 30-day launch plan.
 
 What it isn’t: ongoing posting. This builds the foundation. [Pinterest Management](https://marieglowstudio.com/pinterest-management) is what keeps it moving after setup.
 
@@ -1571,7 +1572,7 @@ Account, boards, keywords and pins, built around your business from day one, not
 
 [Get your account set up for $497](https://buy.stripe.com/28E6oI9OOclWaJi42S3VC01)
 
-### Page: Pinterest Management: Done-For-You Monthly Pinterest
+### Page: Done-For-You Pinterest Management
 
 URL: https://marieglowstudio.com/pinterest-management
 
@@ -1823,7 +1824,7 @@ Both. A product business is usually optimizing for searches like “handmade lav
 
 **What SEO services does Marie Glow Studio offer?**
 
-A Website SEO Audit for $247 that reviews your site and hands you a prioritized fix list, and an SEO Foundations Setup for $697 that implements the keyword map, on-page fixes, schema and local listings for up to 10 pages.
+A Website SEO Audit for $247 that reviews your site and hands you a prioritized fix list, and an SEO Foundations Setup for $697 that implements the keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, a sitemap, internal linking and Google Business Profile optimization for up to 10 pages.
 
 Start here
 
@@ -1933,7 +1934,7 @@ Pairs with
 
 #### SEO Foundations Setup, $697
 
-If you would rather the fix list get implemented instead of handed off, SEO Foundations Setup covers the keyword map, on-page fixes, schema, Search Console and Bing setup, sitemap, internal links and Google Business Profile optimization for up to 10 pages.
+If you would rather the fix list get implemented instead of handed off, SEO Foundations Setup covers the keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, sitemap, internal links and Google Business Profile optimization for up to 10 pages.
 
 [SEO Foundations Setup →](https://marieglowstudio.com/seo-foundations)
 
@@ -1961,7 +1962,7 @@ No. No honest audit can promise a ranking, since search engines and AI models we
 
 **Do you fix the problems for me?**
 
-This audit is the review and the plan, not the implementation. If you want the fixes done for you, the SEO Foundations Setup at $697 covers the keyword map, on-page fixes, schema, Search Console and Bing setup, sitemap, internal links and Google Business Profile optimization for up to 10 pages.
+This audit is the review and the plan, not the implementation. If you want the fixes done for you, the SEO Foundations Setup at $697 covers the keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, sitemap, internal links and Google Business Profile optimization for up to 10 pages.
 
 **Is this only for product businesses, or service businesses too?**
 
@@ -2099,7 +2100,7 @@ Pairs with
 
 #### Web Design & Development
 
-If your site itself needs rebuilding rather than optimizing, the Complete Website & Brand Identity package at $1,497 includes SEO-minded structure from the start.
+If your site itself needs rebuilding rather than optimizing, the Complete Website & Brand Identity package at $1,497 builds the full site and brand together.
 
 [Web design and development →](https://marieglowstudio.com/web-design)
 
@@ -2119,7 +2120,7 @@ It helps but is not required. The audit tells you what is wrong before anything 
 
 **What if my site has more than 10 pages?**
 
-Ten pages covers most small business sites: home, a handful of product, collection or service pages, about and contact. If your site is larger, tell me the page count when you reach out and I will quote the difference honestly before any work starts.
+Ten pages covers most small business sites: home, a handful of product, collection or service pages, about and contact. If your site has more pages, you choose the 10 that matter most and those are the pages covered.
 
 **Will this guarantee higher rankings?**
 
@@ -2333,7 +2334,7 @@ One-time, credited within 60 days
 
 10
 
-Business days to delivery
+Business days once everything is received
 
 90
 
@@ -2407,23 +2408,23 @@ Timeline
 
 #### Ten business days, then a plan you can act on.
 
-Every price is listed up front, and the timeline holds even if your accounts are messy. That is usually exactly what the roadmap is for.
+Your project timeline begins once all required content, information, files, and access have been received. Once everything needed to begin is provided, the standard turnaround is within 10 business days. Time spent waiting on information, files or access does not count toward the 10 business days.
 
 - 01
 
 #### Questionnaire and access
 
-You share view access and answer a short set of questions about your business and goals.
+You share view access and answer a short set of questions about your business and goals. Your timeline starts once everything needed to begin has been received.
 
 - 02
 
-#### Review, days 1 to 7
+#### Review
 
 Your website, search presence, Pinterest and email are reviewed as one connected system.
 
 - 03
 
-#### Roadmap delivered, by day 10
+#### Roadmap delivered, within 10 business days
 
 The written journey map and 90-day plan land in your inbox.
 
@@ -2461,7 +2462,7 @@ Access to view your website, Pinterest account and email platform analytics, plu
 
 **How long does it take?**
 
-Your roadmap is delivered within about 10 business days of your completed questionnaire, followed by a walkthrough call to go over the plan.
+Your project timeline begins once all required content, information, files, and access have been received. Once everything needed to begin is provided, the standard turnaround is within 10 business days. The written roadmap is followed by a walkthrough to go over the plan.
 
 **What happens after I get the roadmap?**
 
@@ -2579,7 +2580,7 @@ Real proof
 
 #### Shops I have built and run, not just designed.
 
-Marie Gems is my own shop, run on the same systems I build for clients. The other three are real client work, not concepts.
+[Marie Gems](https://mariegems.com) is my own shop, run on the same systems I build for clients. The other three are real client work, not concepts.
 
 Live · Our Shop
 
@@ -2906,7 +2907,7 @@ Pinterest design
 A sample of real, rendered pins from three different brands, each built around its own brand and its own reason for being on Pinterest.
 
 Marie Gems
-Marie Gems is Marie’s own DTF transfer and custom product shop. These pins send seasonal and everyday designs from the Marie Gems catalog straight to Pinterest search.
+[Marie Gems](https://mariegems.com) is Marie’s own DTF transfer and custom product shop. These pins send seasonal and everyday designs from the [Marie Gems](https://mariegems.com) catalog straight to Pinterest search.
 
 Marie Harvey
 Marie Harvey is Marie’s personal brand site, where she shares her small business journey alongside curated shopping lists. These pins carry her blog posts, recommendations and behind the scenes stories onto Pinterest.
@@ -3010,11 +3011,11 @@ Your $197 audit reviews profile name and bio, boards, keywords, existing pins, a
 
 **What is included in Pinterest Account Setup?**
 
-The $497 setup builds or rebuilds your account foundation: keyword research, profile optimization, an SEO-focused bio, board planning with optimized titles and descriptions, and a content direction to start from.
+The $497 setup builds or rebuilds your account foundation: keyword research and competitor analysis, an SEO-focused profile, content pillars, board strategy across up to 10 boards, 10 custom pins with SEO titles, descriptions, alt text and UTM tracking, and a 30-day launch plan.
 
 **What can Monthly Pinterest Management include?**
 
-Depending on the tier ($497, $797 or $1,097 a month), management can include keyword research, content planning, branded pin creation, SEO-focused titles and descriptions, alt text, scheduling, publishing, analytics review and strategy refinement.
+Depending on the tier ($497, $797 or $1,097 a month), every tier includes keyword research, content planning, custom branded pin graphics with SEO titles and descriptions, alt text, scheduling, board maintenance, a monthly analytics review, one revision round and email support. Higher tiers add pins per month and extras such as a monthly strategy call on Pro.
 
 **How quickly does Pinterest marketing work?**
 
@@ -3036,7 +3037,7 @@ The $697 SEO Foundations Setup covers up to 10 pages: a keyword map, titles and 
 
 **What is AEO, and do you do it?**
 
-AEO, answer engine optimization, is structuring a page so AI assistants like ChatGPT, Perplexity and Google’s AI answers can read and cite it clearly: schema markup, direct answers near the top of a page, and FAQ sections that match what people actually ask. It’s included in both the Website SEO Audit and SEO Foundations Setup.
+AEO, answer engine optimization, is structuring a page so AI assistants like ChatGPT, Perplexity and Google’s AI answers can read and cite it clearly: schema markup, direct answers near the top of a page, and FAQ sections that match what people actually ask. AI-search readiness is checked in the Website SEO Audit, and schema markup is part of SEO Foundations Setup.
 
 **Can you guarantee first-page rankings?**
 
@@ -3077,6 +3078,10 @@ Yes. No consultation or application is required for most services. Choose your s
 **What happens after I purchase?**
 
 You’ll receive instructions for completing an intake form and providing the information, brand assets or account access your service needs. Work begins once that information arrives.
+
+**How does payment work, and what if I need to cancel or get a refund?**
+
+Every paid service is bought through Stripe checkout, in U.S. dollars. One-time services, including the Complete Website & Brand Identity package, are non-refundable once work has begun. Monthly Pinterest Management has no minimum commitment and can be canceled at any time for future months; it is billed in advance and is non-refundable once work begins for that month. Current clients can update a card, see invoices or cancel through Manage Your Subscription in the footer. The full wording is in the [Terms of Service](https://marieglowstudio.com/terms-of-service).
 
 **Will you need access to my accounts?**
 

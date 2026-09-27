@@ -233,23 +233,24 @@
         <input class="hp-field" type="text" id="cf-hp" name="hp_company_url" tabindex="-1" autocomplete="off">
         <div class="form-field">
           <label for="cf-name">Name</label>
-          <input type="text" id="cf-name" name="name" required>
+          <input type="text" id="cf-name" name="name" autocomplete="name" required>
         </div>
         <div class="form-field">
           <label for="cf-email">Email Address</label>
-          <input type="email" id="cf-email" name="email" required>
+          <input type="email" id="cf-email" name="email" autocomplete="email" required>
         </div>
         <div class="form-field">
           <label for="cf-business">Business Name</label>
-          <input type="text" id="cf-business" name="business">
+          <input type="text" id="cf-business" name="business" autocomplete="organization">
         </div>
         <div class="form-field">
           <label for="cf-website">Website URL</label>
-          <input type="url" id="cf-website" name="website">
+          <input type="url" id="cf-website" name="website" autocomplete="url" inputmode="url">
         </div>
         <div class="form-field is-full">
           <label for="cf-interest">Service Interest</label>
           <select id="cf-interest" name="interest">
+            <option>Not Sure Yet</option>
             <option>Pinterest SEO Audit</option>
             <option>Website SEO Audit</option>
             <option>Website Starter</option>
@@ -258,7 +259,6 @@
             <option>Pinterest Management</option>
             <option>SEO Foundations Setup</option>
             <option>Complete Website &amp; Brand Identity</option>
-            <option>Not Sure Yet</option>
           </select>
         </div>
         <div class="form-field is-full">
