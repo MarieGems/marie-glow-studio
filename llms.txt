@@ -45,7 +45,7 @@ Blog posts live at https://marieglowstudio.com/blog/ and each post is at https:/
 - [Branding and Launching](https://marieglowstudio.com/blog/category/branding-and-launching): Cohesive branding, brand trust and product launch basics for physical and digital product businesses.
 - [Email Marketing](https://marieglowstudio.com/blog/category/email-marketing): Building an email list, lead magnets, welcome sequences and how email works alongside Pinterest.
 - [Behind the Brand](https://marieglowstudio.com/blog/category/behind-the-brand): The story behind Marie Glow Studio: starting a product business from home, burnout, motherhood and why Pinterest is still a favorite.
-- [SEO and Search Visibility](https://marieglowstudio.com/blog/category/seo-and-search-visibility): Website SEO, local SEO, Google Business Profile and answer-engine optimization, so product and service businesses show up when people search on Google and ask AI tools.
+- [SEO and Search Visibility](https://marieglowstudio.com/blog/category/seo-and-search-visibility): Website SEO, local SEO, Google Business Profile and answer-engine optimization, so product and service businesses are easier to find and understand when people search on Google and ask AI tools.
 - [Digital Strategy](https://marieglowstudio.com/blog/category/digital-strategy): How the website, search, Pinterest, email and booking tools work together, and how a small business decides what to fix first.
 <!-- blog:end -->
 

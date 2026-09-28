@@ -256,10 +256,19 @@ document.addEventListener('partials:loaded', function(){
   var scroller = document.getElementById('portfolio-scroller');
   if (scroller) {
     scroller.style.setProperty('--pf-steps', String(total - 1));
+    var sticky = scroller.querySelector('.portfolio-sticky');
+    var wide = window.matchMedia('(min-width:960px)');
+    // Below 960px the pinned block is only as tall as the deck, so the scroller is sized from it (see style.css).
+    var measure = function(){
+      if (sticky && !wide.matches) scroller.style.setProperty('--pf-sticky-h', sticky.offsetHeight + 'px');
+    };
+    measure();
+    window.addEventListener('resize', measure);
+    window.addEventListener('load', measure);
     var onScrollReveal = function(){
       if (dragging) return;
       var rect = scroller.getBoundingClientRect();
-      var scrollable = rect.height - window.innerHeight;
+      var scrollable = rect.height - (wide.matches || !sticky ? window.innerHeight : sticky.offsetHeight);
       if (scrollable <= 0) return;
       var progress = Math.max(0, Math.min(1, -rect.top / scrollable));
       var idx = Math.round(progress * (total - 1));
@@ -269,6 +278,33 @@ document.addEventListener('partials:loaded', function(){
     window.addEventListener('resize', onScrollReveal);
     onScrollReveal();
   }
+})();
+
+// ---------- blog: "Filter by topic" disclosure (phones) ----------
+// The topic links are plain <a> tags in the HTML (crawlable, work without JS). On a phone this collapses them behind a
+// button so posts start higher on the screen; style.css only shows the button below 760px. Selecting a topic is a normal
+// link click, so the new page loads with the menu collapsed again.
+(function(){
+  var wrap = document.querySelector('.blog-chips-wrap');
+  var toggle = wrap && wrap.querySelector('.blog-topics-toggle');
+  if (!toggle) return;
+  wrap.classList.add('is-collapsible');
+  function setOpen(open, returnFocus){
+    wrap.classList.toggle('is-open', open);
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (!open && returnFocus) toggle.focus();
+  }
+  toggle.addEventListener('click', function(){ setOpen(toggle.getAttribute('aria-expanded') !== 'true'); });
+  wrap.addEventListener('keydown', function(e){
+    if (e.key === 'Escape' && wrap.classList.contains('is-open')) { setOpen(false, true); }
+  });
+  wrap.addEventListener('focusout', function(e){
+    // keyboard focus moved to something outside the menu: collapse it
+    if (wrap.classList.contains('is-open') && e.relatedTarget && !wrap.contains(e.relatedTarget)) setOpen(false);
+  });
+  document.addEventListener('click', function(e){
+    if (wrap.classList.contains('is-open') && !wrap.contains(e.target)) setOpen(false);
+  });
 })();
 
 // ---------- partials are stamped into the HTML at build time (marie-glow-studio-blog/scripts/build-pages.mjs) ----------

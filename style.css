@@ -1332,7 +1332,10 @@ html.js .objection-card.in svg{transform:scale(1) rotate(0deg);}
 .portfolio-scroller{
   position:relative;
   padding:0 clamp(20px,5vw,48px);
-  height:calc(100vh + var(--pf-steps, 6) * 42vh);
+  /* Phones and tablets: the pinned area is exactly as tall as the deck (main.js writes its real height into
+     --pf-sticky-h). It used to be a full 100vh, so once the pin released the deck sat ~230px above the end of the
+     scroller and the section ended with a big empty gap before "Client Work". */
+  height:calc(var(--pf-sticky-h, 614px) + var(--pf-steps, 6) * 42vh);
 }
 .portfolio-sticky{
   display:flex;
@@ -1340,7 +1343,7 @@ html.js .objection-card.in svg{transform:scale(1) rotate(0deg);}
   justify-content:center;
   position:sticky;
   top:0;
-  height:100vh;
+  height:auto;
   overflow:visible;
   padding-top:88px; /* the sticky nav is 72px tall on phones and tablets; without this the top of the front card slid under it */
 }
@@ -1791,6 +1794,8 @@ html.js .faq-list .faq-item:nth-child(11){transition-delay:0.4s;}
   font-size:0.96rem;
   max-width:56ch;
 }
+.faq-item .faq-answer a{color:var(--mg-plum-dark);font-weight:600;text-decoration-color:rgba(94,53,150,0.4);text-underline-offset:3px;}
+.faq-item .faq-answer a:hover{color:var(--mg-ink);text-decoration-color:currentColor;}
 .faq-body{display:contents;}
 .faq-cta{display:none;}
 
@@ -2777,6 +2782,33 @@ html.js .hero-photo{transition:transform 0.35s ease, box-shadow 0.35s ease;}
 .blog-chip:hover,.blog-chip:focus-visible{border-color:var(--mg-plum);color:var(--mg-plum-dark);}
 .blog-chip[aria-current="page"]{background:var(--mg-plum-dark);border-color:var(--mg-plum-dark);color:var(--mg-white);}
 .blog-empty{text-align:center;color:var(--mg-ink-soft);padding:32px 0;}
+/* "Filter by topic" disclosure: phones only, and only once main.js has added .is-collapsible. Without JS (or on wider
+   screens) the toggle stays hidden and the full chip row shows as before. */
+.blog-topics-toggle{display:none;}
+@media (max-width:759px){
+  .blog-chips-wrap.is-collapsible{max-width:460px;margin-left:auto;margin-right:auto;}
+  .is-collapsible .blog-topics-toggle{
+    display:flex;align-items:center;gap:10px;width:100%;min-height:48px;padding:10px 16px;
+    font-family:var(--font-head);font-size:0.9rem;font-weight:600;color:var(--mg-ink);text-align:left;
+    background:var(--mg-white);border:1px solid var(--mg-line);border-radius:14px;cursor:pointer;
+  }
+  .is-collapsible .blog-topics-toggle:hover{border-color:var(--mg-plum);}
+  .is-collapsible .blog-topics-toggle:focus-visible{outline:3px solid var(--mg-plum-dark);outline-offset:2px;}
+  .blog-topics-label{font-family:var(--font-mono);font-size:0.7rem;font-weight:500;letter-spacing:0.12em;text-transform:uppercase;color:var(--mg-ink-soft);white-space:nowrap;}
+  .blog-topics-current{flex:1 1 auto;min-width:0;color:var(--mg-plum-dark);overflow-wrap:anywhere;}
+  .blog-topics-chevron{flex:none;transition:transform 0.2s ease;}
+  .is-collapsible.is-open .blog-topics-chevron{transform:rotate(180deg);}
+  .is-collapsible .blog-chips{display:none;margin-top:8px;padding:6px;background:var(--mg-white);border:1px solid var(--mg-line);border-radius:14px;}
+  .is-collapsible.is-open .blog-chips{display:flex;flex-direction:column;flex-wrap:nowrap;align-items:stretch;gap:2px;}
+  .is-collapsible .blog-chip{
+    display:flex;width:100%;min-height:44px;padding:10px 12px;border:0;border-radius:10px;background:transparent;
+    font-size:0.86rem;letter-spacing:0.03em;text-transform:none;color:var(--mg-ink);
+  }
+  .is-collapsible .blog-chip:hover,.is-collapsible .blog-chip:focus-visible{background:var(--mg-lilac);color:var(--mg-ink);}
+  .is-collapsible .blog-chip:focus-visible{outline:2px solid var(--mg-plum-dark);outline-offset:-2px;}
+  .is-collapsible .blog-chip[aria-current="page"]{background:var(--mg-lilac);color:var(--mg-plum-dark);font-weight:700;}
+  .is-collapsible .blog-chip[aria-current="page"]::after{content:"\2713";margin-left:auto;padding-left:12px;}
+}
 
 .blog-grid{
   display:grid;
@@ -2957,6 +2989,11 @@ html.js .stagger{opacity:0;translate:0 14px;animation:ed-rise 0.7s var(--ease-ou
   font-family:var(--font-mono);font-size:0.75rem;color:var(--mg-gold-deep);
 }
 .journey-fit{color:var(--mg-ink-soft);font-size:0.92rem;}
+@media (max-width:480px){
+  /* 30px side padding plus the 44px step gutter left the step text a ~170px column at 320px wide */
+  .journey-card{padding:26px 20px;}
+  .journey-steps li{padding-left:36px;}
+}
 
 /* ---------- portfolio heading on the marquee ---------- */
 .proof-section .ed-head-row{margin-bottom:36px;}
@@ -3074,6 +3111,12 @@ html.js .stagger{opacity:0;translate:0 14px;animation:ed-rise 0.7s var(--ease-ou
 }
 /* photo hero: the video hero layout with a still image, used on every inner page */
 .ed-hero-photo{min-height:min(76vh,680px);}
+/* Phones: the inner-page hero is only as tall as its copy. The 76vh floor left ~170px of empty picture under the
+   text on every inner page (Contact, Intake, FAQs...), which read as a big blank gap before the first section. */
+@media (max-width:699px){
+  .ed-hero-photo{min-height:0;}
+  .ed-hero-video.ed-hero-photo .ed-hero-copy{padding:48px 0 56px;}
+}
 .ed-hero-photo .hero-video{object-position:50% 50%;}
 @media (min-width:700px){
   .ed-hero-photo .hero-video-wrap{left:47%;}

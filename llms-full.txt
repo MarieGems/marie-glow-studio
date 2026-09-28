@@ -10,6 +10,8 @@ This is the long companion to https://marieglowstudio.com/llms.txt. It holds the
 
 Source: https://marieglowstudio.com/pricing.md
 
+# Pricing: Marie Glow Studio
+
 Marie Glow Studio is a digital studio in Wichita, KS that helps product and service small businesses with web design and development, Pinterest marketing, SEO and digital strategy. All prices in USD. Every price is also listed on its own service page at https://marieglowstudio.com/services.
 
 ### Web Design & Development
@@ -143,7 +145,7 @@ What your website is for
 
 #### Easier to find
 
-You show up on Google, on Pinterest and in AI answers when someone searches for what you sell or the service you offer, including the searches that end in “near me.”
+You are easier to find on Google and Pinterest, and easier for AI tools to understand, when someone searches for what you sell or the service you offer, including the searches that end in “near me.”
 
 - 02
 
@@ -315,7 +317,7 @@ No. Most businesses start with the one piece that is holding them back the most,
 
 **How much does it cost to work with Marie Glow Studio?**
 
-Audits start at $197 for Pinterest and $247 for website SEO. The Website Starter is $249, SEO Foundations Setup is $697, and the Complete Website and Brand Identity package is $1,497. Monthly Pinterest management runs $497 to $1,097. Every price is listed on its service page.
+Audits start at $197 for Pinterest and $247 for website SEO. The [Website Starter](https://marieglowstudio.com/website-starter) is $249, [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) is $697, and the [Complete Website and Brand Identity package](https://marieglowstudio.com/complete-website-package) is $1,497. Monthly Pinterest management runs $497 to $1,097. Every price is listed on its service page.
 
 **Do you only work with businesses in Wichita?**
 
@@ -338,7 +340,7 @@ Home · Services
 
 #### Four services. One connected journey.
 
-Marie Glow Studio helps small product and service businesses with web design and development, Pinterest marketing, SEO and digital strategy. Pinterest brings people in, SEO helps Google, Bing and AI answers find you, your website turns that traffic into buyers or clients, and strategy is the map that connects all three. Every price is listed here, from $197 to $1,497.
+Marie Glow Studio helps small product and service businesses with web design and development, Pinterest marketing, SEO and digital strategy. Pinterest brings people in, SEO makes your business easier for Google, Bing and AI tools to understand, your website turns that traffic into buyers or clients, and strategy is the map that connects all three. Every price is listed here, from $197 to $1,497.
 
 [Tell me about your business](https://marieglowstudio.com/contact)
 See every price
@@ -449,7 +451,7 @@ Questions
 
 **Where do I start if I need everything?**
 
-Start with the Digital Strategy Roadmap or one of the two audits. Both are built to show you exactly which service will move the needle first, so you are not guessing or buying everything at once.
+Start with the [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) or one of the two audits. Both are built to show you exactly which service will move the needle first, so you are not guessing or buying everything at once.
 
 **Do the four services have to be bought together?**
 
@@ -457,11 +459,11 @@ No. Most people start with one piece, usually a website or an audit, and add the
 
 **What is the difference between the two audits?**
 
-The Pinterest SEO Audit reviews your Pinterest account, keywords, boards and pins. The Website SEO Audit reviews your website itself: technical health, on-page SEO, local SEO and AI-search readiness. Many businesses need both, but they solve different problems.
+The [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) reviews your Pinterest account, keywords, boards and pins. The [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) reviews your website itself: technical health, on-page SEO, local SEO and AI-search readiness. Many businesses need both, but they solve different problems.
 
 **How fast do these services get delivered?**
 
-The Pinterest SEO Audit is delivered within 4 business days and the Website SEO Audit in about 7 business days. The Website Starter is live in about five business days from a completed intake. Pinterest Account Setup takes 10 to 15 business days after everything is received, and the Complete Website & Brand Identity package usually takes two to three weeks, depending on how quickly your photos and content arrive. The Digital Strategy Roadmap is within 10 business days once everything needed to begin has been received. Each service page lists its own timeline.
+The [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) is delivered within 4 business days and the [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) in about 7 business days. The [Website Starter](https://marieglowstudio.com/website-starter) is live in about five business days from a completed intake. [Pinterest Account Setup](https://marieglowstudio.com/pinterest-account-setup) takes 10 to 15 business days after everything is received, and the [Complete Website & Brand Identity package](https://marieglowstudio.com/complete-website-package) usually takes two to three weeks, depending on how quickly your photos and content arrive. The [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) is within 10 business days once everything needed to begin has been received. Each service page lists its own timeline, and [this post explains why a website is not a one-day project](https://marieglowstudio.com/blog/can-a-website-be-built-in-a-day).
 
 Start here
 
@@ -571,7 +573,7 @@ Once the site is live
 
 #### A website only works if people actually find it.
 
-SEO gets you into Google, Bing and AI answers. Digital Strategy connects your website, search and Pinterest into one plan instead of three separate guesses.
+SEO makes your site easier for Google, Bing and AI tools to understand. Digital Strategy connects your website, search and Pinterest into one plan instead of three separate guesses.
 
 Search visibility
 
@@ -637,15 +639,19 @@ No. Shopify is the right platform for an online store, so product businesses bui
 
 **How do I know if I need the Starter or the Complete Package?**
 
-Start with the Website Starter at $249 if you need one clear, professional page live fast, no e-commerce required. Move to the Complete Website & Brand Identity Package at $1,497 if you are launching or relaunching a full store or a multi-page service site with branding included.
+Start with the [Website Starter](https://marieglowstudio.com/website-starter) at $249 if you need one clear, professional page live fast, no e-commerce required. Move to the [Complete Website & Brand Identity Package](https://marieglowstudio.com/complete-website-package) at $1,497 if you are launching or relaunching a full store or a multi-page service site with branding included.
 
 **Can I upgrade from the Starter later?**
 
-Yes. Upgrade to the Complete Website & Brand Identity Package within 6 months of your Starter purchase and $100 of what you paid is credited toward it.
+Yes. Upgrade to the [Complete Website & Brand Identity Package](https://marieglowstudio.com/complete-website-package) within 6 months of your Starter purchase and $100 of what you paid is credited toward it.
 
 **Do you write the copy for my site?**
 
-You provide the copy for the Website Starter. Copywriting is not included in the Website Starter. If you need copy help with the Complete Package, ask before you buy. Either way, nothing goes live without your review.
+You provide the copy for the [Website Starter](https://marieglowstudio.com/website-starter). Copywriting is not included in the Website Starter. If you need copy help with the Complete Package, ask before you buy. Either way, nothing goes live without your review.
+
+**Can’t I just build my website with AI?**
+
+You can, and I use AI myself. The real question is whether you want to make every decision it needs to get right: who the site is for, what visitors should see first, how it shows up in search and how it works on a phone. I use AI as a tool; my work is the strategy, direction, editing and quality control around it. If you would rather do it yourself, go for it. If you get stuck wondering whether you are building the right thing, that is where the [Website Starter](https://marieglowstudio.com/website-starter) and Complete Website Package come in. The longer answer is here: [can AI build a website?](https://marieglowstudio.com/blog/can-ai-build-a-website)
 
 **What if I sell products and also take bookings?**
 
@@ -845,7 +851,7 @@ No, it is designed and built from scratch around your branding, content, colors 
 
 **Can I add more pages?**
 
-The Starter itself is one page, but you can add extra pages individually for $79 each. Need a full multi-page site from the start? Move into the Complete Website & Brand Identity Package instead.
+The Starter itself is one page, but you can add extra pages individually for $79 each. Need a full multi-page site from the start? Move into the [Complete Website & Brand Identity Package](https://marieglowstudio.com/complete-website-package) instead.
 
 **How long will it take?**
 
@@ -861,7 +867,7 @@ Not included in the Starter. You provide the copy. Ask about copywriting separat
 
 **Can I sell products through this website?**
 
-Not with the Starter. It is static HTML, not a store. If you need e-commerce, the Complete Website & Brand Identity Package sets you up on Shopify instead.
+Not with the Starter. It is static HTML, not a store. If you need e-commerce, the [Complete Website & Brand Identity Package](https://marieglowstudio.com/complete-website-package) sets you up on Shopify instead.
 
 **Can I take bookings or quote requests through this website?**
 
@@ -881,11 +887,11 @@ You get static files you can host on your own domain, GitHub Pages, Netlify, or 
 
 **Can I upgrade later?**
 
-Yes. Upgrade to the $1,497 Complete Website & Brand Identity Package within 6 months of your Starter purchase and $100 of what you paid is credited toward it.
+Yes. Upgrade to the $1,497 [Complete Website & Brand Identity Package](https://marieglowstudio.com/complete-website-package) within 6 months of your Starter purchase and $100 of what you paid is credited toward it.
 
 **I only need help with Pinterest, not a website, is that here too?**
 
-Start with the [$197 Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) instead, a full account audit and a ranked 30-day plan.
+Yes, Pinterest is one of the four services here, just not part of the Starter. If you already have an account, start with the $197 [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit), a full account review and a ranked 30-day plan. For a new account or ongoing help, see [Pinterest Account Setup](https://marieglowstudio.com/pinterest-account-setup) and [Pinterest Management](https://marieglowstudio.com/pinterest-management).
 
 Start here
 
@@ -1057,7 +1063,7 @@ For a Shopify build, up to 20 items are included in the setup: titles, descripti
 
 **How long does it take?**
 
-Roughly 2 to 3 weeks, depending on how quickly you can provide photos and content.
+Roughly 2 to 3 weeks, depending on how quickly you can provide photos and content. That covers branding, the full site build, testing and your feedback. If you are wondering why a website is not a one-day project, [here is why](https://marieglowstudio.com/blog/can-a-website-be-built-in-a-day).
 
 **Is this refundable?**
 
@@ -1065,7 +1071,7 @@ No, it is a personalized digital service, non-refundable once work begins.
 
 **Can this credit toward a Digital Strategy Roadmap I already bought?**
 
-Yes. If you book the Complete Website & Brand Identity Package within 60 days of your Digital Strategy Roadmap, the $397 you paid for the Roadmap is credited toward this package.
+Yes. If you book the Complete Website & Brand Identity Package within 60 days of your [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap), the $397 you paid for the Roadmap is credited toward this package.
 
 Ready to build
 
@@ -1273,7 +1279,7 @@ No. Pinterest works for any business someone plans ahead for, which is most serv
 
 **Do I need a Pinterest business account?**
 
-Yes, it is what gives you access to analytics and Pinterest’s business features. Pinterest Account Setup is available if you do not have one yet.
+Yes, it is what gives you access to analytics and Pinterest’s business features. [Pinterest Account Setup](https://marieglowstudio.com/pinterest-account-setup) is available if you do not have one yet.
 
 **Can I purchase without a consultation?**
 
@@ -1686,7 +1692,7 @@ Home · Services · SEO
 
 #### Small business SEO that’s built to be found, not just pretty.
 
-SEO here means three things: your website performing well in Google and Bing, your business showing up in local and “near me” searches, and AI assistants like ChatGPT and Claude being able to find and quote you correctly. No ranking guarantees, ever, just the technical and content work that removes what’s holding you back. Starting at $247.
+SEO here means three things: your website performing well in Google and Bing, your business showing up in local and “near me” searches, and AI assistants like ChatGPT and Claude being able to understand and describe you accurately. No ranking guarantees and no promise of AI mentions, ever, just the technical and content work you control that removes what’s holding you back. Starting at $247.
 
 [Get the Website SEO Audit, $247](https://marieglowstudio.com/website-seo-audit)
 [See SEO Foundations Setup](https://marieglowstudio.com/seo-foundations)
@@ -1711,9 +1717,9 @@ Your Google Business Profile, Google Maps listing and NAP (name, address, phone)
 
 - 03
 
-#### Answer-engine optimization: can AI find and quote you correctly?
+#### Answer-engine optimization: can AI understand you correctly?
 
-Schema markup, FAQ content written the way people actually ask questions, and one consistent set of facts about your business, so tools like ChatGPT, Claude and Gemini describe you accurately instead of guessing.
+Schema markup, FAQ content written the way people actually ask questions, and one consistent set of facts about your business, so tools like ChatGPT, Claude and Gemini have accurate information to work from instead of guessing. No one controls what an AI tool says, so the work stays with what you do control: structured content, consistent facts across the web, local signals, and Search Console and Bing set up so you can see how you show up.
 
 Who this is for
 
@@ -1805,7 +1811,7 @@ Questions
 
 **Will SEO get my website to the top of Google?**
 
-No one can honestly promise that, and any studio that does is overselling you. What SEO work can do is fix the technical and content problems that are actively keeping you out of search results and AI answers, so you are competing on a level field instead of an uneven one.
+No one can honestly promise that, and any studio that does is overselling you. What SEO work can do is fix the technical and content problems that are actively making your site hard for search engines and AI tools to understand, so you are competing on a level field instead of an uneven one.
 
 **What is local SEO, and do I need it?**
 
@@ -1813,7 +1819,7 @@ Local SEO is the set of signals, like your Google Business Profile, map listing 
 
 **What is answer-engine optimization, or AEO?**
 
-AEO is making it easy for AI assistants like ChatGPT, Claude and Gemini to understand and quote your business correctly. That means clear schema markup, FAQ content written in plain language, and consistent facts about who you are and what you do across your site.
+AEO is making it easy for AI assistants like ChatGPT, Claude and Gemini to understand and quote your business correctly. That means clear schema markup, FAQ content written in plain language, and consistent facts about who you are and what you do across your site. It is part of the SEO work here: the [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) checks your AI-search readiness, and [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) puts schema markup in place. Nobody can guarantee an AI tool will cite you. For the full breakdown, see [SEO vs AEO vs GEO](https://marieglowstudio.com/blog/seo-vs-aeo-vs-geo).
 
 **Do you only work with product businesses, or service businesses too?**
 
@@ -1821,7 +1827,7 @@ Both. A product business is usually optimizing for searches like “handmade lav
 
 **What SEO services does Marie Glow Studio offer?**
 
-A Website SEO Audit for $247 that reviews your site and hands you a prioritized fix list, and an SEO Foundations Setup for $697 that implements the keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, a sitemap, internal linking and Google Business Profile optimization for up to 10 pages.
+A [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) for $247 that reviews your site and hands you a prioritized fix list, and an [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) for $697 that implements the keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, a sitemap, internal linking and Google Business Profile optimization for up to 10 pages.
 
 Start here
 
@@ -1891,7 +1897,7 @@ Your Google Business Profile, NAP (name, address, phone) consistency, and the lo
 
 #### AEO / AI-search readiness
 
-Schema markup, FAQ structure and entity clarity, so AI assistants like ChatGPT and Claude can find and describe your business correctly.
+Schema markup, FAQ structure and entity clarity, so AI assistants like ChatGPT and Claude have clear, accurate information about your business. Nothing can promise a mention, so this focuses on what you control.
 
 Getting started
 
@@ -1951,7 +1957,7 @@ Questions
 
 **What exactly do I get for $247?**
 
-A technical crawl check (speed, mobile usability, indexing, broken links, sitemap and robots.txt), an on-page review (titles, headings, meta descriptions, internal links), a local SEO check (Google Business Profile, NAP consistency, local keywords), and an AI-search readiness review (schema, FAQ structure, entity clarity). Everything is written up as one prioritized fix list, delivered within about 7 business days.
+A technical crawl check (speed, mobile usability, indexing, broken links, sitemap and robots.txt), an on-page review (titles, headings, meta descriptions, internal links), a local SEO check (Google Business Profile, NAP consistency, local keywords), and an AI-search readiness review ([schema](https://marieglowstudio.com/blog/what-is-schema-markup), FAQ structure, entity clarity). Everything is written up as one prioritized fix list, delivered within about 7 business days.
 
 **Will this guarantee my site ranks higher?**
 
@@ -1959,7 +1965,7 @@ No. No honest audit can promise a ranking, since search engines and AI models we
 
 **Do you fix the problems for me?**
 
-This audit is the review and the plan, not the implementation. If you want the fixes done for you, the SEO Foundations Setup at $697 covers the keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, sitemap, internal links and Google Business Profile optimization for up to 10 pages.
+This audit is the review and the plan, not the implementation. If you want the fixes done for you, the [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) at $697 covers the keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, sitemap, internal links and Google Business Profile optimization for up to 10 pages.
 
 **Is this only for product businesses, or service businesses too?**
 
@@ -2109,7 +2115,7 @@ Questions
 
 **What exactly is included for $697?**
 
-A keyword map for your site, titles and meta descriptions rewritten for up to 10 pages, schema markup, Google Search Console and Bing Webmaster Tools setup, a sitemap, internal linking between your pages, and Google Business Profile optimization if you have a local or service-area business.
+A keyword map for your site, titles and meta descriptions rewritten for up to 10 pages, [schema markup](https://marieglowstudio.com/blog/what-is-schema-markup), Google Search Console and Bing Webmaster Tools setup, a sitemap, internal linking between your pages, and Google Business Profile optimization if you have a local or service-area business.
 
 **Do I need the Website SEO Audit first?**
 
@@ -2121,7 +2127,7 @@ Ten pages covers most small business sites: home, a handful of product, collecti
 
 **Will this guarantee higher rankings?**
 
-No. No one can guarantee a ranking, and this setup will not promise one. It gives your site the technical and on-page foundation search engines and AI assistants need to understand and surface you correctly, which is the groundwork every ranking depends on.
+No. No one can guarantee a ranking, and this setup will not promise one. It gives your site the technical and on-page foundation search engines and AI assistants need to understand you correctly, which is the groundwork every ranking depends on.
 
 **What platform does this work on?**
 
@@ -2177,7 +2183,7 @@ The destination. Where someone finally decides yes or no, so it has to load fast
 
 #### Search
 
-How Google, Bing and AI answers find and describe you. If your pages do not answer the actual question someone typed, they never get this far.
+How Google, Bing and AI tools can find and describe you. If your pages do not answer the actual question someone typed, they never get this far.
 
 - 03
 
@@ -2467,7 +2473,7 @@ You can implement it yourself, hand pieces of it to your own team, or book the m
 
 **Is the $397 credited toward anything?**
 
-Yes. If you book the Complete Website and Brand Identity package within 60 days of your roadmap, the full $397 is credited toward that $1,497 project.
+Yes. If you book the [Complete Website and Brand Identity package](https://marieglowstudio.com/complete-website-package) within 60 days of your roadmap, the full $397 is credited toward that $1,497 project.
 
 **Do you only recommend your own services in the plan?**
 
@@ -2625,15 +2631,15 @@ For a product business selling online, Shopify is usually the right platform, an
 
 **I already have a Shopify store. Can you improve it instead of rebuilding it?**
 
-Yes. A Website SEO Audit or a Digital Strategy Roadmap can find the specific pages or steps that are costing you sales without a full rebuild. Many product businesses only need one or two things fixed, not a new site.
+Yes. A [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) or a [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) can find the specific pages or steps that are costing you sales without a full rebuild. Many product businesses only need one or two things fixed, not a new site.
 
 **What is the smallest way to start?**
 
-The $249 Website Starter is the smallest full build. If you already have a site, the $197 Pinterest SEO Audit or $247 Website SEO Audit are smaller starting points that come with a written, ranked fix list.
+The $249 [Website Starter](https://marieglowstudio.com/website-starter) is the smallest full build. If you already have a site, the $197 [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) or $247 [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) are smaller starting points that come with a written, ranked fix list.
 
 **Do you help with the Pinterest side too, or only the website?**
 
-Both, and they are meant to work together. Pinterest sends the discovery traffic; the website has to be ready to turn it into a purchase. Pinterest Account Setup is $497 and monthly Management runs from $497.
+Both, and they are meant to work together. Pinterest sends the discovery traffic; the website has to be ready to turn it into a purchase. [Pinterest Account Setup](https://marieglowstudio.com/pinterest-account-setup) is $497 and monthly Management runs from $497.
 
 Start here
 
@@ -2771,11 +2777,11 @@ Yes. The site links out to or embeds whatever booking, scheduling or quote tool 
 
 **I only have one location. Is local SEO worth it?**
 
-Usually, yes. Most service businesses win or lose the first search on local signals: your Google Business Profile, reviews and a service page that clearly names what you do and where. SEO Foundations Setup covers this for up to 10 pages.
+Usually, yes. Most service businesses win or lose the first search on local signals: your Google Business Profile, reviews and a service page that clearly names what you do and where. [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) covers this for up to 10 pages.
 
 **Some of your portfolio says concept build. What does that mean?**
 
-A concept build is a site design I built to show what a real rebuild could look like, for a business that has not commissioned the work. RSKIN Studio, Spiker Heating and Air, and Rainbowstar Productions are concept builds, clearly labeled wherever they are shown.
+A concept build is a site design I built to show what a real rebuild could look like, for a business that has not commissioned the work. RSKIN Studio, Spiker Heating and Air, and Rainbowstar Productions are concept builds, clearly labeled wherever they are shown in the [portfolio](https://marieglowstudio.com/portfolio).
 
 Start here
 
@@ -2974,19 +2980,23 @@ No. Shopify is one option, and it is usually the right one for an online store. 
 
 **What is included in the Website Starter?**
 
-The Website Starter, $249, is one professional page shaped around your business: a shop or a service, with the buy button, booking link or quote form that fits how your customers say yes. It is live in about five business days.
+The [Website Starter](https://marieglowstudio.com/website-starter), $249, is one professional page shaped around your business: a shop or a service, with the buy button, booking link or quote form that fits how your customers say yes. It is live in about five business days.
 
 **What is included in the Complete Website & Brand Identity package?**
 
-The Complete Website & Brand Identity package, $1,497, is full branding plus a multi-page site, built on Shopify for a store or custom-coded for a service business. It includes the visual identity work a single-page Starter site doesn’t need.
+The [Complete Website & Brand Identity package](https://marieglowstudio.com/complete-website-package), $1,497, is full branding plus a multi-page site, built on Shopify for a store or custom-coded for a service business. It includes the visual identity work a single-page Starter site doesn’t need.
 
 **Do you redesign existing websites, or only build new ones?**
 
 Both. A redesign follows the same process as a new build: research and strategy first, then design. Existing content, branding and SEO work that is still working gets carried forward instead of thrown out.
 
+**Can’t I just build my website with AI?**
+
+You can, and I use AI myself. The real question is whether you want to make every decision it needs to get right: who the site is for, what visitors should see first, how it shows up in search and how it works on a phone. I use AI as a tool; my work is the strategy, direction, editing and quality control around it. If you would rather do it yourself, go for it. If you get stuck wondering whether you are building the right thing, that is where the [Website Starter](https://marieglowstudio.com/website-starter) and Complete Website Package come in. The longer answer is here: [can AI build a website?](https://marieglowstudio.com/blog/can-ai-build-a-website)
+
 **How long does a website take?**
 
-A Website Starter is typically live in about five business days. A Complete Website & Brand Identity project takes longer, since it includes branding and multiple pages, and the exact timeline depends on how quickly your content, photos and feedback arrive.
+A [Website Starter](https://marieglowstudio.com/website-starter) is typically live in about five business days from a completed intake. A [Complete Website & Brand Identity](https://marieglowstudio.com/complete-website-package) project usually takes roughly two to three weeks, since it includes branding and multiple pages. Both depend on how quickly your content, photos and feedback arrive. Wondering why I do not promise a website in a day? Here is the honest answer: [can a website really be built in a day?](https://marieglowstudio.com/blog/can-a-website-be-built-in-a-day)
 
 Pinterest
 
@@ -3000,7 +3010,7 @@ Pinterest is a visual search and discovery platform. People use it to search for
 
 **Which Pinterest service should I choose?**
 
-Choose the Pinterest SEO Audit, $197, if you have an account and want to know what is working and what needs improvement. Choose Pinterest Account Setup, $497, for a new account or to rebuild one on a stronger foundation. Choose Pinterest Management, $497 to $1,097 a month, for ongoing strategy and content handled for you.
+Choose the [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit), $197, if you have an account and want to know what is working and what needs improvement. Choose [Pinterest Account Setup](https://marieglowstudio.com/pinterest-account-setup), $497, for a new account or to rebuild one on a stronger foundation. Choose [Pinterest Management](https://marieglowstudio.com/pinterest-management), $497 to $1,097 a month, for ongoing strategy and content handled for you.
 
 **What is included in the Pinterest SEO Audit?**
 
@@ -3026,15 +3036,15 @@ SEO
 
 **What is included in the Website SEO Audit?**
 
-The $247 Website SEO Audit covers a technical crawl (speed, mobile, indexing, broken links, sitemap and robots.txt), an on-page review (titles, headings, meta, internal links), a local SEO check (Google Business Profile, NAP consistency, local keywords) and an AEO/AI-search readiness check (schema, FAQ structure, entity clarity), delivered as a written, prioritized fix list within about 7 business days.
+The $247 [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) covers a technical crawl (speed, mobile, indexing, broken links, sitemap and robots.txt), an on-page review (titles, headings, meta, internal links), a local SEO check (Google Business Profile, NAP consistency, local keywords) and an AEO/AI-search readiness check (schema, FAQ structure, entity clarity), delivered as a written, prioritized fix list within about 7 business days.
 
 **What is included in SEO Foundations Setup?**
 
-The $697 SEO Foundations Setup covers up to 10 pages: a keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, a sitemap, internal linking and Google Business Profile optimization.
+The $697 [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) covers up to 10 pages: a keyword map, titles and meta descriptions, schema markup, Search Console and Bing setup, a sitemap, internal linking and Google Business Profile optimization.
 
 **What is AEO, and do you do it?**
 
-AEO, answer engine optimization, is structuring a page so AI assistants like ChatGPT, Perplexity and Google’s AI answers can read and cite it clearly: schema markup, direct answers near the top of a page, and FAQ sections that match what people actually ask. AI-search readiness is checked in the Website SEO Audit, and schema markup is part of SEO Foundations Setup.
+Yes, AEO is part of the SEO work here, where it fits. AEO, answer engine optimization, means structuring a page so AI assistants and answer features like ChatGPT, Perplexity and Google’s AI answers can read it and pull out a clear answer: direct answers near the top of a page, FAQ sections that match what people actually ask, consistent facts about your business and schema markup. The [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) includes an AI-search readiness review (schema, FAQ structure and entity clarity), and [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) adds schema markup and the technical groundwork. No one can promise an AI tool will mention or cite you, so the work stays with what you control: structured content, consistent facts across the web, local signals like your Google Business Profile, and being able to see how you show up. For the plain-English version, read [SEO vs AEO vs GEO](https://marieglowstudio.com/blog/seo-vs-aeo-vs-geo).
 
 **Can you guarantee first-page rankings?**
 
@@ -3048,7 +3058,7 @@ Digital Strategy
 
 **What is the Digital Strategy Roadmap?**
 
-The $397 Digital Strategy Roadmap maps your customer’s journey across your website, search, Pinterest, email and tools, shows where people are dropping off today, and hands you a written 90-day plan with priorities, plus a walkthrough of the findings.
+The $397 [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) maps your customer’s journey across your website, search, Pinterest, email and tools, shows where people are dropping off today, and hands you a written 90-day plan with priorities, plus a walkthrough of the findings.
 
 **Who is the roadmap for?**
 
@@ -3056,7 +3066,7 @@ Businesses with more than one piece already in place, a website plus some Pinter
 
 **Does the roadmap price go toward anything else?**
 
-Yes. The $397 roadmap price is credited toward the Complete Website & Brand Identity package if you book it within 60 days.
+Yes. The $397 roadmap price is credited toward the [Complete Website & Brand Identity package](https://marieglowstudio.com/complete-website-package) if you book it within 60 days.
 
 Pricing & Process
 
@@ -3066,7 +3076,7 @@ Pricing & Process
 
 **How much does it cost to work with Marie Glow Studio?**
 
-Audits start at $197 for Pinterest and $247 for website SEO. The Website Starter is $249, the Digital Strategy Roadmap is $397, Pinterest Account Setup is $497, SEO Foundations Setup is $697, and the Complete Website & Brand Identity package is $1,497. Monthly Pinterest management runs $497 to $1,097. Every price is listed on its own service page.
+Audits start at $197 for Pinterest and $247 for website SEO. The [Website Starter](https://marieglowstudio.com/website-starter) is $249, the [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) is $397, [Pinterest Account Setup](https://marieglowstudio.com/pinterest-account-setup) is $497, [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) is $697, and the [Complete Website & Brand Identity package](https://marieglowstudio.com/complete-website-package) is $1,497. Monthly Pinterest management runs $497 to $1,097. Every price is listed on its own service page.
 
 **Can I purchase a service without a consultation?**
 
@@ -3078,11 +3088,11 @@ You’ll receive instructions for completing an intake form and providing the in
 
 **How does payment work, and what if I need to cancel or get a refund?**
 
-Every paid service is bought through Stripe checkout, in U.S. dollars. One-time services, including the Complete Website & Brand Identity package, are non-refundable once work has begun. Monthly Pinterest Management has no minimum commitment and can be canceled at any time for future months; it is billed in advance and is non-refundable once work begins for that month. Current clients can update a card, see invoices or cancel through Manage Your Subscription in the footer. The full wording is in the [Terms of Service](https://marieglowstudio.com/terms-of-service).
+Every paid service is bought through Stripe checkout, in U.S. dollars. One-time services, including the [Complete Website & Brand Identity package](https://marieglowstudio.com/complete-website-package), are non-refundable once work has begun. Monthly [Pinterest Management](https://marieglowstudio.com/pinterest-management) has no minimum commitment and can be canceled at any time for future months; it is billed in advance and is non-refundable once work begins for that month. Current clients can update a card, see invoices or cancel through [Manage Your Subscription](https://marieglowstudio.com/billing) in the footer. The full wording is in the [Terms of Service](https://marieglowstudio.com/terms-of-service).
 
 **Will you need access to my accounts?**
 
-Some services, like Pinterest Account Setup or Management, or a website redesign, may need access to Pinterest, Shopify, your website or scheduling tools. Secure collaborator or delegated-access methods are used whenever the platform supports them.
+Some services, like [Pinterest Account Setup](https://marieglowstudio.com/pinterest-account-setup) or Management, or a website redesign, may need access to Pinterest, Shopify, your website or scheduling tools. Secure collaborator or delegated-access methods are used whenever the platform supports them.
 
 **Do I need to share my passwords?**
 
@@ -3118,9 +3128,549 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (80)
+## Blog posts (85)
 
 Index: https://marieglowstudio.com/blog/
+
+### SEO, AEO & GEO: What the Heck Does It All Mean?
+
+URL: https://marieglowstudio.com/blog/seo-vs-aeo-vs-geo
+Topic: SEO and Search Visibility | Published: 2026-09-28
+
+SEO is how you make your website easy to find in search. AEO and GEO are newer names for making that same website easy for answer features and AI tools to understand. Google's own guide says SEO best practices still apply to its AI features, so for most small businesses these three terms describe one job, not three.
+
+I get why this feels like alphabet soup. So here is the plain version of each term, what Google itself has said about them, and what I would do on a small business website.
+
+#### What does SEO actually mean?
+
+SEO stands for search engine optimization. It is the work of making your website easy for Google and Bing to find, read and understand, and useful enough to show when someone searches for what you offer. That covers the technical side (can search engines crawl your pages, and do they load fast on a phone), the page side (clear titles and headings) and the trust side (accurate business details and content that shows real experience).
+
+Expect to wait. Google's [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) says some changes can take effect in a few hours while others can take several months.
+
+#### What is AEO, or answer engine optimization?
+
+AEO means shaping your content so a search or answer system can pull a clear answer out of it. The classic examples are the boxed answer at the top of a Google results page, "People also ask" questions, voice assistants and now AI-written answers. In practice, it mostly means writing the way people ask.
+
+Picture a hypothetical baker who takes custom orders. Her page opens with "We craft memorable moments." A more useful page opens by answering the question a customer would type: yes, she does custom orders, and here is how far ahead to place one. A person skimming gets the answer right away, and so does a machine.
+
+One caution: AEO is an industry label, and Google's guide notes that many tricks sold under labels like it are not effective or supported by how Google Search works.
+
+#### What is GEO, or generative engine optimization?
+
+GEO is the newest of the three. It is the practice of making your content clear, well organized and trustworthy enough to be useful to AI systems that write their own answers, such as ChatGPT, Perplexity and Google's AI Overviews. The term comes from a 2023 research paper whose methods were tested on a benchmark the authors built, not on live ChatGPT or Google, so I would not treat any number from it as a promise about your site.
+
+The vocabulary is still unsettled. Some people say GEO, some say AEO, and others say LLMO or AI optimization, and the terms overlap. Nobody can promise you a mention in ChatGPT, Google's AI features, Perplexity or any other AI system. Anyone who does is guessing, or selling something.
+
+#### How do SEO, AEO and GEO compare side by side?
+
+They aim at different places your content can appear, but they draw on the same habits.
+
+SEO, AEO and GEO at a glance
+| Term | What it usually means | What it looks like on your site |
+| SEO | Making your site findable and understandable in search engines | Crawlable pages, clear titles and headings, fast mobile pages, accurate local details |
+| AEO | Writing so answer features can lift a clear answer | Direct answers near the top of a page, questions used as headings |
+| GEO | Making content clear and trustworthy for AI systems that write answers | Original, first-hand content, consistent facts, a clear structure |
+
+#### What does Google itself say about AEO and GEO?
+
+Google says its AI features are built on the same systems as regular Search, so SEO best practices still apply. In its 2026 guide, [Optimizing your website for generative AI features on Google Search](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide), it says: "The best practices for SEO continue to be relevant because our generative AI features on Google Search are rooted in our core Search ranking and quality systems."
+
+The same guide lists things you can skip for Google Search. You do not need special AI text files, new markup or Markdown pages, you do not need to chop your content into tiny pieces, and you do not need to rewrite pages just for AI systems. Structured data is not required either, though Google still recommends it as part of normal SEO. Its earlier page, [AI features and your website](https://developers.google.com/search/docs/appearance/ai-features), says there are no additional requirements to appear in AI Overviews or AI Mode, and no need to create new machine-readable files, AI text files or markup.
+
+What matters most, the guide says, is content people find unique, compelling and useful. Google says that will likely influence your presence in generative AI search over the long run more than any other suggestion in it, and it contrasts generic tips with first-hand experience.
+
+#### Do I have to pick one?
+
+No, and you could not if you tried, because the good practices are the same ones. Some of the overlap is plain site housekeeping:
+
+- A site that search engines can crawl and index, that loads quickly and works on a phone
+
+- Clear headings, so people and machines can tell what each section covers
+
+- Internal links that connect related pages
+
+- Structured data where it fits, which [what schema markup is](https://marieglowstudio.com/blog/what-is-schema-markup) covers in plain language
+
+The rest is about the content itself: direct answers to real customer questions, accurate and consistent business details, and original material that reflects real experience. Those three are where I would start, and the list further down puts them in order. Do all of it well and you have done SEO, AEO and GEO without keeping track of which is which.
+
+#### Okay, but what does this actually look like on my website?
+
+It looks like ordinary, useful work on pages you already have. Here are three hypothetical examples, not real clients:
+
+- A baker adds a plain "Custom orders" section that answers the questions customers ask most: how ordering works, how much notice is needed, and whether it is pickup or delivery.
+
+- A stylist or spa owner gives each service its own page with what is included, how long it takes and how to book, and makes sure the Google Business Profile lists the same services and hours.
+
+- A contractor writes a page for each kind of job and each area served, with the same business name, phone number and address everywhere they appear.
+
+When it comes to AI tools specifically, I focus on what you control, because you do not control what an AI system says. That comes down to four things:
+
+- Structured, well-organized content, so each page states clearly what it is about.
+
+- Consistent facts across the web, meaning your listings, profiles and mentions all agree with your website.
+
+- Local signals, starting with a complete, accurate Google Business Profile. Google says Business Profiles can help products and services be visible in both AI responses and other Google Search results.
+
+- Monitoring how you appear. Google Search Console has a Generative AI performance report covering AI Overviews and AI Mode impressions, though it may be unavailable for a site with too few AI feature impressions. Bing Webmaster Tools has an AI Performance report, launched in public preview in February 2026, that shows how often your site is cited in Copilot and Bing AI summaries.
+
+If you want a second set of eyes on all of this, the [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) checks the technical basics, on-page SEO, local SEO and AI-search readiness (schema, FAQ structure and entity clarity), then hands you a prioritized fix list. If you would rather have the groundwork done for you, [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) covers the keyword map, titles, schema markup, Search Console and Bing setup, internal linking and Google Business Profile optimization for up to 10 pages.
+
+#### Do I need schema markup or an llms.txt file for this?
+
+Probably not as a first step, and neither one is a shortcut. Schema markup is structured data in your page code that tells machines what a page represents. Google says it is not required for its AI features, and I go through when it earns its place in [What Is Schema Markup?](https://marieglowstudio.com/blog/what-is-schema-markup)
+
+An llms.txt file is a proposed convention from Jeremy Howard in 2024, a short reading list of your site written for AI tools. Google says Search does not use it, and I could not find any AI company saying its search relies on it. [What Is llms.txt?](https://marieglowstudio.com/blog/what-is-llms-txt) has the details.
+
+FAQ markup was once pitched as an AEO trick, but Google stopped showing FAQ rich results in Search in May 2026. Real questions and answers on your pages are still useful to readers, so keep writing them.
+
+#### What should I do first?
+
+Start with the unglamorous basics, in this order:
+
+- Confirm Google can find your site. Verify it in Search Console and check whether your pages are indexed. [Why Your Website Is Not on Google](https://marieglowstudio.com/blog/why-your-website-is-not-on-google) walks through the usual causes.
+
+- Read your homepage and main service pages like a stranger would. Does the first paragraph say what you do, for whom and where? If not, rewrite it so it does.
+
+- Make your business details match everywhere: website, Google Business Profile, directories and social profiles. The [Google Business Profile checklist](https://marieglowstudio.com/blog/google-business-profile-checklist) is a good place to begin.
+
+- Turn the questions customers ask you most into headings, with a direct answer under each one. My [plain guide to answer engine optimization](https://marieglowstudio.com/blog/answer-engine-optimization-for-small-business) shows what that looks like.
+
+- Add something only you can say: how you work, your own photos, what you have learned from doing the job.
+
+None of this replaces the basics: a site that search engines can crawl and index, with content that is useful and original.
+
+#### Frequently asked questions
+
+**Is GEO replacing SEO?**
+
+No. Google says SEO best practices continue to be relevant to its generative AI features, because those features are rooted in its core Search ranking and quality systems. GEO is a newer name for making content useful to AI-powered discovery, and most of the work overlaps with SEO. The terminology is still unsettled, so treat the acronyms as labels, not as separate jobs.
+
+**Can anyone guarantee my business will be mentioned by ChatGPT or Google AI features?**
+
+No. Microsoft's Bing team has said [no practice guarantees selection in AI answers](https://about.ads.microsoft.com/en/blog/post/october-2025/optimizing-your-content-for-inclusion-in-ai-search-answers), only practices that improve eligibility. Google's guide does not promise a mention either. It describes conditions such as a page being indexed and eligible to show in Search with a snippet. What you can do is make your site clear, accurate and useful, and check how it appears.
+
+**Do I need to rewrite my website for AI tools?**
+
+Not for Google. Its guide lists rewriting content just for AI systems, creating special AI text files or markup, and chopping content into tiny pieces as things you do not need to do. Clear writing for your customers, with direct answers near the top of each page, works for people and machines alike.
+
+**How can I see whether AI features are showing my website?**
+
+Two tools can help. Google Search Console has a Generative AI performance report covering AI Overviews and AI Mode impressions, though it may be unavailable for a site with too few AI feature impressions. Bing Webmaster Tools has an AI Performance report, in public preview since February 2026, showing how often your site is cited in Copilot and Bing AI summaries. Treat both as a spot check. Bing notes that its report reflects citation patterns, not ranking or placement importance.
+
+### What the Heck Is Schema, and Does Your Website Actually Need It?
+
+URL: https://marieglowstudio.com/blog/what-is-schema-markup
+Topic: SEO and Search Visibility | Published: 2026-09-28
+
+Schema markup is code that labels what a page is about, like a business or a product, so search engines can read it more easily. Visitors never see it. A short, accurate set is usually worth having on a small business site, but it is optional, and Google says it will not make you rank better.
+
+Below is what schema is, what Google does with it today, and how to decide for your own site. Where the evidence is mixed I will say "I don't know," because in a couple of places I don't.
+
+#### What is schema markup in plain language?
+
+Schema markup is a standard way of labeling the information on a web page so a machine does not have to guess what it means. Picture a pantry where every jar has a label a scanner can read. On a website, the labels say this is a business, this is its address, this is a product, this is its price.
+
+Google describes structured data as "a standardized format for providing information about a page and classifying the page content," and says it uses that to understand the page and to show richer search appearances called rich results. Most of it uses the shared vocabulary at schema.org, which Google, Microsoft, Yahoo and Yandex created together. Google's [introduction to structured data](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data) is worth a skim.
+
+Schema is the vocabulary and structured data is the practice of using it, though the two terms get used interchangeably. The format Google recommends is JSON-LD, a small block of text that sits in the page's code inside a script tag.
+
+#### Can people see schema on my website?
+
+Nope. Schema lives in the code of the page, and nothing about it changes how the page looks to a visitor. Google's guidelines include a rule that markup should describe what a visitor can actually read on the page, not information that is hidden from them, even when that information is accurate.
+
+What people can sometimes see is the result. When a page has eligible markup, Google may show a richer listing in search, such as business details in a knowledge panel or a product's price and availability. Markup makes a page eligible. Whether Google shows anything is Google's call.
+
+#### Does schema make you rank #1?
+
+No. John Mueller of Google said in April 2025, in a Bluesky post reported by [Search Engine Roundtable](https://www.seroundtable.com/google-structured-data-ranking-39232.html), "Structured data won't make your site rank better."
+
+Think of it this way: schema tells a machine what your page is, while ranking depends on how well the page answers the search. No label fixes a page that does not answer it.
+
+If someone sells you schema as a rankings fix, ask for proof. Google's own suggestion for testing structured data is a before-and-after comparison on a few pages, so that is a fair thing to ask for.
+
+#### Which schema types matter for a small business?
+
+A small handful do. This table lists the types most small sites hear about, what each one describes, and what Google does with it today, based on [Google's search gallery](https://developers.google.com/search/docs/appearance/structured-data/search-gallery), which was last updated on June 15, 2026. Google trims that list from time to time, so check it before planning around it.
+
+Common schema types and Google's current support
+
+| Type | What it describes | Does Google show a feature for it? |
+
+| Organization | Your business as an entity: name, logo, contact details, address | Yes. It can feed knowledge panels and logos. Google says it helps Google understand and disambiguate your organization. |
+
+| LocalBusiness | Your local business's details: name, address, open hours | Yes. Business details in the Google knowledge panel, including open hours, ratings and directions. |
+
+| Product | Something you sell: price, availability, review ratings | Yes. Product snippets and merchant listings. |
+
+| Article and BlogPosting | A blog post or article on your site | Yes. Google says there are no required properties, so you add the ones that apply. |
+
+| BreadcrumbList | Where a page sits in your site's structure | Yes. |
+
+| Service | The services you offer | No. It is a valid schema.org type, but Google has no rich result for it. |
+
+| Person | An individual, such as the owner | No standalone feature. Google's gallery lists a profile page feature for pages focused on a single person or organization. |
+
+| FAQPage | Questions and answers on a page | Not anymore. See the next section. |
+
+You can still use Service to describe what you offer to machines. Just do not expect Google to show anything for it.
+
+#### Does markup for common questions still do anything?
+
+Google stopped showing FAQ rich results in Search on May 7, 2026. Since August 2023 they had been limited to well known government and health websites, so most small businesses had not seen one for a while anyway.
+
+Search Engine Journal [reported](https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/) that leaving FAQPage markup in place is harmless, and FAQPage is still a valid schema.org type. A good FAQ still helps readers. Just do not add FAQ markup expecting an expandable listing, because no markup can promise a rich result. The questions at the bottom of this post are marked up that way, and I keep them for readers, not for a search result.
+
+#### What does schema have to do with SEO, AEO and GEO?
+
+Schema sits in the overlap: it is one way to make a page clearer to machines, and none of the three depends on it. If those letters are a blur, my post on [SEO, AEO and GEO](https://marieglowstudio.com/blog/seo-vs-aeo-vs-geo) sorts them out first.
+
+Google's guide to [optimizing for generative AI features](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) says structured data is not required for generative AI search and there is no special schema.org markup to add. It adds that keeping structured data as part of your overall SEO is a good idea, because it helps with eligibility for rich results. Google's [AI features page](https://developers.google.com/search/docs/appearance/ai-features) says much the same.
+
+Microsoft's Bing sounds warmer about it. Krishna Madhavan wrote in October 2025 that schema "is a type of code that helps search engines and AI systems understand your content." That describes what schema does, and it is not a promise of any placement.
+
+The evidence on AI citations is mixed to thin. Ahrefs, an SEO software company that discloses its method, compared 1,885 pages that added JSON-LD with 4,000 matched pages over 30 days and reported [no major uplift in citations on any platform](https://ahrefs.com/blog/schema-ai-citations/). It only looked at pages that already earned 100 or more AI citations, so it does not settle the question. Bigger multipliers show up in vendor blog posts, but they come with no disclosed method, so I am leaving them out.
+
+Whether schema helps a specific AI tool understand your business better in a way anyone can measure, I don't know. No one can guarantee a business gets named by ChatGPT, Perplexity, Google's AI features or any other AI tool, and schema does not change that. What you control is the clear, accurate information those tools work from: consistent facts about your business across your site and your listings, a complete [Google Business Profile](https://marieglowstudio.com/blog/google-business-profile-checklist), and a look at Search Console and Bing Webmaster Tools to see how you show up. The other file people keep telling you to add has its own post: [what llms.txt is and whether you need one](https://marieglowstudio.com/blog/what-is-llms-txt).
+
+#### Does your website actually need schema?
+
+Probably a small, accurate set is worth having, and no, you do not need every type. These are hypothetical examples, not clients:
+
+- A baker or a stylist with a shop or studio: Organization or LocalBusiness on the home page, with the name, address, phone and hours matching what the page and your Google Business Profile say.
+
+- A maker with an online shop: Product markup on product pages, with real prices and availability, plus Organization on the home page.
+
+- A contractor who covers several towns: LocalBusiness with the service area. Service markup is optional. My [local SEO guide for service businesses](https://marieglowstudio.com/blog/local-seo-for-service-businesses) covers the bigger picture.
+
+- Anyone with a blog: Article or BlogPosting on posts, and BreadcrumbList if your pages show a breadcrumb trail.
+
+I would skip FAQ or HowTo markup for Google's sake, exotic types you cannot fill in accurately, and any package sold on the promise of rankings. Google's own advice is to supply fewer properties that are complete and accurate rather than every property with incomplete or inaccurate data.
+
+Before adding anything, find out what your site already outputs. Some platforms and SEO plugins add schema on their own, and I can't tell you what yours does, because it varies by platform, theme and plugin.
+
+My own pages carry Organization markup for the studio, Person markup for me, and Service markup on the service pages, even though Google shows nothing for Service. If code is not how you want to spend your week, schema is one piece of my [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations), alongside the keyword map, titles, Search Console and Bing setup, sitemap and internal links, for up to 10 pages. It builds groundwork and promises no rankings. If you would rather find out what is there first, the [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) includes an AI-search readiness review of your schema, FAQ structure and entity clarity, and hands you a prioritized fix list.
+
+#### How do you check whether your schema works?
+
+Run a page through two free tools and read what they report.
+
+- Google's [Rich Results Test](https://search.google.com/test/rich-results), which Google calls an easy and useful tool for validating your structured data and, in some cases, previewing a feature in Google Search. After launch, Google also recommends checking the rich result status reports in Search Console.
+
+- The [Schema Markup Validator](https://validator.schema.org/), run by schema.org, checks any schema.org markup, including types like Service that Google does not use.
+
+A clean result means the tool found no errors in the markup it read. It cannot tell you whether the details are accurate, so compare them with what your page says. And if your pages are not appearing in Google at all, that is a different problem, and [why your website is not on Google](https://marieglowstudio.com/blog/why-your-website-is-not-on-google) is the place to start.
+
+#### Frequently asked questions
+
+**Is schema markup the same as structured data?**
+
+Nearly. Schema.org is the shared vocabulary of types and properties, and structured data is the practice of adding that information to a page in a machine-readable format. Most people use the two terms interchangeably.
+
+**What is JSON-LD?**
+
+JSON-LD is the format Google recommends for structured data. It is a small block of text placed in a script tag in the page code, so it does not change how the page looks to visitors. Google also supports Microdata and RDFa.
+
+**Do I need schema markup for Google AI Overviews or AI Mode?**
+
+No. Google says structured data is not required for its generative AI search features and that there is no special schema.org markup to add. It still recommends keeping structured data as part of your overall SEO. No one can promise a mention in any AI system.
+
+**Does FAQ schema still create rich results in Google?**
+
+No. Google stopped showing FAQ rich results in Search on May 7, 2026. Leaving FAQPage markup on a page is harmless and it is still a valid schema.org type, but you should not add it expecting a special listing.
+
+### What the Heck Is llms.txt, and Does Your Website Need One?
+
+URL: https://marieglowstudio.com/blog/what-is-llms-txt
+Topic: SEO and Search Visibility | Published: 2026-09-28
+
+An llms.txt file is a short text page, published at yourwebsite.com/llms.txt, that lists your best pages for AI tools. It's a 2024 proposal, not a standard. Google says Search doesn't use it, and I couldn't find an AI company saying it changes what it mentions. For most small businesses, it's optional.
+
+Yep, that's the short version. If an SEO tool flagged a missing llms.txt and now you feel behind, you're not. Here's what the file is, what it can't do, and where I'd spend your time first.
+
+#### What is an llms.txt file?
+
+It's a text file, written in Markdown (plain text with a few simple symbols for headings and links), that sits at the top level of a website. In effect, it's a short reading list you write by hand. The name comes from LLMs, the large language models behind tools like ChatGPT, Claude and Gemini.
+
+Jeremy Howard, co-founder of Answer.AI, proposed it in September 2024, and [the original proposal at llmstxt.org](https://llmstxt.org/) is where the format comes from. The idea is that robots.txt sets access rules, while llms.txt offers "a curated overview for LLMs" that a tool can use on demand. The page itself says "We propose adding a /llms.txt markdown file." It isn't a formal standard, and no search engine has committed to it.
+
+#### What goes inside an llms.txt file?
+
+Per the proposal, the only required part is a heading with the name of your site or business. Then come a short summary in a quote block, optional notes, and sections of links, each with a one-line note about the page. Here's a made-up example for a hair salon:
+
+# Example Hair Studio
+> A hair salon offering cuts, color and bridal styling by appointment.
+#### Services
+* [Services and prices](https://example.com/services): what we offer and what each costs
+* [Book an appointment](https://example.com/book): online booking and cancellation policy
+
+#### robots.txt vs sitemap.xml vs llms.txt: which one does what?
+
+robots.txt sets crawling rules, sitemap.xml lists your pages for search engines, and llms.txt is a reading list for AI tools. Only robots.txt is about access. Here they are side by side.
+
+robots.txt vs sitemap.xml vs llms.txt
+| File | Where it lives | What it's for | What it can't do |
+| robots.txt | yourwebsite.com/robots.txt | Tells crawlers which parts of your site they may visit | Keep a page out of Google's results, or stop a crawler that ignores it |
+| sitemap.xml | Usually yourwebsite.com/sitemap.xml | Lists your pages so search engines can find them | Guarantee a page gets crawled or indexed |
+| llms.txt | yourwebsite.com/llms.txt | A short curated reading list for AI tools that choose to read it | Block or allow anything |
+
+Google is clear that [robots.txt isn't a way to keep a page out of Google](https://developers.google.com/search/docs/crawling-indexing/robots/intro). It's a set of requests that well-behaved crawlers follow, and it isn't security. Google also says [a sitemap doesn't guarantee everything gets crawled and indexed](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview), and that a small, well-linked site may not need one.
+
+If you want to allow or block a particular AI crawler, robots.txt is where you set it, and llms.txt can't do it. Companies publish their bot names. [OpenAI lists](https://developers.openai.com/api/docs/bots) OAI-SearchBot for ChatGPT search and GPTBot for model training, and says a site that opts out of OAI-SearchBot won't be shown in ChatGPT search answers. [Anthropic](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler) and [Perplexity](https://docs.perplexity.ai/guides/bots) publish theirs too. Bots that fetch a page because a person asked, like ChatGPT-User and Perplexity-User, may not follow robots.txt at all. Allowing a bot only makes a page eligible, and it doesn't promise a mention.
+
+#### Do ChatGPT, Google or any other AI tool actually use llms.txt?
+
+Google says no for Search, and I couldn't find any AI company saying yes. Here's where things stand as of late September 2026.
+
+- Google Search. Google's [guide to generative AI features](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) says you don't need new machine readable files or AI text files to appear in Google Search, "as Google Search itself doesn't use them." A later note adds that these files won't help or hurt your visibility, and that it's fine to keep them for other systems that use them.
+- Google's John Mueller. In June 2025 he wrote, ["FWIW no AI system currently uses llms.txt."](https://www.seroundtable.com/google-ai-llms-txt-39607.html) That's one person, more than a year ago, so it's a data point, not the last word.
+- OpenAI, Anthropic, Perplexity and Microsoft. I couldn't find an official statement from any of them saying their products read llms.txt. Their crawler docs are about robots.txt.
+- Studies. Both of these come from SEO software companies. Ahrefs studied about 137,000 domains (May 2026 data) and [found that nearly all llms.txt files got no requests](https://ahrefs.com/blog/llmstxt-study/) that month. Its sample leans toward technical, SEO-aware sites, and a request in a server log isn't proof of use. SE Ranking's November 2025 study of about 300,000 domains [found no relationship](https://www.searchenginejournal.com/llms-txt-shows-no-clear-effect-on-ai-citations-based-on-300k-domains/561542/) between having the file and how often a domain is cited by AI tools.
+- The wrinkle. Search Engine Journal reported that Chrome's Lighthouse tool [now includes an audit](https://www.searchenginejournal.com/googles-llms-txt-guidance-depends-on-which-product-you-ask/575431/) for the file, so a tool may flag yours as missing. It describes that audit as separate from search ranking.
+- Where it may get used. Some developer documentation sites publish these files, and Ahrefs noted that coding agents show real interest. A software company with a big docs site is a different case from a salon.
+
+What I know: some sites publish it, and Google says it ignores it. What I don't know: whether some AI tool reads it in some situation. I can't see inside those tools, and I'd be wary of anyone who says they can.
+
+#### Does my small business website need an llms.txt file?
+
+No. If you're a stylist, a contractor, a coach or a baker and customers find you through Google, your Google Business Profile, Pinterest or referrals, nobody has measured a payoff from an llms.txt file for a business like yours. I'd spend your first free hour on the basics below instead.
+
+If you still want one, go ahead as long as it's quick to write and you'll keep it accurate. If your services, prices or hours change, the file has to change too. A stale llms.txt describing last year's offers is the only real downside I can see. I don't know whether every website builder lets you publish a file at /llms.txt, so ask whoever built your site.
+
+#### Do I keep an llms.txt on marieglowstudio.com?
+
+I do, and [you can read it](https://marieglowstudio.com/llms.txt). It follows the proposal's shape: the studio's name as the heading, a one-sentence summary in a quote block, a short paragraph on how the work gets done, then linked sections with a note on each. Those cover services, who the studio is for, the studio pages, blog topics, comparisons and guides, plus a reference section pointing to my pricing file, a longer companion called llms-full.txt, my Pinterest profile and my Google Business Profile. The blog and comparison lists are regenerated by scripts, so they stay in step with the site.
+
+Why keep it? It's a tidy summary of the site that costs almost nothing to maintain, and Google says keeping one is fine. I'm not counting on it for anything. The files with documented jobs matter more: my robots.txt names a handful of AI crawlers, including GPTBot, OAI-SearchBot, ClaudeBot, Claude-SearchBot and PerplexityBot, allows them, and points to my sitemap.xml, which lists the pages.
+
+#### What should I do before worrying about llms.txt?
+
+Spend your effort on what you control. I can't promise you a mention in ChatGPT, Perplexity or Google's AI features, and neither can anyone else. Google's own guide says SEO fundamentals still apply, and that's where I'd start.
+
+- Make sure search engines can reach and index your pages. If your site is missing from results entirely, start with [why a website is not on Google](https://marieglowstudio.com/blog/why-your-website-is-not-on-google).
+- Write pages that state plainly what you do, where, for whom and at what price, and keep those facts identical across your site, your [Google Business Profile](https://marieglowstudio.com/blog/google-business-profile-checklist) and other listings. Clear, accurate information is easier for AI tools to work from, and it helps human visitors too.
+- Add structured data where it fits. [What schema markup is](https://marieglowstudio.com/blog/what-is-schema-markup) explains what it does and whether you need it.
+- Get the vocabulary straight. [SEO, AEO and GEO](https://marieglowstudio.com/blog/seo-vs-aeo-vs-geo) sorts out the acronyms, and [answer engine optimization for small business](https://marieglowstudio.com/blog/answer-engine-optimization-for-small-business) covers writing pages that are easy to quote.
+- Monitor what's happening. Google Search Console offers a generative AI performance report, and Bing Webmaster Tools launched an AI Performance report in public preview in February 2026. They don't promise anything, but they're free and show real data about your site.
+
+If you'd rather have someone look at the basics for you, the [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) reviews your technical setup (including your sitemap and robots.txt), on-page SEO, local SEO and AI-search readiness, then hands you a written, prioritized fix list. It costs $247 and takes about 7 business days. It's the review and the plan, and the [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) is the version where the work gets done for you.
+
+#### Frequently asked questions
+
+**Is llms.txt the same as robots.txt?**
+
+No. robots.txt tells crawlers which parts of your site they may visit, and it's the file you use to allow or block a specific bot. llms.txt is an optional, hand-written reading list for AI tools. It can't block or allow anything, and it doesn't replace robots.txt or sitemap.xml.
+
+**Can llms.txt block AI crawlers like GPTBot or ClaudeBot?**
+
+No. Blocking or allowing a crawler is done in robots.txt, using the bot names each company publishes. An llms.txt file only offers a reading list. Not every fetcher follows robots.txt, though: bots that load a page because a person asked, like ChatGPT-User and Perplexity-User, may not, so check each company's page before you change anything.
+
+**Does ChatGPT read llms.txt?**
+
+I don't know, and I couldn't find OpenAI saying that it does. OpenAI documents robots.txt controls for OAI-SearchBot and GPTBot, and says robots.txt rules may not apply to ChatGPT-User, which fetches pages when a user asks. None of that mentions llms.txt.
+
+**Can an llms.txt file hurt my website?**
+
+Google says these files won't help or hurt your visibility in Search, so a correct one is low risk. The one downside I can see is a stale file that still describes old services, prices or hours. If you publish one, update it whenever the facts on your site change.
+
+### Can I Build Your Website in a Day? Yes. That's Not the Point.
+
+URL: https://marieglowstudio.com/blog/can-a-website-be-built-in-a-day
+Topic: Shopify and Web Design | Published: 2026-09-28
+
+Yes, a website can be built in a day, and I have built websites very quickly myself. Speed just is not what I lead with. I would rather spend the first stretch getting to know your business, and a stopwatch skips that part.
+
+I also have seven kids and a life, so no, I am not going to pretend every week looks the same. That is the joke. The real reason is about your website, not my calendar.
+
+#### Can a website really be built in a day?
+
+Technically, yes. A single page with a clear offer, finished copy, final photos and a logo can come together very fast. Some designers and agencies offer a website in a day or a week, and for the right client that model can work. If your branding, photos, words and decisions are all finished, fast is realistic.
+
+Being found is a different clock. Google's documentation says crawling can take anywhere from a few days to a few weeks, and that requesting a crawl does not guarantee your page shows up in search results right away, or at all. So a site can be live in a day and still take a while to appear in search. Google explains the options, including its URL Inspection tool and sitemaps, in its [guidance on asking for a recrawl](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl).
+
+#### Build time is not the same as project time
+
+The build is where pages get put together, and it can be the quickest part of the job. A project is bigger. Depending on the business, it can also include:
+
+- Research and strategy
+- Copy and other content
+- Photos and assets
+- Search setup and on page SEO
+- Your feedback and revisions
+- Mobile testing and accessibility checks
+- Analytics, forms, booking links and other integrations
+- Final testing and launch preparation
+
+Not every project needs every item, but skipping one does not make the work disappear. A page built in a day can look great and still say the wrong thing to the wrong person.
+
+#### What do I want to know before I build anything?
+
+I want time to understand your business before I build the thing that's supposed to represent it.
+
+That means the basics first: what you sell, who your customer is and why they pick you over someone else. Then the questions customers keep asking, your business goals, and what you want a visitor to do, whether that is buy, book, call or ask for a quote. If there is an existing site, I want to know what is wrong with it. I also want your brand personality, what content the site needs, the search opportunities and any technical requirements.
+
+Take three made up examples, not real clients. A baker's customers may want to see flavors and how to order, fast. A contractor's customers are probably comparing three quotes and need an easy way to ask for one. A stylist needs the booking link where a nervous new client will actually see it. Those differences shape the page far more than the build speed does.
+
+#### How does discovery work for a one page site?
+
+Every project starts with understanding the business. For the [Website Starter](https://marieglowstudio.com/website-starter), that happens through the intake, a short questionnaire covering your branding, photos, copy, contact information and social links. The page then follows a set shape: who you are, proof of your work, what you offer, and a clear way to reach you. The fixed shape is a big part of why it can move quickly.
+
+#### So why don't you promise a fixed turnaround?
+
+I do state timelines, and I stand behind them. What I don't do is make speed the headline. The Website Starter is guaranteed: five business days from a completed intake, or the revision round is free. I can promise that because the scope is fixed, with one page built from scratch around your brand colors, fonts, logo, photos and copy, plus basic on page SEO, domain connection help, basic pre launch testing and one revision round.
+
+The [Complete Website and Brand Identity](https://marieglowstudio.com/complete-website-package) package runs roughly two to three weeks, depending on how quickly your photos and content arrive. It includes a custom logo, brand colors, a style guide, social media graphics and a full multi page site, so there is more to decide along the way.
+
+Either way, the schedule is only as quick as the material you bring. Someone who arrives with branding, photography, copy and offers settled is a different project from someone who needs help developing them. If the intake is not complete yet, the Starter's five days simply have not started.
+
+#### What can fit in a day, and what needs more time?
+
+| Piece of the project | Fits in a day? |
+| Building a one page layout | Yes, if the copy, photos and logo are finished |
+| Writing copy and taking photos | Only if they already exist; the Starter includes neither |
+| Your review and revisions | Depends on how fast you can look and reply |
+| Google crawling the site | No, Google says a few days to a few weeks, with no guarantee |
+
+#### Who is a fast website a good fit for?
+
+Someone whose decisions are already made. Picture a spa owner with a finished logo, professional photos, a short service list and a booking link she already uses. She has served her customers for years, so a fixed scope and a fast timeline suit her well. Now picture a maker who is still choosing a name, has no photos and cannot decide between selling online and taking custom orders. Speed would only give her a faster version of an unfinished idea. Both are made up, and they are at different starting lines.
+
+#### What should I have ready before a website project starts?
+
+For the Website Starter, the intake asks for your logo, brand colors and fonts if you have them, business information, photos, copy, contact details, social links and your call to action. Copywriting and custom photography are not part of the Starter, so those need to exist first. Having everything ready is the biggest thing you control about how fast any website goes, mine or anyone else's.
+
+If you run a service business, decide which action you want first: a booking link, a quote form or a phone call. [What a service business website needs](https://marieglowstudio.com/blog/what-a-service-business-website-needs) walks through that choice, and [how long it takes to build a website](https://marieglowstudio.com/blog/how-long-does-it-take-to-build-a-website) covers the timeline for each type of build.
+
+#### Is a faster website a better website?
+
+Not by itself. I don't want your website finished as fast as possible. I want it finished as well as possible without dragging the project out unnecessarily. Sometimes that is five business days. If something important is missing from the intake, the honest move is to finish gathering it first, not to rush past it.
+
+AI can speed up parts of the work, and I use it myself. Whether to build a site with it on your own is a separate question, and I take it on in [can AI build a website](https://marieglowstudio.com/blog/can-ai-build-a-website). If you have a hard date, such as an event or a launch, tell me on the [contact page](https://marieglowstudio.com/contact) and I will say honestly whether it is realistic.
+
+If your branding, photos and words are ready and you want a professional page live quickly, the Website Starter is built for that. If you need the brand and a full site together, look at the Complete package, or see [all services](https://marieglowstudio.com/services) to compare.
+
+#### Frequently asked questions
+
+**Can a website be built in a day?**
+
+Yes, a small one page website can be built in a day when the copy, photos, logo and decisions are already finished. Build time is only part of a project, though. Discovery, revisions, testing and launch preparation take extra time, and Google says crawling can take a few days to a few weeks, so being found in search runs on its own timeline.
+
+**How long does the Website Starter take?**
+
+Five business days, counted from the point your intake is complete, and it is guaranteed: if it runs over, the revision round costs you nothing. Having your logo, photos, copy and contact details ready is what keeps it that fast.
+
+**Why does the Complete Website package take two to three weeks?**
+
+It includes more work: a custom logo, brand colors, a style guide, social media graphics and a full multi page site. It takes roughly two to three weeks depending on how quickly your photos and content arrive.
+
+**What do I need ready before starting a website?**
+
+For the Website Starter: your logo, brand colors and fonts if you have them, business information, photos, copy, contact details, social links and your call to action. Copywriting and custom photography are not included, so those need to exist first.
+
+### I Can Just Build My Website With AI. Why Would I Hire You?
+
+URL: https://marieglowstudio.com/blog/can-ai-build-a-website
+Topic: Shopify and Web Design | Published: 2026-09-28
+
+Can AI build a website? Yes, seriously. It can write code, generate layouts, help with copy and create imagery, and I use AI myself. I'm not going to tell you to hire a web designer just because AI exists and I happen to build websites.
+
+The question isn't whether AI can build your website. The question is whether you want to figure out everything the AI needs to get right. If you do, great. If you'd rather not, that's what the rest of this post is about.
+
+#### Can AI build a website for a small business?
+
+Yes. AI can write code, generate page layouts, help you write copy, suggest ideas when you're stuck, troubleshoot problems, create images, assist with research and speed up development. It can get you a first draft of a page very quickly. For a simple site where you already know what you want to say, that can be a perfectly good place to start.
+
+Google doesn't rule it out either. Its [guide to optimizing for generative AI features](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) says that if you use generative AI tools, the work still has to meet Google's Search Essentials and spam policies, including the policy on scaled content abuse. As that guide describes it, Google's test is the quality of the work that comes out, not the tool that made it.
+
+So I'm not here to argue that AI can't build websites. It can. What it can't do by itself is decide what to build.
+
+#### What does AI still need a person to decide?
+
+AI is a tool. It isn't the entire service, because somebody still has to make a long list of decisions before or while anything gets generated. If nobody makes them, the tool has to guess. Here is the list:
+
+- Who the site is for, and what a visitor needs to understand first
+- Which pages you actually need, and what order the information comes in
+- Where each page leads, whether that is a purchase, a booking or a quote request
+- What people search for, and which page should answer each search
+- How the site is organized and how its pages link to each other
+- How it works on a phone, and whether people using screen readers or keyboards can use it
+- Analytics, forms, integrations and the technical setup behind them
+- Which of the AI's output is good and which is garbage
+
+The right answers change by business. A contractor's site has to make a quote request feel easy. A baker's has to make an order or a custom cake inquiry feel easy. An AI tool has no way to know which one you are unless someone tells it. If you run a service business, [what a service business website needs](https://marieglowstudio.com/blog/what-a-service-business-website-needs) covers that side in more detail.
+
+A couple of these are more checkable than they sound. Google's guidance on [asking Google to recrawl your pages](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl) says that requesting a crawl doesn't guarantee your pages will appear in search results instantly, or even at all. Google's AI guide also says SEO on sites built with JavaScript frameworks is generally more complex, which is worth asking about whenever any tool, or any person, picks the technology your site is built on.
+
+And nobody can promise your site a mention in ChatGPT, Google's AI features or Perplexity. I won't, and be careful with anyone who does. What you control is clear, well organized pages, accurate business information and a site that search engines can read. Google's guide says the basics of SEO still hold for its AI features, so that work still counts.
+
+#### But couldn't I ask AI all of that too?
+
+Yes, honestly. You could ask an AI about every item on that list, and you could learn to do all of it: web design, SEO, conversion strategy, accessibility, analytics, development, prompting and testing. If you want to learn those things, please do. It's a great skill set and nothing about it is out of your reach.
+
+Many owners didn't start a business to spend their evenings on it, though. A baker wants to bake. A stylist wants to be with clients. A maker wants to make things, and a spa owner wants to work with the people on the table. None of them are dreaming about spending Saturday night debugging a mobile navigation menu. I get it. I have seven kids and a life, and my evenings are already spoken for.
+
+Paying someone to handle it is a reasonable use of money, and it says nothing about whether you could learn it. If you're weighing the two routes, [DIY website vs professional website design](https://marieglowstudio.com/blog/diy-website-vs-professional-website-design) lays out the trade-offs, and [how much a small business website costs](https://marieglowstudio.com/blog/how-much-does-a-small-business-website-cost) covers the money side.
+
+#### Okay, but what about all the AI slop?
+
+We've all seen it. The same glossy images, the same identical-looking people striking the same poses, everything a little too polished to be real. Layouts you've seen a hundred times, random gradients, sections nobody asked for, phrasing that repeats itself and brand language that sounds fake. Content that technically exists but says nothing.
+
+I've made some of it too. Part of my experience with AI has been learning to use it better. I give the model real context instead of a vague request. I use references and brand guidelines so it isn't guessing, set constraints and keep the visuals consistent. I research before I generate, question the decisions the AI makes, rewrite generic output and regenerate weak work. I check facts, test what came back and have learned to spot the repetitive patterns. I also know when not to use AI at all, and when a human decision has to override the model.
+
+Slop isn't the unavoidable result of using AI. It often comes from accepting what the tool gave you without enough direction, judgment or editing. Better direction doesn't remove every limit, which is why I check, test and rewrite, and why some decisions stay with a person.
+
+#### Better AI starts with better direction
+
+Someone can use the exact same AI tools I use and get a completely different result. Having access to a tool is not the same as knowing how to direct it.
+
+Owning Canva doesn't make you a graphic designer. Owning Photoshop doesn't make you a retoucher, a good camera doesn't make you a photographer, and a heat press doesn't make a good print by itself. An AI model won't automatically make a good website either. The tool matters, and so do experience, taste and judgment.
+
+Good direction sounds like this: here is the audience, here is what they ask before they buy, here is how the brand sounds, here is what's off the table, and here is a reference to match. When a version comes back off, someone has to know what is off and why.
+
+#### You're not paying me to avoid AI
+
+Marie Glow Studio isn't an anti-AI studio. I'm also not charging you because I possess some magical ability to type HTML that AI doesn't have.
+
+What you're paying for is everything around the typing: strategy, research, direction, implementation, editing, quality control and troubleshooting. Someone has to know what to keep, what to change and what to throw away. A page can look finished and still be wrong for your customer, so someone also has to decide when the site is actually ready to represent your business. That work is invisible in a finished page, and it is the part you notice most when it is missing.
+
+#### AI doesn't know your business until someone teaches it
+
+An AI model starts your project knowing nothing about you. It doesn't know what you offer, who your competitors are, why people choose you, what makes customers hesitate or what you've already tried. It doesn't know what your brand sounds like when nobody is editing it, or what data you already have. You can feed it some of that, and I do, but somebody has to gather it first.
+
+That's why my process starts with discovery, before anything gets built. I want to understand your business, your customers, your goals, what's wrong with your current site if you have one, your brand personality, the content you have and the content you still need, the search opportunities and the technical requirements. The [about page](https://marieglowstudio.com/about) describes the order I work in, with research coming before design.
+
+AI can help carry out a strategy, but the strategy has to come from somewhere first. It's also why I don't make speed the promise, which I explain in [can a website be built in a day](https://marieglowstudio.com/blog/can-a-website-be-built-in-a-day).
+
+#### How do I use AI in my own work?
+
+I don't hide the fact that I use AI. I also don't pretend everything AI gives me is good. Where AI-generated content is part of a project, I'm transparent about it where that's appropriate, and wherever possible the work is built from real material: your actual business information, your real brand assets, real references, real research and human judgment about all of it.
+
+I don't sit at either extreme. AI is an extremely capable tool. It can produce excellent work, and it can produce absolute garbage, and telling the two apart is part of the skill. If you'd rather judge by results, the [portfolio](https://marieglowstudio.com/portfolio) has real work to look at.
+
+#### So when does it make sense to hire someone?
+
+If you want to build your own website with AI, do it. I'm genuinely not here to convince you that you can't. But if you reach the point where you're thinking, "Okay, I can technically build this, but I have no idea whether I'm building the right thing," that is where I come in.
+
+If you need one professional page for a shop or a service business, the [Website Starter](https://marieglowstudio.com/website-starter) is built for that. It's delivered in five business days from a completed intake. If you need branding and a full site together, the [Complete Website and Brand Identity package](https://marieglowstudio.com/complete-website-package) is the fit. Its timeline is roughly two to three weeks, set mostly by how fast your content and images arrive. The [web design and development overview](https://marieglowstudio.com/web-design) compares both, and you can see everything else on the [services page](https://marieglowstudio.com/services).
+
+Not sure yet? The [FAQs](https://marieglowstudio.com/faqs) answer the AI question in short form, and you can ask me anything on the [contact page](https://marieglowstudio.com/contact). And if you build it yourself with AI and it turns out great, I'd honestly love to see it.
+
+#### Frequently asked questions
+
+**Are AI website builders good enough for a small business website?**
+
+They can be for a simple site, when you give the tool clear direction and check what it produces. What decides the result is the information you bring: who the site is for, what visitors should see first, which pages you need and how people will find it. If you have those answers, an AI builder can be a reasonable start. If you are unsure you are building the right thing, that is a good time to ask a designer for help.
+
+**Will Google penalize my website because AI helped build it?**
+
+Not simply because AI was involved, going by Google's published guidance. Google's guide to generative AI features says that if you use AI tools, the work still has to meet its Search Essentials and spam policies, including the policy on scaled content abuse. The same guide says content people find unique, compelling and useful will likely matter more than any other suggestion in it. No one can promise rankings or a mention in an AI tool, whether the site was built by hand, with AI or both.
+
+**What should I check before publishing a website AI helped build?**
+
+In my experience it helps to check the facts the tool gave you, test what it produced, question the choices the AI made instead of accepting them, and rewrite anything that reads as generic. It also helps to watch for repeated patterns, such as the same phrasing or the same style of image over and over. These are habits I have built while learning to use AI better.
+
+**How can I tell if the copy on my website is generic?**
+
+Read a paragraph and ask whether a competitor could paste it onto their site without changing a word. Generic copy rarely names your actual services, products, town or customers, and it tends to use impressive words that leave you unsure what the business does. Replace those lines with specifics only you know, such as what you sell, who you serve and what customers ask you most often.
 
 ### How to Measure Small Business Marketing
 
@@ -3184,7 +3734,7 @@ Set a recurring time, even fifteen minutes, to check the same five numbers every
 
 **Do I need Google Analytics if I already have Search Console?**
 
-Both are useful and they answer different questions, so most small businesses benefit from checking each. Search Console shows how you appear in Google search results and which queries find you, while GA4 shows what visitors actually do after they reach your website, including which pages they leave from.
+Not strictly, but both are useful and they answer different questions, so most small businesses benefit from checking each. Search Console shows how you appear in Google search results and which queries find you, while GA4 shows what visitors actually do after they reach your website, including which pages they leave from.
 
 **How do I measure marketing if I do not sell online?**
 
@@ -3207,9 +3757,9 @@ Real inquiries or bookings. Traffic, impressions and saves are useful context fo
 URL: https://marieglowstudio.com/blog/answer-engine-optimization-for-small-business
 Topic: SEO and Search Visibility | Published: 2026-09-22
 
-Answer engine optimization, or AEO, is the practice of making your business easy for AI tools like ChatGPT, Perplexity and Google AI Overviews to find, understand and quote correctly. It relies on clear schema markup, plainly written FAQ content, and one consistent set of facts about your business repeated across your site.
+Answer engine optimization, or AEO, is the practice of making your business easy for AI tools like ChatGPT, Perplexity and Google AI Overviews to understand and describe accurately. It relies on clear, well organized pages, plainly written FAQ content, one consistent set of facts about your business, and structured data where it fits. No one can promise an AI tool will mention or cite you, so the work stays with what you control.
 
-Traditional SEO earns you a place in a list of ten blue links. Answer engines skip the list and hand the searcher a direct answer, sometimes with your business named and sometimes not. Being the source an AI tool actually pulls from is a different, newer kind of visibility, and it rewards clarity over cleverness.
+Traditional SEO earns you a place in a list of ten blue links. Answer engines skip the list and hand the searcher a direct answer, sometimes with your business named and sometimes not. Being understood well enough that an AI tool can describe you accurately is a different, newer kind of visibility, and it rewards clarity over cleverness. Google's own guidance says the fundamentals of SEO still apply, and that AI features need no special files or markup.
 
 #### What is answer engine optimization?
 
@@ -3221,7 +3771,7 @@ Different tools work differently. Some, like Perplexity and Google AI Overviews,
 
 #### Does schema markup actually matter for AI answers?
 
-Yes. Schema markup is structured data added to a page's code, invisible to visitors, that spells out facts in a format machines can parse without guessing: this is a Service, this Service costs this Price, this business is Open these Hours. FAQPage schema in particular gives AI tools a ready made question and answer pair to lift directly.
+It can help, but it is not required, and it is not a shortcut. Schema markup is structured data added to a page's code, invisible to visitors, that spells out facts in a format machines can parse without guessing: this is a Service, this business is open these hours. Google says there is no special schema you need for its AI features, and the evidence that markup makes AI tools cite a page more often is mixed. What it reliably does is remove guesswork about what a page is. FAQ markup is also no longer a way to get FAQ rich results in Google Search, so add it only if it matches real content on the page. The plain-English version is in [What Is Schema Markup?](https://marieglowstudio.com/blog/what-is-schema-markup)
 
 #### What should a small business actually do about AEO?
 
@@ -3229,7 +3779,7 @@ A handful of concrete steps cover most of it:
 
 - Write real FAQ content in plain language, matching how customers actually ask questions
 
-- Add schema markup for your organization, services and FAQs
+- Add accurate schema markup where it fits, such as your organization, local business details and products, and keep it matching what is on the page
 
 - State your prices, location, hours and policies the same way everywhere on your site
 
@@ -3239,7 +3789,7 @@ A handful of concrete steps cover most of it:
 
 #### Is llms.txt worth setting up?
 
-It is a reasonable, low effort step, with a caveat: llms.txt is a plain text file, similar in spirit to robots.txt, that some AI crawlers are beginning to check for a summary of a site's purpose and pages. It is an emerging convention, not yet a guaranteed standard every AI tool respects, so treat it as a helpful extra rather than a replacement for clear content and schema.
+Probably not something to spend much time on. llms.txt is a proposed plain text file, in the spirit of robots.txt, that summarizes a site's purpose and pages for AI tools. It is an emerging convention, not a standard, and Google says it does not use the file for Search. I am not aware of any major AI company confirming that its tools rely on it. If you want to know more, [What Is llms.txt?](https://marieglowstudio.com/blog/what-is-llms-txt) covers what it is and what it does not do. Clear content matters far more.
 
 #### What does AI-search-ready content actually look like?
 
@@ -3254,7 +3804,7 @@ Google's Rich Results Test and the Schema.org validator both check a page's stru
 It changes more than it seems like it should. When your price, hours, service area and policies are worded identically on your homepage, your service pages, your Google Business Profile and any directory listing, an AI tool has one clear fact to repeat instead of several conflicting versions to choose between. Inconsistency is often the quiet reason an AI answer gets your price or hours wrong even though the correct number appears somewhere on your site.
 
 | Traditional SEO | Answer engine optimization |
-| Optimizes for a ranking position in a results list | Optimizes for being the source an AI answer pulls from or cites |
+| Optimizes for a ranking position in a results list | Aims to make your content easy for an AI answer to understand and use accurately |
 | Keywords placed in titles, headings and body text | Plain, self contained answers a machine can lift without misreading |
 | Backlinks and page authority matter heavily | Structured data and consistent facts matter alongside authority |
 
@@ -3266,29 +3816,29 @@ Businesses that answer a specific, well defined question tend to benefit fastest
 
 Yes, and the two overlap more than they compete. A site with poor titles, no indexing and thin content, the kind of problems covered in [Why Your Website Is Not on Google](https://marieglowstudio.com/blog/why-your-website-is-not-on-google), will struggle with AI visibility for the same underlying reasons it struggles with regular search. Fix the foundation first, then layer schema and FAQ content on top of it.
 
-A [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) reviews AI search readiness alongside the technical, on-page and local SEO basics, and [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) implements the schema markup, titles and structured content this depends on, for up to 10 pages.
+A [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) reviews AI search readiness alongside the technical, on-page and local SEO basics, and [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) puts the schema markup, titles and technical groundwork in place for up to 10 pages.
 
 #### Frequently asked questions
 
 **Is answer engine optimization the same thing as SEO?**
 
-They overlap heavily but are not identical. Traditional SEO earns a ranking position in a search results list, while answer engine optimization focuses on being the accurate source an AI tool pulls from or cites when it answers a question directly.
+They overlap heavily but are not identical. Traditional SEO earns a ranking position in a search results list, while [answer engine optimization](https://marieglowstudio.com/blog/seo-vs-aeo-vs-geo) focuses on making your content easier for an AI tool to understand when it answers a question directly. No one can guarantee that a tool will mention a business, so the work is on the parts you control.
 
 **Which AI tools should a small business worry about?**
 
-ChatGPT, Google AI Overviews, Perplexity and Claude are the ones most likely to answer a customer’s question about a local business today. They work differently under the hood, but all of them respond better to clear, factual, plainly written pages than vague marketing copy.
+ChatGPT, Google AI Overviews, Perplexity and Claude are the ones most likely to answer a customer’s question about a local business today. They work differently under the hood, but clear, factual, plainly written pages are easier for all of them to understand than vague marketing copy.
 
 **Can a small business really compete for AI visibility against big brands?**
 
-Yes, more than in traditional search rankings. AI tools reward clarity and consistency over sheer size, so a small business with accurate schema, clear FAQ content and consistent facts can be quoted correctly even against much larger, less organized competitors.
+Yes, on the parts you control, though nothing guarantees a mention or a citation. Size does not make a page clearer, and an AI tool has to understand a business before it can describe it. Accurate schema, clear FAQ content, consistent facts across the web and a complete Google Business Profile are all things a small business owner can work on directly.
 
 **Do I need a developer to add schema markup?**
 
-Not necessarily. Many platforms and plugins can generate basic schema automatically, but it still needs checking for accuracy against your real prices, hours and services. SEO Foundations Setup handles this directly if you would rather not manage it yourself.
+Not necessarily. Many platforms and plugins can generate basic [schema markup](https://marieglowstudio.com/blog/what-is-schema-markup) automatically, but it still needs checking for accuracy against your real prices, hours and services. [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) handles this directly if you would rather not manage it yourself.
 
 **How do I know if AI tools are describing my business correctly?**
 
-Ask the tools directly, the way a customer might, and read the answer closely. If the price, hours, location or services are wrong or outdated, that is a sign your website’s facts are inconsistent or your schema and FAQ content need attention.
+Ask the tools directly, the way a customer might, and read the answer closely. Treat it as a spot check, since answers can vary from one asking to the next. If the price, hours, location or services are wrong or outdated, that is a sign your website’s facts are inconsistent or your schema and FAQ content need attention. Google Search Console and Bing Webmaster Tools also show how your pages are indexed and which searches reach them.
 
 ### How Long Does It Take to Build a Website
 
@@ -3357,7 +3907,7 @@ Marie Glow Studio's [Website Starter](https://marieglowstudio.com/website-starte
 
 **How fast can a small business website go live?**
 
-A simple one page site can go live in about five business days once all content is ready. A full multi page build with branding typically takes two to three weeks.
+A [simple one page site](https://marieglowstudio.com/website-starter) can go live in about five business days once all content is ready. A full multi page build with [branding](https://marieglowstudio.com/complete-website-package) typically takes two to three weeks.
 
 **What causes most website delays?**
 
@@ -3365,7 +3915,7 @@ Waiting on the business owner's content, photos, branding decisions or approvals
 
 **Can a website be built faster with a bigger budget?**
 
-Sometimes, but content readiness usually matters more than budget. A rushed build with unclear content and photos rarely turns out well regardless of price.
+Sometimes, but content readiness usually matters more than budget. A rushed build with unclear content and photos rarely turns out well regardless of price. Read more in [Can a Website Be Built in a Day?](https://marieglowstudio.com/blog/can-a-website-be-built-in-a-day)
 
 **When should a business start a website project before a launch?**
 
@@ -3440,7 +3990,7 @@ No. Spreading limited time and attention across many platforms usually means non
 
 **Do I need a website before I start marketing?**
 
-You need somewhere ready for interested people to land and take a clear next step once a channel sends them there. If your website is not ready to receive visitors, or is missing a clear next step, fixing that is the actual first marketing task, even before choosing a channel.
+Yes, in the sense that you need somewhere ready for interested people to land and take a clear next step once a channel sends them there. If your website is not ready to receive visitors, or is missing a clear next step, fixing that is the actual first marketing task, even before choosing a channel.
 
 **How long before a marketing channel shows results?**
 
@@ -3780,7 +4330,7 @@ It is considered a positive engagement signal, and it clearly helps with trust r
 
 **Is Google Business Profile free to use?**
 
-Yes. Creating, verifying and managing a Google Business Profile costs nothing. The paid work, if any, is in the strategy, content and setup around it, such as SEO Foundations Setup, not the listing itself.
+Yes. Creating, verifying and managing a Google Business Profile costs nothing. The paid work, if any, is in the strategy, content and setup around it, such as [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations), not the listing itself.
 
 ### Contractor Website Quote Requests
 
@@ -3925,7 +4475,7 @@ Not exactly. Marketing is the activity itself: the pins, posts, emails and ads y
 
 **Do I need a digital strategy before I build a website?**
 
-It helps, but it is not required. Many small businesses build a website first, using their best guess at what customers need, then bring in strategy once they have real traffic and want to understand why visitors are not converting into sales, bookings or inquiries the way the owner expected.
+It helps, but it is not required. Many small businesses build a website first, using their best guess at what customers need, then bring in strategy, such as a [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap), once they have real traffic and want to understand why visitors are not converting into sales, bookings or inquiries the way the owner expected.
 
 **How often should a digital strategy be reviewed?**
 
@@ -3937,7 +4487,7 @@ Yes. A one-person business with a website, a Pinterest account and an email list
 
 **What is the first output of a digital strategy project?**
 
-Usually a map of your current customer journey across the website, search, Pinterest, email and any tools you use, paired with a written list of the exact points where people are dropping off today, followed by a prioritized plan that says which piece to fix first and why.
+Usually a map of your current customer journey across the website, search, Pinterest, email and any tools you use, paired with a written list of the exact points where people are dropping off today, followed by a prioritized plan that says which piece to fix first and why. The [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) covers all three.
 
 ### Local SEO for Service Businesses: Where to Start
 
@@ -4020,7 +4570,7 @@ It depends on your competition and how much your existing listings and website a
 
 **Do online directories still matter for local SEO?**
 
-Yes. Directories such as Yelp, industry association listings and local chambers of commerce still shape how confidently search engines and AI tools describe your business, especially once your name, address and phone number match your Google Business Profile exactly across every listing you can find.
+Yes. Directories such as Yelp, industry association listings and local chambers of commerce still help search engines and AI tools understand your business, especially once your name, address and phone number match your Google Business Profile exactly across every listing you can find.
 
 **Can a service business rank without a physical storefront?**
 
@@ -4028,7 +4578,7 @@ Yes. Google Business Profile supports service area businesses that hide their ex
 
 **What is the fastest first step for local SEO?**
 
-Claim or fully complete your Google Business Profile: category, service areas, hours, photos and a written description in your own words, before touching anything else. It is usually the listing most likely to appear first when someone searches your service together with a location.
+Claim or fully complete your [Google Business Profile](https://marieglowstudio.com/blog/google-business-profile-checklist): category, service areas, hours, photos and a written description in your own words, before touching anything else. It is usually the listing most likely to appear first when someone searches your service together with a location.
 
 ### What a Service Business Website Needs
 
@@ -4102,7 +4652,7 @@ In most cases yes, even as a starting price or range. Visitors who cannot find a
 
 **How many pages does a service business website need?**
 
-Some businesses do fine with one well organized page covering services, trust, location and booking. Others with several distinct services benefit from separate pages for each, once there is enough content to justify them.
+Some businesses do fine with [one well organized page](https://marieglowstudio.com/website-starter) covering services, trust, location and booking. Others with several distinct services benefit from separate pages for each, once there is enough content to justify them.
 
 **What is the biggest mistake on service business websites?**
 
@@ -4432,7 +4982,7 @@ It works best when the Pinterest account is connected to useful website content 
 
 Pinterest content may continue being discovered beyond the day it is published, especially when the pin targets an evergreen search topic and links to a useful destination.
 
-Learn more in [How Pinterest Drives Long-Term Website Traffic](https://marieglowstudio.com/blog/pinterest-long-term-website-traffic.html).
+Learn more in [How Pinterest Drives Long-Term Website Traffic](https://marieglowstudio.com/blog/pinterest-long-term-website-traffic).
 
 ### How Pinterest and Email Marketing Work Together
 
@@ -4706,7 +5256,7 @@ If your pins already get views but few visitors reach your signup page, the [Pin
 
 **Should Pinterest pins link directly to a signup form?**
 
-A pin can link to a focused landing page containing a signup form. The landing page should explain what the visitor will receive, why it is useful, and what happens after they subscribe.
+Yes, as long as the form sits on a focused page. A pin can link to a dedicated signup page or to a useful article containing an email form. The page should explain what the visitor will receive, why it is useful, and what happens after they subscribe.
 
 **Do I need a large website to use this strategy?**
 
@@ -4714,7 +5264,7 @@ No. You need a clear landing page, a working signup form, a useful resource, an 
 
 **How often should I promote a lead magnet on Pinterest?**
 
-You can create several fresh pins for the same lead magnet using different headlines, visual layouts, and content angles. Keep each pin relevant to the same destination and avoid making promises the resource does not fulfill.
+Fresh pins matter more than a fixed schedule. You can create several fresh pins for the same lead magnet using different headlines, visual layouts, and content angles. Keep each pin relevant to the same destination and avoid making promises the resource does not fulfill.
 
 **Can product-based businesses use Pinterest and email together?**
 
@@ -4904,7 +5454,7 @@ Rarely. Low impressions usually point to one of five gaps: an unclear profile or
 
 **Does the Pinterest SEO Audit make these fixes for me?**
 
-No. The audit is a review and a ranked 30-day plan, not hands-on implementation, so you or your team make the changes.
+No. The [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) is a review and a ranked 30-day plan, not hands-on implementation, so you or your team make the changes.
 
 ### How People Search for Products and Services on Pinterest
 
@@ -5362,7 +5912,7 @@ No. Choose one main phrase for each Pin and place it in the Pin title, the descr
 
 **Do I need to rename image files before uploading them to Pinterest?**
 
-It is a quick step worth taking. Renaming the file to a plain descriptive phrase before you upload it keeps the image consistent with the Pin title and description around it.
+Yes, it is a quick step worth taking. Renaming the file to a plain descriptive phrase before you upload it keeps the image consistent with the Pin title and description around it.
 
 ### How Long Does Pinterest SEO Take to Work?
 
@@ -5649,7 +6199,7 @@ No. Publishing before the website and account foundation are ready sends visitor
 
 **How long does Pinterest Business Account Setup take?**
 
-It is delivered 10 to 15 business days after Marie Glow Studio has received all required information and account access. It builds the account foundation and does not include ongoing posting.
+It is delivered 10 to 15 business days after Marie Glow Studio has received all required information and account access. [Pinterest Business Account Setup](https://marieglowstudio.com/pinterest-account-setup) builds the account foundation and does not include ongoing posting, which is part of [Monthly Pinterest Management](https://marieglowstudio.com/pinterest-management).
 
 ### How to Write SEO-Friendly Pinterest Pin Titles
 
@@ -6077,11 +6627,11 @@ The audit stops at the plan and does not include hands-on implementation, so the
 
 **Can I audit my own Pinterest account without paying anyone?**
 
-Yes. The five steps above are a basic self-review of your profile, boards, pins, destination pages and analytics. A professional audit adds a trained second opinion and a ranked plan, which helps most when you cannot tell which fix to make first.
+Yes. The five steps above are a basic self-review of your profile, boards, pins, destination pages and analytics. A [professional Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) adds a trained second opinion and a ranked plan, which helps most when you cannot tell which fix to make first.
 
 **Does a Pinterest SEO audit include making the changes?**
 
-No. The audit is a review and a prioritized 30-day action plan. Implementation is not automatically included, so you or your team make the fixes.
+No. The [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) is a review and a prioritized 30-day action plan. Implementation is not included, so you or your team make the fixes.
 
 ### Pinterest Management Services: What They Include
 
@@ -6154,11 +6704,11 @@ One scheduler to consider is [Tailwind](https://try.tailwindapp.com/juanita), wh
 
 **Do I need a Pinterest business account before hiring a management service?**
 
-Yes. A business account gives access to analytics and Pinterest business features. If you do not have one yet, Pinterest Business Account Setup comes first, and management can follow.
+Yes. A business account gives access to analytics and Pinterest business features. If you do not have one yet, [Pinterest Business Account Setup](https://marieglowstudio.com/pinterest-account-setup) comes first, and management can follow.
 
 **Is Pinterest management a long contract?**
 
-No. Monthly Pinterest Management is month to month with no minimum commitment, although three to six months is suggested to see real traction. Payment is billed in advance and is non-refundable once work begins for that month.
+No. [Monthly Pinterest Management](https://marieglowstudio.com/pinterest-management) is month to month with no minimum commitment, although three to six months is suggested to see real traction. Payment is billed in advance and is non-refundable once work begins for that month.
 
 ### Pinterest SEO for Shopify Stores: A Beginner's Guide
 
@@ -6463,7 +7013,7 @@ No. Start with the one that matches your symptom, make a single dated change, an
 
 **Can a Pinterest SEO audit find these mistakes for me?**
 
-Yes. A Pinterest SEO Audit reviews your profile, boards, keywords, pins, account organization, website connection and analytics, then gives you a prioritized 30-day action plan. It identifies the gaps but does not make the fixes for you.
+Yes. A [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) reviews your profile, boards, keywords, pins, account organization, website connection and analytics, then gives you a prioritized 30-day action plan. It identifies the gaps but does not make the fixes for you.
 
 ### Pinterest SEO Strategy: How to Improve Visibility and Traffic
 
@@ -7032,7 +7582,7 @@ Not necessarily. Clear, relevant calls to action usually work better than many c
 
 **Can design changes alone improve conversions?**
 
-Design can reduce friction, but the offer, pricing, trust, traffic quality, product demand and customer service also affect results.
+Not on their own. Design can reduce friction, but the offer, pricing, trust, traffic quality, product demand and customer service also affect results.
 
 ### DIY Website vs Professional Website Design
 
@@ -7287,7 +7837,7 @@ Test products, checkout, payments, shipping, taxes, notifications, policies, nav
 
 **Does Shopify automatically handle SEO?**
 
-Shopify provides useful technical foundations, but the owner still needs clear content, metadata, product information, internal links, image details and ongoing optimization.
+Partly. Shopify provides useful technical foundations, but the owner still needs clear content, metadata, product information, internal links, image details and ongoing optimization.
 
 **How often should a Shopify store be audited?**
 
@@ -7441,7 +7991,7 @@ Create a clear basic brand foundation first, then begin marketing. They can deve
 
 **Can good marketing fix weak branding?**
 
-Marketing may generate attention, but unclear positioning and an inconsistent experience can make that attention harder to convert into trust and sales.
+Not on its own. Marketing may generate attention, but unclear positioning and an inconsistent experience can make that attention harder to convert into trust and sales.
 
 ### The Basics of Product Branding
 
@@ -7559,7 +8109,7 @@ When you are ready for a store of your own, the [Complete Website and Brand Iden
 
 **Are digital products easier to sell?**
 
-They can be easier to deliver, but they still need demand, useful content, clear positioning, traffic, customer support, and protection from misleading expectations.
+Not necessarily. They can be easier to deliver, but they still need demand, useful content, clear positioning, traffic, customer support, and protection from misleading expectations.
 
 **Do physical products have lower profit margins?**
 
@@ -7768,7 +8318,7 @@ The first email should normally arrive immediately or within a few minutes, espe
 
 **Should the first welcome email sell a product?**
 
-The first priority is delivering what was promised and welcoming the subscriber. You may include a relevant product or service link, but it should not distract from the reason the person joined.
+Not as its main job. The first priority is delivering what was promised and welcoming the subscriber. You may include a relevant product or service link, but it should not distract from the reason the person joined.
 
 **What is the difference between a welcome email and a newsletter?**
 
@@ -8354,7 +8904,7 @@ Tracking makes progress visible, supports better planning, and prevents large go
 
 **Can small tasks really grow revenue?**
 
-Individually they may be modest, but clearer pages, better follow-up, consistent marketing, accurate pricing, and repeatable systems work together.
+Yes, together. Individually they may be modest, but clearer pages, better follow-up, consistent marketing, accurate pricing, and repeatable systems work together.
 
 **How often should progress be reviewed?**
 
@@ -8665,7 +9215,7 @@ It's a behind-the-scenes look at how one small decision, choosing not to scroll 
 
 **What is Answer Engine Optimization (AEO)?**
 
-Answer Engine Optimization (AEO) focuses on helping AI assistants and answer engines understand your content so they can provide accurate information when users ask questions.
+[Answer Engine Optimization (AEO)](https://marieglowstudio.com/blog/seo-vs-aeo-vs-geo) is the work of making your content easier for AI assistants and answer engines to understand, so the information they give about your business is more likely to be accurate when users ask questions.
 
 **Why are Google reviews important?**
 
@@ -8772,7 +9322,7 @@ SEO improvements usually take several weeks to several months depending on your 
 
 **Do I need a blog for Shopify SEO?**
 
-A blog helps you target additional keywords, answer customer questions, and build more opportunities for people to discover your Shopify store through search.
+Not required, but a blog helps you target additional keywords, answer customer questions, and build more opportunities for people to discover your Shopify store through search.
 
 **Can beginners do Shopify SEO?**
 
@@ -9549,11 +10099,11 @@ If you want to build a sustainable Pinterest workflow, you can explore [Tailwind
 
 **Is Pinterest social media or a search engine?**
 
-It has social features, but people often use Pinterest like a visual search engine to find ideas, products, tutorials, and future plans.
+It has social features, but people often use Pinterest like a [visual search engine](https://marieglowstudio.com/blog/pinterest-search-engine-small-business) to find ideas, products, tutorials, and future plans.
 
 **How long does Pinterest content last?**
 
-A useful pin can continue appearing in search and recommendations well beyond the day it is published, especially when the topic and destination remain relevant.
+A useful pin can continue appearing in search and recommendations [well beyond the day it is published](https://marieglowstudio.com/blog/pinterest-long-term-website-traffic), especially when the topic and destination remain relevant.
 
 **Does Pinterest work for small businesses?**
 
@@ -10241,7 +10791,7 @@ No. Branding includes the logo, colors, fonts, photos, voice, customer experienc
 
 **How often should a small business rebrand?**
 
-Rebranding should solve a real problem, such as unclear positioning or an outdated identity. A business does not need a full rebrand every time a new visual trend appears.
+There is no set schedule. Rebranding should solve a real problem, such as unclear positioning or an outdated identity. A business does not need a full rebrand every time a new visual trend appears.
 
 ### How to Start a Product-Based Business From Home
 

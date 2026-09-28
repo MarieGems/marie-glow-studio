@@ -75,6 +75,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S130MK820Y"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-S130MK820Y');</script>
+<script defer src="/assets/js/track.js"></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -178,7 +179,7 @@
         <ul class="nav-dropdown">
           <li><a href="/web-design" data-page="web-design"><strong>Web Design &amp; Development</strong><span>The destination: sites built to convert</span></a></li>
           <li><a href="/pinterest-marketing" data-page="pinterest-marketing"><strong>Pinterest Marketing</strong><span>Discovery: traffic that keeps coming</span></a></li>
-          <li><a href="/seo" data-page="seo"><strong>SEO</strong><span>Search visibility on Google and AI answers</span></a></li>
+          <li><a href="/seo" data-page="seo"><strong>SEO</strong><span>Search, local SEO and AI-search readiness</span></a></li>
           <li><a href="/digital-strategy" data-page="digital-strategy"><strong>Digital Strategy</strong><span>Connecting the pieces into one journey</span></a></li>
         </ul>
       </li>
@@ -234,7 +235,8 @@
   <section class="blog-list">
     <div class="wrap">
       <nav class="blog-chips-wrap" aria-label="Browse by topic">
-        <ul class="blog-chips">
+        <button type="button" class="blog-topics-toggle" aria-expanded="false" aria-controls="blog-topics-list"><span class="blog-topics-label">Filter by topic</span><span class="blog-topics-current">Keywords and Getting Found</span><svg class="blog-topics-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <ul class="blog-chips" id="blog-topics-list">
           <li><a class="badge-pill blog-chip" href="/blog/">All posts</a></li>
           <li><a class="badge-pill blog-chip" href="/blog/category/how-pinterest-works">How Pinterest Works</a></li>
           <li><a class="badge-pill blog-chip" href="/blog/category/keywords-and-getting-found" aria-current="page">Keywords and Getting Found</a></li>

@@ -8,7 +8,8 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 - Price: $249 (one-time)
 - Delivery: 5 business days from completed intake, guaranteed, or the revision round is free
 - Works for: a shop or a service business (buy button, booking link, quote form or call button)
-- Includes: professionally designed mobile-responsive one-page website customized to your brand colors/fonts/logo/photos/copy, basic on-page SEO, contact section with social links, domain-connection assistance, basic pre-launch testing, one revision round
+- Includes: professionally designed mobile-responsive one-page website customized to your brand colors/fonts/logo/photos/copy, basic on-page SEO, contact section with social links, domain-connection assistance, basic pre-launch testing, one revision round, a free Pinterest Quick-Start Checklist. For a service business, the site connects to your existing booking tool, quote form or phone number (a link/embed to the client's own tool; Marie Glow Studio does not provide or pay for the booking platform itself).
+- Hosting: delivered as static files, no ongoing platform subscription charged by Marie Glow Studio for the Website Starter itself. Host it anywhere that supports a static HTML site (your own domain, GitHub Pages, Netlify, or similar); hosting, domain and any third-party service costs are the client's own.
 - Add-ons: extra pages $79 each; Light-Edit Care Plan (first 30 days free, then $25/edit or $15/month for up to two)
 - Not included: e-commerce, custom photography or copywriting, unlimited revisions
 - Upgrade path: $100 of what you paid is credited toward the Complete Package if you upgrade within 6 months
@@ -17,7 +18,7 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 ### Complete Website & Brand Identity
 - Price: $1,497 (one-time)
 - Delivery: roughly 2-3 weeks depending on how quickly product images/content are provided
-- Includes: custom primary logo, brand colors, font recommendations, visual brand direction, style guide, social media graphics, full site build (Shopify for online stores, custom-coded for service businesses), custom homepage, mobile-responsive layout, essential pages, navigation, product/collection organization for up to 20 items, contact form, footer, policy pages, domain support, full store review/testing/training
+- Includes: custom primary logo, brand colors, font recommendations, visual brand direction, style guide, social media graphics, full site build (Shopify for online stores, custom-coded for service businesses), custom homepage, mobile-responsive layout, essential pages, navigation, product/collection organization for up to 20 items, contact form, footer, policy pages, domain support, full store review/testing/training. For a service business, the custom-coded site is wired to your existing booking or scheduling tool, quote form or phone number (a link/embed to the client's own tool; Marie Glow Studio does not provide or pay for the booking platform itself).
 - Credit: the $397 Digital Strategy Roadmap is credited toward this package if booked within 60 days
 - Refund policy: non-refundable once work begins
 - Checkout: https://buy.stripe.com/28E3cwgdc3Pq7x6czo3VC06
@@ -64,12 +65,14 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 - Scope: up to 10 pages
 - Includes: keyword map, titles and meta descriptions, schema markup, Google Search Console and Bing Webmaster Tools setup, sitemap, internal linking, Google Business Profile optimization
 - No ranking guarantees; this builds the foundation search engines and AI assistants need to understand the site
+- Delivery: needs-info. The site previously stated "usually two to three weeks," which was never confirmed by Marie and was removed from seo-foundations.html on 2026-09-27. Do not restate a specific timeline here or on the site until Marie confirms one.
 - Checkout: https://buy.stripe.com/28EbJ28KKeu42cMdDs3VC08
 
 ## Digital Strategy
 
 ### Digital Strategy Roadmap
 - Price: $397 (one-time)
+- Delivery: within 10 business days once everything needed to begin has been received. The project timeline begins only after all required content, information, files and access have been received. It does not start on the purchase date or first contact, and time spent waiting on the client (information, content, branding or assets, photos or files, logins or access, or other required materials) does not count. Confirmed by Marie on 2026-09-26. This clock-start rule applies to the Digital Strategy Roadmap only; it has not been extended to any other offer.
 - Includes: a map of how customers move across the website, search, Pinterest, email and tools; where they drop off today; a written 90-day plan with priorities; a walkthrough
 - Credit: the full $397 is credited toward the Complete Website & Brand Identity package if booked within 60 days
 - Checkout: https://buy.stripe.com/3cIeVe2mm5Xy9Feczo3VC09
@@ -78,4 +81,5 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 
 - Email: hello@marieglowstudio.com
 - Website: https://marieglowstudio.com/contact
-- Offers with a checkout link can be bought directly, then you complete a short intake form. The SEO audit, SEO Foundations and Strategy Roadmap start with a short message through the contact page.
+- Offers with a checkout link can be bought directly, then you complete a short intake form. This is true for every offer above, including the Website SEO Audit, SEO Foundations Setup and Digital Strategy Roadmap: each of their live pages leads with the Stripe checkout button as the primary call to action, confirmed 2026-09-27. The Website SEO Audit and SEO Foundations Setup pages also offer hello@marieglowstudio.com as a secondary option for anyone who wants to ask a question first; that is optional, not the required path.
+- General questions before buying anything, for any offer, can also go to the contact page (https://marieglowstudio.com/contact) or hello@marieglowstudio.com.
