@@ -3128,7 +3128,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (85)
+## Blog posts (86)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3671,6 +3671,67 @@ In my experience it helps to check the facts the tool gave you, test what it pro
 **How can I tell if the copy on my website is generic?**
 
 Read a paragraph and ask whether a competitor could paste it onto their site without changing a word. Generic copy rarely names your actual services, products, town or customers, and it tends to use impressive words that leave you unsure what the business does. Replace those lines with specifics only you know, such as what you sell, who you serve and what customers ask you most often.
+
+### Why Does My Pinterest Reach Suddenly Drop?
+
+URL: https://marieglowstudio.com/blog/why-does-my-pinterest-reach-suddenly-drop
+Topic: How Pinterest Works | Published: 2026-09-28
+
+If your Pinterest reach dropped suddenly, the usual explanation is one of three ordinary habits: pins that repeat an image or description you already used, a gap in how often you publish, or the seasonal slowdown many accounts see each summer. A sudden drop rarely means an account is broken.
+
+#### What Typically Causes a Sudden Drop in Pinterest Reach?
+
+Small business owners describe the same pattern in the Pinterest Business Community again and again: steady impressions for weeks, then a sharp fall with no obvious cause. Explainer articles written about that exact pattern point to the same handful of habits: pins that reuse an image or file that has already been published, publishing on and off instead of on a steady rhythm, and the drop in overall Pinterest activity that shows up most summers. None of these point to a broken account. They point to something in your own publishing pattern that changed, which also means you can usually find it. For more on how the platform weighs an account over time, see [how Pinterest decides which pins to show](https://marieglowstudio.com/blog/how-pinterest-decides-which-pins-to-show).
+
+#### Are You Publishing Duplicate or Recycled Pins?
+
+Publishing the same pin image, file and description again, or pinning the same product photo across several boards with no new design or wording, is one of the most commonly cited reasons for a reach drop. Pinterest's own guidance already discourages an account that reads as pure self-promotion, and shop owners who pin only their own product photos without mixing in other content typically see minimal traction because of it. The fix is not to stop pinning your own pages. It is to give a page you have already pinned a new image, a new title and a new description the next time you pin it, instead of reusing the same file.
+
+#### Did Your Posting Consistency Change?
+
+A second commonly cited cause is a change in how often you publish. If you pinned daily for a few weeks, then stopped for two or three weeks for a launch, a vacation or a busy season, a following reach dip is a common, reported pattern rather than a penalty. Pinterest rewards a steady rhythm more than a burst followed by silence. If your calendar shows a gap right before the drop, treat that gap as the likely cause before assuming anything else changed. A [Pinterest content calendar](https://marieglowstudio.com/blog/pinterest-content-calendar) makes a gap like that easier to spot before it turns into a multi week gap.
+
+#### Is This Just the Seasonal Summer Slump?
+
+A seasonal dip is also widely reported. Many small accounts see reach fall over the summer months as overall Pinterest activity shifts, then recover as people start planning ahead for fall and the holidays. If your drop lines up with that calendar window rather than with anything you changed in your account, it may simply be the season rather than a mistake in your strategy.
+
+#### What Should You Check First This Week?
+
+Work through these in order rather than changing several things at once. Changing one habit at a time is the only way to know which fix actually brought reach back.
+
+- Look at whether your last several pins reuse an image or description you have already published, rather than a fresh one.
+
+- Look at your publishing calendar for the weeks before the drop, and note any gap in how often you posted.
+
+- Check the date the drop started against the calendar. A summer dip lines up with the season, not with anything you changed.
+
+- Click through a handful of your own pins to confirm the destination link still works and still lands on the right page.
+
+- Compare reach against saves and outbound clicks rather than reach alone, since a drop in one number does not always mean a drop in the others.
+
+#### How Long Does It Take for Pinterest Reach to Recover?
+
+There is no fixed timeline. Pinterest is built for the long term: a single pin can keep gaining impressions for months, and account level trends tend to move slowly in both directions. Recovery time depends on your niche, your competition, how consistently you publish going forward, and how much of your recent content was duplicate or recycled. That long recovery window is the same reason [Pinterest content can keep driving traffic for months](https://marieglowstudio.com/blog/why-pinterest-content-drives-traffic) once it has found its footing. Fixing the habit that caused the dip is the part in your control. Exactly when it recovers is not something anyone can guarantee.
+
+#### Does This Look Different for a Service Business?
+
+For a salon, a contractor or a coach, the pattern shows up the same way: a reach drop most often traces back to duplicate content, a publishing gap, or the season. The difference is what fresh content means. A product business can photograph a new item. A service business is usually pinning the same handful of pages, a booking page, a service page, a few blog posts, so freshness comes from a new angle on existing work: a tip pulled from a recent project, a plain description of a process a client asked about, or a new image built around a page you already have, rather than an entirely new product to show. Plain language and visible proof of real work tend to matter more here than a polished tagline, since the reader is deciding whether to trust someone with their time or their home, not deciding between two nearly identical products.
+
+Instead of guessing which of these fits your account, a [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) looks at your actual pin history, board setup and posting pattern, then leaves you with a ranked 30 day list of what to fix first.
+
+#### Frequently asked questions
+
+**Is a drop in Pinterest reach always a sign something is broken?**
+
+No. A reach drop can come from duplicate pins, a gap in posting, or the seasonal dip many accounts see over the summer. None of those mean the account is broken.
+
+**Should I delete old pins that reuse the same image?**
+
+Not necessarily. The habit to change is going forward: give a page a new image, title and description the next time you pin it, rather than deleting everything you already published.
+
+**Does a Pinterest reach drop always mean less website traffic?**
+
+Not always. Reach measures how many people saw a pin, and clicks to your website are a separate number, so it is worth checking both before assuming a reach drop cost you traffic.
 
 ### How to Measure Small Business Marketing
 
