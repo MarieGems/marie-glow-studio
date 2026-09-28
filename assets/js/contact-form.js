@@ -22,6 +22,8 @@
         .then(function (r) { return r.json(); })
         .then(function (data) {
           if (data.ok) {
+            // Announce success before the reset so listeners (assets/js/track.js) can still read the field values.
+            form.dispatchEvent(new CustomEvent('mg:form-success'));
             status.textContent = "Thanks, it's on its way! I'll get back to you soon.";
             form.reset();
           } else {
