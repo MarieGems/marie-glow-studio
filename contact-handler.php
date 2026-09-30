@@ -24,12 +24,15 @@ if (!empty($_POST['hp_company_url'])) {
 }
 
 // Cloudflare Turnstile: verify the token the widget added to the form. The secret
-// key lives outside the repo (TURNSTILE_SECRET env var, or a one-line file at
-// ../turnstile-secret.txt above the web root). If no secret is configured yet,
-// verification is skipped so the form keeps working until it is set up.
+// key lives outside the repo (TURNSTILE_SECRET env var, or a one-line
+// turnstile-secret-glow.txt in the account home folder, one or two levels above
+// this file). If no secret is configured yet, verification is skipped so the
+// form keeps working until it is set up.
 $turnstileSecret = getenv('TURNSTILE_SECRET') ?: '';
-if ($turnstileSecret === '' && is_readable(__DIR__ . '/../turnstile-secret.txt')) {
-    $turnstileSecret = trim(file_get_contents(__DIR__ . '/../turnstile-secret.txt'));
+foreach ([__DIR__ . '/../turnstile-secret-glow.txt', __DIR__ . '/../../turnstile-secret-glow.txt'] as $secretFile) {
+    if ($turnstileSecret === '' && is_readable($secretFile)) {
+        $turnstileSecret = trim(file_get_contents($secretFile));
+    }
 }
 if ($turnstileSecret !== '') {
     $token = trim($_POST['cf-turnstile-response'] ?? '');
@@ -48,7 +51,10 @@ if ($turnstileSecret !== '') {
     ]]);
     $verify = @file_get_contents('https://challenges.cloudflare.com/turnstile/v0/siteverify', false, $ctx);
     $result = $verify ? json_decode($verify, true) : null;
-    if (empty($result['success'])) {
+    $allowedHosts = ['marieglowstudio.com', 'www.marieglowstudio.com'];
+    if (empty($result['success'])
+        || ($result['action'] ?? '') !== 'contact'
+        || !in_array($result['hostname'] ?? '', $allowedHosts, true)) {
         respond(false, 'The spam check failed. Please refresh the page and try again.');
     }
 }
