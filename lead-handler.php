@@ -26,6 +26,12 @@ if (!empty($_POST['hp_company_url'])) {
     respond(true);
 }
 
+// Cloudflare Turnstile (shared check in turnstile.php).
+require_once __DIR__ . '/turnstile.php';
+if (($turnstileError = turnstile_check('lead')) !== null) {
+    respond(false, $turnstileError);
+}
+
 // One-line, length-capped, header-safe text.
 function clean($key, $max = 200) {
     $v = trim($_POST[$key] ?? '');

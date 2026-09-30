@@ -25,6 +25,12 @@ if (!empty($_POST['hp_company_url'])) {
     respond(true);
 }
 
+// Cloudflare Turnstile (shared check in turnstile.php).
+require_once __DIR__ . '/turnstile.php';
+if (($turnstileError = turnstile_check('intake')) !== null) {
+    respond(false, $turnstileError);
+}
+
 $serviceLabels = [
     'pinterest-audit' => 'Pinterest SEO Audit ($197)',
     'pinterest-account-setup' => 'Pinterest Account Setup ($497)',
