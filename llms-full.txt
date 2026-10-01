@@ -3128,7 +3128,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (88)
+## Blog posts (89)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3226,6 +3226,69 @@ A useful starting point is to post more standard pins than Idea Pins most weeks,
 **Are Idea Pins worth it for a service business with no physical product to show?**
 
 Yes. A short Idea Pin showing a process, a before and after, or a few seconds of real work builds the kind of recognition a single static image cannot, though the booking or contact link still needs to live on a standard pin.
+
+### Shopify Pricing Explained: Monthly Plans vs. What a Custom Build Actually Costs
+
+URL: https://marieglowstudio.com/blog/shopify-pricing-explained-monthly-plans-vs-what-a-custom-build-actually-costs
+Topic: Shopify and Web Design | Published: 2026-10-01
+
+How much does a Shopify website cost? Shopify's own monthly plans run about $39 to $2,300 or more, basic setup help from a freelancer typically adds $500 to $2,000, and a fully custom built store from an agency commonly runs $5,000 to $20,000 or more, depending on scope.
+
+#### How much does a Shopify plan cost each month?
+
+Shopify's published pricing ladder runs from around $39 a month for the entry tier up to roughly $2,300 or more a month for its enterprise tier, built for high volume stores. The lower tiers, the ones most small shops actually use, cover the platform itself: hosting, checkout, inventory tools and a library of starting themes, not a finished, branded design. Anything beyond the platform fee, from a logo to a fully customized layout, is a separate cost on top of it, whether you do that work yourself or pay someone else to.
+
+#### What does basic Shopify setup help cost beyond the monthly plan?
+
+Hiring someone to set up a theme, load products and connect payments typically adds $500 to $2,000 on top of the monthly plan, based on published freelancer and agency pricing. That range covers configuring an existing theme rather than designing one from scratch: choosing a template, customizing colors and fonts, importing a product catalog, and testing checkout end to end. It sits between doing every step yourself and commissioning a fully custom design. Our [Shopify website checklist](https://marieglowstudio.com/blog/shopify-website-checklist) lists what to gather before paying for that setup work, so the quote you get actually matches the scope you need.
+
+#### What does a fully custom built Shopify store cost?
+
+A custom build, where a designer creates the layout, navigation and brand elements from scratch rather than adapting a template, commonly runs $5,000 to $20,000 or more at an agency. The lower end of that range usually covers a straightforward store with a handful of product types. The higher end covers larger catalogs, custom app integrations and ongoing design iteration. At this level, the monthly plan fee becomes a small piece of the total cost, not the whole of it.
+
+Three ways to pay for a Shopify store
+
+| What you pay for | Monthly platform fee | One time cost on top | What it actually covers |
+
+| Platform only, no outside help | About $39 to $2,300 or more | $0 | Hosting, checkout, inventory tools and a theme library you configure yourself |
+
+| Platform plus setup help | About $39 to $2,300 or more | About $500 to $2,000 | An existing theme configured around your products, brand colors and fonts |
+
+| Platform plus a fully custom build | About $39 to $2,300 or more | About $5,000 to $20,000 or more | Layout, navigation and brand elements designed specifically for your business |
+
+#### Why does the price range swing from under fifty dollars to over twenty thousand?
+
+The spread comes down to how many decisions someone else makes for you, and how many hours that takes.
+
+- Platform fee alone: you make every design and content decision yourself, on a theme you did not pay anyone to build.
+
+- Setup help: someone configures an existing theme around your products, but the template's underlying structure stays close to what was published.
+
+- Fully custom build: a designer creates layout, navigation and brand elements specific to your business, then tests and refines them with you.
+
+Catalog size, the number of custom features such as subscriptions or bookings, and how much copywriting and photography are included all push the price within whichever tier you land in. None of these ranges include ongoing costs beyond the build itself, such as apps added later or a maintenance plan, so it is worth asking what is and is not included in a quote before comparing it against another one.
+
+#### Is Shopify even the right platform for every business?
+
+Shopify is built to sell physical and digital products through a cart and checkout, which makes it a strong fit for a product based shop such as [Marie Gems](https://mariegems.com), a shop that sells custom prints and gifts. A service business, a salon, a contractor or a coach, usually moves people through a different path: a search or a referral brings them to a service page, then proof of real work and a clear process build trust, then they reach out through a contact form, a quote request or a call before ever booking anything. That business is not trying to run a storefront at all, so it is often better served by a fast, custom coded site connected to its existing booking tool, quote form or phone number instead of a Shopify cart. If you are still deciding whether to build it yourself or hire the work out, our comparison of [DIY website vs professional website design](https://marieglowstudio.com/blog/diy-website-vs-professional-website-design) walks through that decision in more depth. The right platform follows the business model, not the other way around.
+
+#### How does Marie Glow Studio price a website, compared to this range?
+
+Marie Glow Studio's own pricing sits toward the lower end of this range by design. The Website Starter is $249 and is a one page site, live in about five business days from a completed intake, built for a shop or a service business with the buy button, booking link or quote form that fits how customers already say yes; extra pages can be added for $79 each, and a Light Edit Care Plan covers small updates afterward. The Complete Website & Brand Identity package is $1,497 and pairs full branding with a multi page build, on Shopify for an online store or custom coded for a service business, with product or collection organization for up to 20 items included. Someone who starts with the Starter and later wants the full package has $100 of that first payment credited toward it, as long as the upgrade happens within six months. See the full comparison between the two on the [web design and development page](https://marieglowstudio.com/web-design), where every price is listed before you have to ask for a quote. A detailed list of what every small business website should include, beyond pricing, is in our [small business website essentials](https://marieglowstudio.com/blog/small-business-website-essentials) guide.
+
+#### Frequently asked questions
+
+**Does Shopify's monthly plan include a custom website design?**
+
+No. The monthly plan fee covers the platform itself: hosting, checkout and a library of starting themes. A finished look built around your brand still needs setup help or a custom design, each priced separately from the monthly plan.
+
+**Why does a fully custom Shopify build cost so much more than setup help?**
+
+Setup help configures an existing theme around your products and brand colors. A custom build creates the layout, navigation and brand elements from scratch, which takes more design and development time and is priced accordingly.
+
+**Is Shopify the right choice for a service business that takes bookings instead of orders?**
+
+Not usually. Shopify is built around a cart and checkout. A service business is often better served by a custom coded site connected to its existing booking tool, quote form or phone number.
 
 ### How to Use Pinterest's Search Bar Autocomplete for Free Keyword Ideas
 

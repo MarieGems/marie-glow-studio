@@ -326,7 +326,7 @@
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/category/shopify-and-web-design</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -357,6 +357,12 @@
   <url>
     <loc>https://marieglowstudio.com/blog/category/digital-strategy</loc>
     <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://marieglowstudio.com/blog/shopify-pricing-explained-monthly-plans-vs-what-a-custom-build-actually-costs</loc>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
