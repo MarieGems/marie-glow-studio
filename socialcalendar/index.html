@@ -158,7 +158,7 @@ function card(v){
   if(tot>36)m.append(el("span","warn","Over 36 words. Say it a little faster or drop a word."));
   a.append(m);
   const row=el("div","row");
-  const cp=el("button","btn primary","Copy script");cp.onclick=()=>copy(lines.map((x,i)=>(i+1)+". "+x.say).join("\n"),cp);
+  const cp=el("button","btn primary","Copy script");cp.onclick=()=>copy(lines.map(x=>x.say).join("\n\n"),cp);
   const fb=el("button","btn",filmed?"Filmed":"Mark filmed");fb.setAttribute("aria-pressed",filmed);fb.onclick=()=>{store[k+"f"]=!filmed;save();render()};
   row.append(cp,fb); a.append(row);
   const dn=el("details");dn.append(el("summary","","Filming notes"));const ul=el("ul");v.notes.forEach(n=>ul.append(el("li","",n)));dn.append(ul);a.append(dn);
