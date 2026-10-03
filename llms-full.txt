@@ -3128,9 +3128,82 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (89)
+## Blog posts (90)
 
 Index: https://marieglowstudio.com/blog/
+
+### How to Name Your Business When Nothing Sounds Right
+
+URL: https://marieglowstudio.com/blog/how-to-name-your-business-when-nothing-sounds-right
+Topic: Branding and Launching | Published: 2026-10-03
+
+When nothing about your business name feels right, the fix is usually a better process, not more inspiration. Start by brainstorming from the words that already describe what you do, try combining two of them into one new word, say every finalist out loud, then check trademark and state registration records before you commit to one.
+
+#### Why Does Naming a Business Feel So Hard?
+
+Naming feels hard because it asks for two different skills at once: creative word play and a legal check, and most people try to do both in the same sitting. The creative part stalls when every obvious option is already taken, and the practical part gets skipped entirely because checking availability feels like the boring step. Treating naming as a short process with a few defined stages, rather than a single flash of inspiration, is what actually gets a founder to a name they can use.
+
+#### How Do You Brainstorm a Business Name When Nothing Sounds Right?
+
+Start from keywords, not from a blank page. List the words that describe what the business does, who it serves, and how it feels to work with you, then play with those words instead of waiting for a name to arrive fully formed.
+
+- Write down 10 to 15 words tied to your product or service, your ideal customer, and the feeling you want a customer to have.
+
+- Pair an unexpected word with an expected one (a craft word next to a feeling word, a location next to a service).
+
+- Look at the words from a different angle: a synonym, a word in another language, or a word from an adjacent industry.
+
+- Set a timer and write as many combinations as you can without judging them, then narrow the list afterward.
+
+Quantity before judgment matters here. A long, unfiltered list almost always produces two or three names worth testing further, and none of those names show up if the list only has five careful, safe options on it.
+
+#### Should You Try a Compound or Mashup Name?
+
+A compound name joins two whole words (think of a word that pairs a craft term with a feeling word). A mashup name blends pieces of two words into one new word. Both routes are worth trying once your keyword list exists, because they turn a plain, descriptive phrase into something that can actually be trademarked and searched for on its own. A mashup name is harder to spell from memory, so if you go that route, say it out loud to someone who has not seen it written down and watch whether they can repeat it back.
+
+#### Why Does Saying the Name Out Loud Matter?
+
+A name that reads well on a screen can still fail out loud. Say every finalist out loud in a real sentence a customer would actually say: "I found it on [name]," or "I booked with [name] last week." Listen for an awkward syllable collision, a word that sounds like something unrelated, or a name that is easy to mishear on the phone. A name also has to survive being said by someone else, not just read silently by you, since referrals and word of mouth depend on people repeating it correctly.
+
+#### How Do You Check If a Business Name Is Actually Available?
+
+Once a name survives the out-loud test, confirm it is actually usable before any logo, sign or website gets built around it.
+
+- Search your state's business registry (often called a secretary of state or corporations division site) for the exact name and close variations.
+
+- Search the United States Patent and Trademark Office's trademark database for conflicting marks in your category.
+
+- Check whether a matching or close domain name is available, since a name with no usable domain creates ongoing confusion.
+
+- Check the social handles you actually plan to use, not every platform that exists.
+
+- If you plan to operate under a name different from your legal entity name, confirm whether your state requires a DBA (doing business as) filing.
+
+Skipping this step is the most common naming mistake, not picking a boring name. A name that gets built into a logo, signage and a year of marketing before anyone checks availability can force a costly rename later. Our post on [branding mistakes small businesses should avoid](https://marieglowstudio.com/blog/branding-mistakes-small-businesses-should-avoid) covers this pattern in more detail.
+
+#### Does Naming Work Differently for a Service Business?
+
+A product business can often lean on a playful or abstract name because the product itself does the explaining once a customer sees it. A service business, think of a hair stylist, a home repair pro, or a one on one consultant, needs a name that still makes sense cold, before anyone has met the person behind it or seen a single result. A name that is too abstract can leave a first-time visitor unsure what the business even does, right at the moment they are deciding whether to reach out. It is fine for a service business name to lean descriptive (naming the service or the outcome directly) if that removes doubt faster than a clever name would. Either way, the name should hold up the first time someone reads it on a page built to explain what you do and how to book, not just on a logo.
+
+#### What Should You Do Once You Have a Short List?
+
+Narrow to two or three finalists that passed the availability check, then sit with them for a few days instead of deciding the same afternoon you found them. A name that still feels right after a short break is a safer bet than one chosen in a single excited sitting. Our posts on [why cohesive branding matters](https://marieglowstudio.com/blog/why-cohesive-branding-matters-for-small-businesses) and [the basics of product branding](https://marieglowstudio.com/blog/basics-of-product-branding) are worth reading next, since the name you choose becomes the starting point for every color, font and design decision that follows it.
+
+Once a name is locked in, the work shifts from wordplay to building the identity around it. The Complete Website & Brand Identity package pairs a custom logo, brand colors, font recommendations and a style guide with a full, multi-page website, built on Shopify for a store or custom-coded for a service business, so the name you just chose gets a consistent look everywhere a customer meets it. See the [Complete Website & Brand Identity package](https://marieglowstudio.com/complete-website-package) for what is included.
+
+#### Frequently asked questions
+
+**What is the most common mistake when naming a business?**
+
+Building a logo, signage and marketing around a name before checking whether it is actually available. Search your state business registry and the USPTO trademark database first, then confirm a usable domain and DBA filing if your state requires one.
+
+**Should a service business pick a playful name or a descriptive one?**
+
+A service business often does better with a name that makes sense before anyone has met the person behind it. A descriptive name that states the service or the outcome directly can remove doubt faster than a clever, abstract one.
+
+**How long should you wait before locking in a business name?**
+
+Narrow to two or three finalists that already passed the trademark and registry check, then sit with them for a few days instead of deciding the same afternoon you found them. A name that still feels right after a short break is a safer bet.
 
 ### When to Use an Idea Pin vs. a Standard Pin for Your Business
 
