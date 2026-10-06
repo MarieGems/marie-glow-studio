@@ -3128,9 +3128,77 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (90)
+## Blog posts (91)
 
 Index: https://marieglowstudio.com/blog/
+
+### Schema Markup for Small Business Websites: What It Is and Why It Helps You Get Found
+
+URL: https://marieglowstudio.com/blog/schema-markup-for-small-business-websites-what-it-is-and-why-it-helps-you-get-found
+Topic: SEO and Search Visibility | Published: 2026-10-06
+
+Schema markup on a small business website is a short block of code that tells search engines and AI tools exactly what a page describes, such as a business, a service or a question and answer. It stays invisible to visitors, and many sites already carry a basic version without anyone writing it by hand.
+
+This post covers the four schema types that come up most for a small business: Organization, LocalBusiness, Service and FAQ. None of them are required, none of them guarantee a ranking, and the fastest way to know what your site needs is to check what it already outputs before adding anything new.
+
+#### What is schema markup, in plain terms?
+
+Schema markup is a standardized way of labeling the parts of a web page so a computer can read them the way a person does, instead of guessing. A page might say Marie Glow Studio in large letters at the top, and schema is the part that tells a machine this word is the business name, not just large text.
+
+The format behind most schema today is JSON-LD, a small script added to the page behind the scenes. It sits alongside the words a visitor reads, and it never changes how the page looks.
+
+#### Which four schema types matter most for a small business?
+
+Industry SEO guides for small businesses point to four types that come up again and again, because they match what most product and service businesses actually need a page to say.
+
+Four schema types most small businesses use
+| Type | What it tells search engines and AI tools | Who it fits |
+| Organization | Your business name, logo and contact details as one connected entity | Any small business, product or service |
+| LocalBusiness | Your address, phone number and hours, tied to one physical location | A salon, a storefront or a contractor who serves a set area |
+| Service | What you offer, described as a service rather than a shipped product | Coaches, consultants, contractors and other service businesses |
+| FAQ | Questions and answers already on the page, grouped so a machine can match them to a search | Any business with a real FAQ section, like the one at the bottom of this post |
+
+A product-based shop usually leans on Organization markup on the homepage, plus separate product markup on individual listings. A service business, like a contractor or a stylist, gets more use out of LocalBusiness and Service, since there is no product page to mark up. A coach or consultant who works entirely online can still use LocalBusiness if they want local search to find them, or skip straight to Service and FAQ if location genuinely does not matter to their work.
+
+#### Do you have to add schema markup yourself?
+
+Usually not from scratch. Most website platforms and SEO plugins already generate basic Organization or LocalBusiness markup in the background, often pulling the business name, address and logo straight from settings you already filled in. The honest first step is finding out what your own site already outputs, not assuming you need to start from zero.
+
+If your site runs on a template or a plugin-driven platform, check its SEO settings before writing or paying for any code. [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) covers schema markup as part of a wider SEO setup for up to 10 pages, for a site that has none of this in place yet.
+
+#### How does schema markup actually help you get found?
+
+Schema markup does not move a page up the rankings on its own. What it does is make a page easier for a machine to describe correctly, which matters more now that people search through AI tools as well as a traditional results page. A page labeled clearly as a local business, with a consistent name, address and service list, gives both Google and an AI assistant a cleaner set of facts to work from.
+
+Clear, consistent facts are also what support [answer engine optimization](https://marieglowstudio.com/blog/answer-engine-optimization-for-small-business): an AI tool asked about a stylist or a contractor in your town can only repeat what it can find stated plainly, on your site and elsewhere. No service, including this one, can promise an AI tool will name your business. What schema markup does is remove one of the reasons it might get your details wrong.
+
+#### Does adding schema markup guarantee anything?
+
+No. Schema markup does not guarantee a ranking, a rich result in search, or a mention from an AI assistant. Results from any SEO work, structured data included, depend on your niche, your competition, your website and how consistently changes actually get made. The honest promise schema markup can make is narrower: it hands search engines and AI tools a clearer, more accurate set of facts, nothing more.
+
+That honest limit is also why schema markup is rarely sold on its own. It works best alongside the rest of a site basics: accurate titles and meta descriptions, a Google Business Profile that matches what the site says, and internal links that point search engines toward the right pages.
+
+#### How do you check what schema your site already has?
+
+Before adding anything, look at what is already there. Most platforms show structured data settings somewhere in their SEO or theme settings, and a quick search for your platform name plus schema settings usually turns up the right menu.
+
+If digging through settings is not how you want to spend an afternoon, the [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) checks your existing schema, FAQ structure and overall AI-search readiness, then hands back a ranked list of what to fix. It is one part of a larger review, not a one-line code change.
+
+For a deeper, type-by-type breakdown of what schema is and whether your specific site needs more of it, [this longer guide](https://marieglowstudio.com/blog/what-is-schema-markup) walks through it in more detail. A page missing from Google entirely is a different, bigger problem than its schema, and a separate guide lists [the common reasons a site fails to show up in Google](https://marieglowstudio.com/blog/why-your-website-is-not-on-google) if that sounds like yours.
+
+#### Frequently asked questions
+
+**Which schema type should a service business add first?**
+
+LocalBusiness, since it carries the address, phone number and hours that a contractor, salon or other local service business needs search engines and AI tools to get right.
+
+**Will my website platform add schema markup for me automatically?**
+
+Often, yes. Many platforms and SEO plugins already generate basic Organization or LocalBusiness markup from the business details already in your settings, so check what is there before adding more.
+
+**Can adding schema markup accidentally hurt my website?**
+
+Schema markup itself does not penalize a site. The real risk is listing details that do not match your actual page, like an old address or a service you no longer offer.
 
 ### How to Name Your Business When Nothing Sounds Right
 
