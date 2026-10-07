@@ -2029,6 +2029,7 @@ html.js .final-trust{transition-delay:0.36s;}
 .footer-about .brand{margin-bottom:14px;}
 .footer-tagline{font-family:var(--font-head);font-weight:600;font-size:0.82rem;color:var(--mg-ink);margin-bottom:10px;}
 .footer-entity{max-width:38ch;line-height:1.6;margin-bottom:12px;}
+.footer-address{max-width:38ch;line-height:1.6;margin:10px 0 0;font-size:.9em;opacity:.85;}
 .footer-email{color:var(--mg-plum-dark);font-weight:600;text-decoration:none;}
 .footer-email:hover{text-decoration:underline;}
 .footer-col{display:flex;flex-direction:column;gap:9px;}
