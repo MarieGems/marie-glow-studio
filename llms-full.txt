@@ -3128,7 +3128,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (94)
+## Blog posts (95)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3192,6 +3192,63 @@ Once there has been enough time for the buyer to actually use or try what they b
 **Does a service business need a post purchase email sequence?**
 
 Yes, in the same five-part shape, built around what actually happens: a booking confirmation in place of a receipt, an appointment-prep email in place of a shipping update, a follow-up in place of the delivery email, and a review request and rebooking reminder to close it out.
+
+### How Many Pins Per Day Should a Small Business Post?
+
+URL: https://marieglowstudio.com/blog/how-many-pins-per-day-should-a-small-business-post
+Topic: Pinterest Setup, Pins and Strategy | Published: 2026-10-10
+
+Post three to five pins a day on a new Pinterest account, and five to ten pins a day once the account is established. How many pins you post per day matters less than keeping a steady daily pace instead of posting in occasional bursts.
+
+#### How many pins should a new Pinterest account post each day?
+
+Pinterest scheduling tools that track account growth converge on the same starting range: three to five pins a day for a brand new account. That pace gives the account a steady, predictable publishing habit without flooding a handful of boards before the account has any real history. It is also a workload a business owner can actually keep up alone, which matters more than it sounds, since a schedule that gets abandoned after two weeks does less for a business than a smaller schedule that holds.
+
+Three to five pins a day usually means a mix of pins across a handful of boards rather than everything landing on one board at once. Spreading pins across boards that already have clear, specific titles and descriptions gives Pinterest more to work with than the same five pins stacked on a single board.
+
+#### How many pins should an established account post each day?
+
+Once an account has been posting consistently for a few months, five to ten pins a day is the range the same scheduling tools point to. Marie Glow Studio's own [Monthly Pinterest Management](https://marieglowstudio.com/pinterest-management) is built around that same pacing, with every tier also including keyword research, content planning and Pinterest and Tailwind scheduling, so the pace holds without the business owner doing the daily posting herself.
+
+Monthly Pinterest Management pin volume by tier
+| Tier | Pins per month | Roughly per day |
+| Starter | 100 | About 3 a day |
+| Growth | 200 | About 7 a day |
+| Pro | 300 | About 10 a day |
+
+Lining the number up against a plan makes it concrete. A candle shop owner who wants closer to ten pins a day does not need to sit down and design ten pins every morning. A month of pins can be batched in one sitting, loaded into a scheduler, and released at the daily pace, whether that work is done in house or handed to a service built around it.
+
+#### Does posting more pins work better than posting on a consistent schedule?
+
+No. The same pacing guidance that sets the three to five and five to ten ranges also points the same direction on consistency: a steady daily habit tends to work better than a burst of pins crammed into one afternoon, even when the totals for the week end up similar. A dozen pins scheduled once a week and nothing the rest of the time does not behave the same as two pins every day. A content calendar is the easiest way to hold a daily pace without relying on memory, and [building a Pinterest content calendar](https://marieglowstudio.com/blog/pinterest-content-calendar) is worth doing before worrying about the exact daily number.
+
+#### What counts as a new pin, and what counts as a repin?
+
+A new pin is a fresh image or video uploaded with its own title, description and destination link. A repin, sometimes called a save, is an existing pin, yours or someone else's, saved again to a different board. Daily pin counts from scheduling tools usually refer to new pins, not repins, because a new pin gives Pinterest a fresh piece of content with its own keywords to index. Repins still have a place in a schedule, since they keep boards active between new pins and cost almost no time, but they are not a substitute for publishing original pins regularly. A day built entirely from repins will not move an account the way a day with even one or two new pins will.
+
+#### How does a daily pin schedule change for a service business?
+
+A hairstylist, a landscaper or someone running a coaching practice can use the same three to five and five to ten ranges, though the pin mix looks different than it does for a shop selling physical goods. A product business usually has no shortage of product photos to pin. Someone selling a service has fewer of those on hand, so the schedule leans more on before and after photos, finished project photos, a quote graphic built from a client testimonial, or a pin that answers a question a client asked before booking. Shop owners who only ever pin their own product photos tend to see less traction, and the same holds for a service provider who only ever pins a logo or a team photo: mixing in pins that answer a real question performs better than an all promotional board. A landscaper, for example, can pin a finished backyard photo one day and a short answer to a common pricing question the next, without changing the daily number at all.
+
+#### How do I keep up a daily pin schedule without it taking over my week?
+
+Batching is the practical answer: set aside one block of time to create a week or a month of pins at once, using [pins designed to get clicks](https://marieglowstudio.com/blog/how-to-design-pinterest-pins), then use a scheduling tool such as Tailwind to publish them on the pace above without logging in every single day. That is also the shortest path if the daily number itself is the real obstacle. [Monthly Pinterest Management](https://marieglowstudio.com/pinterest-management) takes over the keyword research, the pin design and the daily scheduling, so the pace holds even on the weeks a business owner cannot get to it herself.
+
+None of this guarantees a specific result. How fast an account grows still depends on the niche, the competition in it, the quality of the pins and the website behind them, and whether the daily pace actually gets kept up over months rather than weeks. The daily number is a starting point to build a habit around, not a promise of traffic or sales.
+
+#### Frequently asked questions
+
+**Is it better to post many pins at once or spread them out across the day?**
+
+Spread them out. The scheduling tools behind this pacing point to steady daily posting over bursts, even when the weekly total ends up similar, so a few pins scheduled across the day perform better than a pile posted all at once.
+
+**Do repins count toward a daily pin goal?**
+
+Not really. Daily pin counts refer to new pins, images or videos uploaded with their own title, description and link, rather than repins of existing pins. Repins keep boards active but do not replace publishing new pins.
+
+**What if five to ten pins a day is more than I can keep up with myself?**
+
+Batch the pin design into one sitting a week or a month, then use a scheduler such as Tailwind to release them at the daily pace, or hand the keyword research, pin design and scheduling to Monthly Pinterest Management so the pace holds without it landing on your own calendar.
 
 ### How to Use the Pinterest Trends Tool to Plan Content
 
