@@ -32,6 +32,7 @@ RewriteRule ^(.*)$ https://marieglowstudio.com/$1 [R=301,L]
 
 # 3. Renamed pages.
 RewriteRule ^complete-package(\.html)?/?$ /complete-website-package [R=301,L,NC]
+RewriteRule ^meet-me/?$ /about [R=301,L,NC]
 # Client billing: a clean address for the Stripe customer portal login (302 so the target can change later)
 RewriteRule ^(billing|manage-subscription)/?$ https://billing.stripe.com/p/login/dRm9AU9OO2Lm7x60QG3VC00 [R=302,L,NC]
 
