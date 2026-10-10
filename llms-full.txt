@@ -3128,9 +3128,70 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (93)
+## Blog posts (94)
 
 Index: https://marieglowstudio.com/blog/
+
+### Post-Purchase Emails: What to Send After Someone Buys, Beyond the Receipt
+
+URL: https://marieglowstudio.com/blog/post-purchase-emails-what-to-send-after-someone-buys-beyond-the-receipt
+Topic: Email Marketing | Published: 2026-10-10
+
+A post purchase email sequence sends five emails in order: a receipt, a shipping update, a delivery or how-to email, a timed cross-sell or review request, and a referral ask for people who already bought. Each of these five post purchase email sequence examples answers a different question, instead of repeating the same sales pitch.
+
+#### What should the first email, the receipt, actually do?
+
+The first email after checkout is almost always opened, because the buyer is already watching for it. It should do more than confirm a charge. A strong receipt email restates what was ordered, gives a realistic timeline for what happens next, and matches the colors, voice and logo the buyer just saw on the website or the Pinterest pin that brought them there. A generic order notification from a payment processor, with no branding and no next step, wastes the one email in the sequence that is guaranteed to be read.
+
+#### What belongs in the shipping and delivery emails?
+
+A shipping update needs a tracking link and an honest delivery window, not just a line saying the order has shipped. A second email, timed to when tracking shows the package has arrived, is the natural place to add a short how-to or care note: a washing instruction for a printed shirt, a care note for a tumbler, or a reminder of exactly where to find a digital download and how to open it. This is also the point where a service business's version of the sequence starts to look different, covered further down.
+
+#### When is it fair to make another offer?
+
+A cross-sell or review request sent the same day as the receipt reads as a push for more money before the first order has even arrived. A sequence built around confirmation, shipping, delivery, then an educational or cross-sell email is timed to when the product has likely actually been used: a few days after delivery for something used right away, longer for something that takes more time to try. A review request works best once there has been enough time to form a real opinion, and a cross-sell works best once the first purchase has already proven useful. Sending either one too early is one of the timing mistakes covered in [email marketing mistakes small businesses make](https://marieglowstudio.com/blog/email-marketing-mistakes-small-businesses-make).
+
+#### How do you turn a buyer into a referral?
+
+A referral ask is the last email in the sequence, and it goes only to people who have already bought and, ideally, already said something positive in a review or a reply. It asks for one specific, low-effort action, such as forwarding the email or sharing one link with one person, instead of a vague request to spread the word. A product business such as [Marie Gems](https://mariegems.com), which ships printed shirts, tumblers and totes, can use this email to point a happy buyer toward a specific product page instead of a general shop link.
+
+#### Why does the order of these emails matter?
+
+Industry reporting from email platforms including Bloomreach, Retainful and MailerLite has pointed to a lopsided pattern in automated flows like this one: figures cited include automated sends driving as much as 37% of email revenue while making up only around 2% of total email volume. The exact number depends on the business and the platform measuring it, so treat it as a pattern rather than a promise. The pattern itself holds up on its own reasoning: a buyer who already said yes once is the easiest audience in the business to reach again, and a sequence built once keeps doing that work without anyone remembering to write another email.
+
+#### What does this sequence look like for a service business?
+
+A service business does not ship a box, but the same five-part shape still applies. A booking confirmation stands in for the receipt: date, time, location or call link, and what to expect. An appointment-prep email, sent a day or two ahead, stands in for the shipping update. A follow-up sent once the appointment or project wraps stands in for the delivery and how-to email, whether that is a care note after a salon visit, a maintenance tip after a repair, or a short recap after a coaching call. A review request and a rebooking reminder close the sequence out, timed to when the client has actually had a chance to notice the result.
+
+#### What order should these five emails go out in?
+
+- Receipt or booking confirmation, sent immediately
+
+- Shipping update or appointment-prep email, sent once there is something new to report
+
+- Delivery, how-to or follow-up email, sent once the product or service has actually been received
+
+- Cross-sell or review request, timed to when the buyer has had time to use or notice the result
+
+- Referral ask, sent only to buyers who have already said yes once
+
+#### Where does this fit next to everything else a small business is already doing?
+
+A post purchase sequence is one piece of a bigger customer journey, and it only pays off once the pieces in front of it, the list it mails and the pages it links back to, are already working. If the email list itself is thin, start with [growing an email list from scratch](https://marieglowstudio.com/blog/growing-an-email-list-from-scratch) or [the five emails every small business needs](https://marieglowstudio.com/blog/five-emails-every-small-business-needs) before layering on a post purchase sequence. For a wider view of where the whole path from website to search to Pinterest to email is actually breaking down, the [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) maps that full customer journey, names where people drop off today, and ends in a written 90 day plan with priorities.
+
+#### Frequently asked questions
+
+**What is a post purchase email sequence?**
+
+A set of emails sent in order after someone buys: a receipt, a shipping update, a delivery or how-to email, a timed cross-sell or review request, and a referral ask, each answering a different question the buyer has at that stage instead of repeating the same pitch.
+
+**How soon after delivery should a review request go out?**
+
+Once there has been enough time for the buyer to actually use or try what they bought, not the same day it arrives. The right gap depends on the product: a few days for something used right away, longer for something that takes more time to try.
+
+**Does a service business need a post purchase email sequence?**
+
+Yes, in the same five-part shape, built around what actually happens: a booking confirmation in place of a receipt, an appointment-prep email in place of a shipping update, a follow-up in place of the delivery email, and a review request and rebooking reminder to close it out.
 
 ### How to Use the Pinterest Trends Tool to Plan Content
 
