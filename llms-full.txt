@@ -3128,9 +3128,66 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (95)
+## Blog posts (96)
 
 Index: https://marieglowstudio.com/blog/
+
+### Website Redesign Cost: What Small Businesses Should Actually Budget
+
+URL: https://marieglowstudio.com/blog/website-redesign-cost-what-small-businesses-should-actually-budget
+Topic: Shopify and Web Design | Published: 2026-10-11
+
+The real website redesign cost for a small business runs 3,000 to 12,000 dollars from a freelancer or small agency, and 15,000 to 40,000 dollars for a larger custom build, plus 15 to 30 percent of that cost again every year for maintenance. Marie Glow Studio's own packages sit well under those ranges.
+
+#### How Much Does a Website Redesign Cost for a Small Business?
+
+The spread is wide because "redesign" covers very different jobs. A one-page refresh of an existing site is a different project than a full rebuild with new branding, new photography and a multi-page structure. Industry estimates gathered from small business web design agencies put a freelancer-tier redesign at 3,000 to 12,000 dollars, and a larger custom build, the kind an agency quotes for a multi-page service or ecommerce site, at 15,000 to 40,000 dollars. On top of the build itself, those same estimates put ongoing maintenance, hosting, small edits and security updates at 15 to 30 percent of the original build cost every single year.
+
+| Who builds it | Typical range reported |
+
+| Freelancer or small agency | 3,000 to 12,000 dollars |
+
+| Larger custom build | 15,000 to 40,000 dollars |
+
+| Yearly maintenance after launch | 15 to 30 percent of the build cost |
+
+A related guide breaks down [Shopify's own monthly plans compared to a fully custom build](https://marieglowstudio.com/blog/shopify-pricing-explained-monthly-plans-vs-what-a-custom-build-actually-costs), which is the right read if you are starting from nothing rather than redesigning an existing site.
+
+#### What Changes the Price Between a Freelancer, an Agency and a Studio?
+
+Four things move the number most: how many pages the site needs, whether it needs to take payment or just take a booking or a quote request, whether branding (logo, colors, a style guide) is part of the project, and how much of the content you can hand over ready to use versus needing it written or photographed from scratch. A one-page site with no ecommerce and your own content costs far less than a twenty-page store with new photography and copywriting. At Marie Glow Studio, the [Website Starter](https://marieglowstudio.com/website-starter) is a professional one-page site for $249, live in about five business days, built around content you already have. The Complete Website and Brand Identity package covers the bigger job: a full logo and brand identity plus a multi-page build, priced at $1,497, using Shopify when the business sells products and a custom-coded build when the next step is a booking or a quote instead. That price still lands under the low end of the freelancer-tier range reported above for a comparable multi-page build. Weighing whether to build it yourself first is worth a separate look too, covered in [DIY website versus professional website design](https://marieglowstudio.com/blog/diy-website-vs-professional-website-design).
+
+#### What Does Yearly Maintenance Actually Add to the Total?
+
+The 15 to 30 percent a year figure covers hosting, software updates, security patches and small content edits, the ongoing cost that a quoted build price often leaves out. A Website Starter site is delivered as static files with no ongoing platform fee charged by Marie Glow Studio itself; you host it wherever supports static HTML, and your own domain and hosting costs are separate. The first 30 days of small text or photo edits are free, and after that an optional Light-Edit Care Plan runs $25 per edit or $15 a month for up to two edits, instead of a percentage-of-build maintenance contract. A Shopify-built Complete Package site carries Shopify's own platform subscription on top, which is the client's cost to budget separately from the design fee.
+
+#### Why Does Marie Glow Studio Cost Less Than the Reported Range?
+
+One person designs, builds and connects every site, so there is no agency markup for account management or a design team passed between departments. The same designer behind every Marie Glow Studio build has also run her own product shop, [Marie Gems](https://mariegems.com), on Shopify for three years, so pricing a small business site is not theoretical work. There is also a built-in upgrade path instead of starting over: $100 of a Website Starter purchase credits toward the Complete Package if you upgrade within six months, and the $397 Digital Strategy Roadmap, which maps your website, search, Pinterest and email into one plan, credits in full toward the Complete Package if booked within 60 days. Extra pages beyond a Starter's one page add $79 each rather than forcing a jump straight to the full package.
+
+#### Do You Need a Full Redesign, or Just a Refresh?
+
+Not every tired-looking site needs the full rebuild budget above. A full redesign is closer to the right call when the structure itself is the problem: no mobile layout, no clear next step for a visitor, or branding that no longer matches the business. A lighter refresh, new photos, tightened copy, an updated homepage, fits when the bones of the site still work. [Ten signs your website needs a redesign](https://marieglowstudio.com/blog/10-signs-your-website-needs-a-redesign) walks through the specific checklist for telling the two apart before you commit to a budget.
+
+#### What Should a Service Business Budget for a Website?
+
+A salon, a contractor or a coach is not shopping for a cart and checkout, so the redesign budget question looks a little different. The job is a clear service page, visible proof of real work, and a fast way to reach a call, a quote form or a booking link, not a product catalog. Both Marie Glow Studio packages are built for this: a service business's Website Starter connects to the booking tool, quote form or phone number already in use, and the Complete Package wires a multi-page, custom-coded site to those same tools. Because the budget pressure for a service business is usually the booking step itself and not inventory or checkout, a focused one-page Starter is often enough to start, with room to add pages at $79 each as the business grows instead of budgeting for the full custom-build range up front.
+
+Before committing a redesign budget anywhere, compare it against what is actually included. The [Complete Website and Brand Identity Package](https://marieglowstudio.com/complete-website-package) lists everything that comes with the $1,497 price, including the branding work a freelancer quote in the 3,000 to 12,000 dollar range may or may not cover.
+
+#### Frequently asked questions
+
+**How do I know if I need the Starter or the Complete Package?**
+
+Start with the Website Starter at $249 if you need one clear, professional page live fast, with no e-commerce required. Move to the Complete Website and Brand Identity Package at $1,497 if you are launching or relaunching a full store or a multi-page service site with branding included.
+
+**Can I upgrade from the Starter later?**
+
+Yes. Upgrade to the Complete Website and Brand Identity Package within 6 months of your Starter purchase and $100 of what you paid is credited toward it.
+
+**Do you redesign existing websites, or only build new ones?**
+
+Both. A redesign follows the same process as a new build: research and strategy first, then design. Existing content, branding and SEO work that is still working gets carried forward instead of thrown out.
 
 ### Post-Purchase Emails: What to Send After Someone Buys, Beyond the Receipt
 
