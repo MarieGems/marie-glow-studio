@@ -3128,9 +3128,66 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (96)
+## Blog posts (97)
 
 Index: https://marieglowstudio.com/blog/
+
+### Abandoned Cart Emails: What Actually Gets Customers to Come Back
+
+URL: https://marieglowstudio.com/blog/abandoned-cart-emails-what-actually-gets-customers-to-come-back
+Topic: Email Marketing | Published: 2026-10-13
+
+The abandoned cart email strategy that actually works sends the first reminder within about an hour of checkout, while the shopper still remembers what was in the cart, then follows with two or three more emails spaced over several days, each carrying a photo of the item and, when it fits, a small incentive.
+
+#### How soon should the first abandoned cart email go out?
+
+Within about an hour of a shopper leaving checkout is the window email platforms point to most often. Industry reporting from platforms including Klaviyo, Unific and Emarsys has tied that first hour send to meaningfully higher conversion than a reminder sent the next day, with one widely cited figure putting it around 16 percent for carts emailed that quickly. Figures like that shift from one platform's dataset to another's, which makes this a useful signal about speed rather than a number to bank on for any single shop. What stays true across the reporting: the shopper's intent is still fresh, the product is still top of mind, and the email arrives before the same need gets solved somewhere else.
+
+#### How many emails should the series include, and how far apart?
+
+Two to three emails, spaced over roughly three to five days, is the shape most often recommended for this series. A workable spacing looks like this: the first email within the hour, a second one to two days later for anyone who still has not returned, and a third a few days after that for a shop that wants to close the loop with a stronger offer. Spacing the emails this way gives a shopper room to come back on their own, by way of the first reminder, before the series moves to a more direct nudge.
+
+#### Does every abandoned cart email need a discount?
+
+No single abandoned cart email needs a discount to do its job. The first email works mainly as a reminder: what was left in the cart, a clear photo of it, and a direct link back to checkout. An incentive, such as a small discount or free shipping, fits better later in the series, reserved for the shopper who saw the reminder and still did not return. Leading with a discount in the very first email trains shoppers to expect one every time, which is a real cost worth weighing against whatever that email actually recovers.
+
+#### What belongs inside each individual email?
+
+A short abandoned cart email leans on a few things doing the actual work, rather than a long page of extra products or a wall of copy:
+
+- A subject line that names the item or the cart directly, not a vague reminder with no detail
+
+- A product image that matches exactly what was left behind, the way a shop such as [Marie Gems](https://mariegems.com), selling printed shirts, tumblers and kindle cases, would show the specific item someone was looking at
+
+- One direct call to action back to checkout, instead of a page crowded with unrelated items
+
+- In a later email only, a specific incentive with a clear expiration, instead of an open ended one that never creates a reason to act
+
+#### What does an abandoned cart look like for a service business that does not use a shopping cart?
+
+A service business does not have a cart to abandon, but the same drop off happens at the quote form, the booking page or the intake form a visitor starts and never finishes. The same shape still works: a short follow up within about an hour to anyone who starts a quote request or booking form and leaves it incomplete, a second message a day or two later offering to answer a question, and, where it fits the business, a nudge toward picking a specific time instead of an open ended invitation to get in touch. A salon, a contractor or a coach loses the same easy opportunity a product shop does when a half finished form goes unanswered.
+
+#### Does this work on Shopify, or do you need a separate tool?
+
+Shopify stores already have a basic abandoned checkout email built into the platform, turned on from the settings for abandoned checkouts, and that native email is a reasonable place to start. A dedicated email platform such as Klaviyo adds the full two to three email series, finer timing control, and the ability to personalize the product image and copy to what was actually left in the cart, which is where the sequence described above becomes possible to build out in full. Which approach fits depends on how much of this a shop wants to manage directly, and how much they would rather hand off. For a service business outside of Shopify, the same incomplete form follow up usually has to be built directly into whatever booking or quote tool is already in use, since there is no native cart to recover.
+
+#### How does an abandoned cart series fit into the rest of a small business's email marketing?
+
+An abandoned cart series is one automation inside a bigger email system, and it only pays off once the pieces around it are already working. If new subscribers are not getting a proper welcome yet, start with [welcome email sequence examples](https://marieglowstudio.com/blog/welcome-email-sequence-examples) before adding a recovery series on top. [The five emails every small business needs](https://marieglowstudio.com/blog/five-emails-every-small-business-needs) walks through where an abandoned cart series sits next to a welcome sequence and a newsletter. It also pairs naturally with what happens after someone actually completes a purchase, covered in [post purchase emails: what to send after someone buys](https://marieglowstudio.com/blog/post-purchase-emails-what-to-send-after-someone-buys-beyond-the-receipt). The bigger question of which piece to fix first, across the website, search, Pinterest and email, is what the [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) is built to answer, closing with a ranked ninety day plan instead of a guess.
+
+#### Frequently asked questions
+
+**How soon should an abandoned cart email be sent?**
+
+Within about an hour of checkout, while the shopper still remembers what was in the cart. That timing is tied in industry reporting to a meaningfully stronger result than a reminder sent the next day.
+
+**How many abandoned cart emails should a series include?**
+
+Two to three, spaced over roughly three to five days: a first reminder within the hour, a second a day or two later, and a third a few days after that for a shop that wants to close the loop with an offer.
+
+**Does an abandoned cart email have to include a discount?**
+
+No. The first email works as a reminder with a product photo and a link back to checkout. A discount or incentive fits better in a later email, reserved for the shopper who still has not returned.
 
 ### Website Redesign Cost: What Small Businesses Should Actually Budget
 
