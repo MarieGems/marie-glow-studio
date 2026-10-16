@@ -3128,9 +3128,78 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (97)
+## Blog posts (98)
 
 Index: https://marieglowstudio.com/blog/
+
+### NAP Consistency: The Local SEO Basic That AI Search Engines Care About Too
+
+URL: https://marieglowstudio.com/blog/nap-consistency-the-local-seo-basic-that-ai-search-engines-care-about-too
+Topic: SEO and Search Visibility | Published: 2026-10-16
+
+NAP consistency means your business Name, Address and Phone number appear exactly the same way on your website, your Google Business Profile and every directory that lists you. Search engines and AI answer tools both use that match to decide whether your business is real and where it belongs, so small mismatches can quietly cost local visibility.
+
+#### What Is NAP Consistency, Exactly?
+
+NAP consistency is the practice of keeping your business Name, Address and Phone number identical across every place they appear online: your own website, your Google Business Profile, Yelp, Apple Maps, Bing Places, industry directories and any older profile still sitting out there from an earlier version of the business. The format matters as much as the information itself. A business listed as "123 Main St" in one place and "123 Main Street, Suite 2" in another is technically describing the same address, but to a system comparing listings, the mismatch reads as a question rather than a confirmation.
+
+#### Why Does NAP Consistency Matter for Local SEO?
+
+Local SEO rankings lean on cross referencing: search engines compare the business details on your website against the same details on your Google Business Profile and other directories, treating agreement across sources as a trust signal and disagreement as a reason for caution. A phone number that changed last year but never got updated on three directories, or a business name spelled one way on the website and another way on an old listing, can hold a business back in local map results even when every other part of the SEO work is solid. Reviews, categories and website content still matter, but none of that work counts for as much when the basic facts about the business do not agree with each other.
+
+#### Why Do AI Answer Engines Care About the Same Details?
+
+AI assistants and answer tools such as ChatGPT, Perplexity and Google's AI answers build a response to a question like where is this business located or what is the phone number for this shop by pulling from whatever consistent facts about a business they can find across the web, not from one single trusted source the way a phone book once worked. When the name, address and phone number line up everywhere, the AI tool has one clean answer to repeat. When the details conflict, the safer move for the tool is to say less, hedge, or leave the business out of the answer entirely rather than risk repeating the wrong number. This is the same idea covered in more depth in [answer engine optimization for small business](https://marieglowstudio.com/blog/answer-engine-optimization-for-small-business): consistent facts are one of the plainest things a business controls about how it shows up in an AI generated answer.
+
+#### Where Does Inconsistent NAP Data Usually Hide?
+
+Inconsistent NAP data rarely comes from one big mistake. It usually comes from small updates that happened in one place and never got carried everywhere else:
+
+- A website footer or contact page that still lists an old phone number or a previous address
+
+- A Google Business Profile with an address format or category that does not match the website
+
+- Older directory listings on sites like Yelp, Apple Maps or Bing Places that were never claimed or updated after a move
+
+- Social media bios that still show a previous business name or an outdated contact method
+
+- Booking, quote or contact pages built on an older version of the site that never carried over the newer, correct details
+
+A [Google Business Profile checklist](https://marieglowstudio.com/blog/google-business-profile-checklist) is a reasonable place to start checking, since that listing is usually the single most viewed source of business information besides the website itself.
+
+#### How Can a Small Business Clean Up Its NAP Data?
+
+Cleaning up NAP data is a one time audit followed by a short list of updates, not an ongoing project:
+
+- Decide on one canonical format for the name, address and phone number, written exactly as it should appear everywhere, including abbreviations such as "St." versus "Street" and whether a suite number is included
+
+- Update the website footer, contact page and any schema markup first, since this is the source the rest of the web should match
+
+- Update Google Business Profile next, matching the canonical format exactly
+
+- Work through the other directories and old social profiles one at a time, starting with the ones most likely to show up in a search for the business name
+
+- Recheck every few months, since a directory can reset or duplicate a listing without notice
+
+The details look a little different depending on the business. A salon or a contractor usually lists a service area instead of a public storefront address, which still needs to match across every listing even though there is no walk in location. A guide built for exactly that case is [local SEO for service businesses](https://marieglowstudio.com/blog/local-seo-for-service-businesses). A shop that sells online but offers local pickup needs the pickup address and hours to match across the website, the Google Business Profile and any marketplace listing that mentions it.
+
+#### Does Fixing NAP Guarantee Higher Rankings?
+
+No. NAP consistency is one input into local SEO and AI search visibility, not the whole picture. Rankings and how often an AI tool mentions a business also depend on reviews, the quality and relevance of the website content, competition in the area, and other signals outside of name, address and phone data. Fixing NAP mismatches removes a quiet source of friction; it does not replace the rest of the SEO work. The [Website SEO Audit](https://marieglowstudio.com/website-seo-audit) includes a local SEO check that reviews Google Business Profile, NAP consistency and local keywords, alongside a technical crawl, an on page review and an AI search readiness check, so a business gets one prioritized list instead of guessing which detail to fix first. For a business starting from nothing, [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) builds the keyword map, titles, schema markup and Google Business Profile optimization that NAP consistency sits alongside.
+
+#### Frequently asked questions
+
+**What does NAP stand for in local SEO?**
+
+NAP stands for Name, Address and Phone number, the three details a business needs to match exactly across its website, Google Business Profile and every directory listing.
+
+**Can inconsistent NAP data affect how AI tools answer questions about my business?**
+
+Yes. AI assistants and answer engines build their responses from consistent facts found across the web, so conflicting name, address or phone details can lead a tool to hedge, guess, or leave the business out of its answer entirely.
+
+**Where should a business start fixing inconsistent NAP data?**
+
+Start with the website footer and Google Business Profile, since those are usually the two most visited sources of business information, then work through other directories and old social profiles one at a time.
 
 ### Abandoned Cart Emails: What Actually Gets Customers to Come Back
 
