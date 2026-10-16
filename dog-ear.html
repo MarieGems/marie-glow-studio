@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dog-Ear Reading Journal App | Marie Glow Studio</title>
+<meta name="description" content="Dog-Ear is a reading journal and book tracker I designed, built and run myself: barcode scanning, series tracking, a decorated journal and reading stats. A look at the app and how it was made.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://marieglowstudio.com/dog-ear#webpage",
+      "url": "https://marieglowstudio.com/dog-ear",
+      "name": "Dog-Ear Reading Journal App",
+      "isPartOf": { "@id": "https://marieglowstudio.com/#website" },
+      "about": { "@id": "https://marieglowstudio.com/dog-ear#app" }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://marieglowstudio.com/dog-ear#app",
+      "name": "Dog-Ear",
+      "url": "https://dogearreads.com",
+      "applicationCategory": "LifestyleApplication",
+      "operatingSystem": "Web, Android",
+      "description": "A reading journal and book tracker with barcode scanning, series tracking, a decorated journal and reading stats.",
+      "image": "https://marieglowstudio.com/assets/portfolio/dog-ear/dog-ear-banner.jpg",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD", "description": "Free plan holds up to 50 books." },
+      "author": { "@id": "https://marieglowstudio.com/#founder" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://marieglowstudio.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Portfolio", "item": "https://marieglowstudio.com/portfolio" },
+        { "@type": "ListItem", "position": 3, "name": "Dog-Ear", "item": "https://marieglowstudio.com/dog-ear" }
+      ]
+    }
+  ]
+}
+</script>
+<!-- mg:head -->
+<meta name="theme-color" content="#342846">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S130MK820Y"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-S130MK820Y');</script>
+<script defer src="/assets/js/track.js"></script>
+<link rel="canonical" href="https://marieglowstudio.com/dog-ear">
+<meta property="og:site_name" content="Marie Glow Studio">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Dog-Ear Reading Journal App | Marie Glow Studio">
+<meta property="og:description" content="Dog-Ear is a reading journal and book tracker I designed, built and run myself: barcode scanning, series tracking, a decorated journal and reading stats. A look at the app and how it was made.">
+<meta property="og:url" content="https://marieglowstudio.com/dog-ear">
+<meta property="og:image" content="https://marieglowstudio.com/assets/brand/og-default.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dog-Ear Reading Journal App | Marie Glow Studio">
+<meta name="twitter:description" content="Dog-Ear is a reading journal and book tracker I designed, built and run myself: barcode scanning, series tracking, a decorated journal and reading stats. A look at the app and how it was made.">
+<meta name="twitter:image" content="https://marieglowstudio.com/assets/brand/og-default.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "@id": "https://marieglowstudio.com/#org",
+      "name": "Marie Glow Studio",
+      "url": "https://marieglowstudio.com/",
+      "logo": "https://marieglowstudio.com/assets/brand/marie-glow-studio-logo.png",
+      "image": "https://marieglowstudio.com/assets/brand/og-default.jpg",
+      "description": "Marie Glow Studio is a digital studio in Wichita, KS that helps product and service small businesses with web design and development, Pinterest marketing, SEO and digital strategy.",
+      "slogan": "Web Design & Development • Pinterest Marketing • SEO & Digital Strategy",
+      "email": "hello@marieglowstudio.com",
+      "priceRange": "$197 to $1,497",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Wichita",
+        "addressRegion": "KS",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "City",
+          "name": "Wichita, Kansas"
+        }
+      ],
+      "founder": {
+        "@id": "https://marieglowstudio.com/#founder"
+      },
+      "knowsAbout": [
+        "Web design",
+        "Web development",
+        "Shopify",
+        "Custom-coded websites",
+        "Pinterest marketing",
+        "Pinterest SEO",
+        "Search engine optimization",
+        "Local SEO",
+        "Answer engine optimization",
+        "Schema markup",
+        "Digital strategy",
+        "Customer journeys",
+        "Email marketing strategy",
+        "Marketing automation"
+      ],
+      "sameAs": [
+        "https://www.pinterest.com/marieglowstudio/",
+        "https://www.google.com/search?kgmid=/g/11p19_k0j4"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://marieglowstudio.com/#website",
+      "url": "https://marieglowstudio.com/",
+      "name": "Marie Glow Studio",
+      "publisher": {
+        "@id": "https://marieglowstudio.com/#org"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://marieglowstudio.com/#founder",
+      "name": "Marie Harvey",
+      "url": "https://marieharvey.com",
+      "jobTitle": "Founder, web designer and Pinterest and SEO strategist",
+      "worksFor": {
+        "@id": "https://marieglowstudio.com/#org"
+      },
+      "sameAs": [
+        "https://marieharvey.com"
+      ]
+    }
+  ]
+}
+</script>
+<!-- /mg:head -->
+</head>
+<body data-page="dog-ear">
+
+<div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
+<!-- mg:nav -->
+<a class="skip-link" href="#top">Skip to content</a>
+<nav class="nav" aria-label="Main">
+  <div class="nav-inner">
+    <a href="/" class="brand" aria-label="Marie Glow Studio home">
+      <img class="brand-mark" src="/assets/brand/mg-monogram-160.png" width="50" height="46" alt="" aria-hidden="true">
+      <span class="brand-text"><span class="brand-name">Marie Glow</span><span class="brand-studio">Studio</span></span>
+    </a>
+    <ul class="nav-links">
+      <li class="nav-group">
+        <a href="/services" data-page="services" class="nav-group-label">Services</a>
+        <ul class="nav-dropdown">
+          <li><a href="/web-design" data-page="web-design"><strong>Web Design &amp; Development</strong><span>The destination: sites built to convert</span></a></li>
+          <li><a href="/pinterest-marketing" data-page="pinterest-marketing"><strong>Pinterest Marketing</strong><span>Discovery: traffic that keeps coming</span></a></li>
+          <li><a href="/seo" data-page="seo"><strong>SEO</strong><span>Search, local SEO and AI-search readiness</span></a></li>
+          <li><a href="/digital-strategy" data-page="digital-strategy"><strong>Digital Strategy</strong><span>Connecting the pieces into one journey</span></a></li>
+        </ul>
+      </li>
+      <li class="nav-group">
+        <a href="/for-service-businesses" data-page="who" class="nav-group-label">Who I Help</a>
+        <ul class="nav-dropdown">
+          <li><a href="/for-product-businesses" data-page="for-product-businesses"><strong>Product Businesses</strong><span>Shops, makers and product brands</span></a></li>
+          <li><a href="/for-service-businesses" data-page="for-service-businesses"><strong>Service Businesses</strong><span>Local, appointment and lead-based businesses</span></a></li>
+        </ul>
+      </li>
+      <li><a href="/portfolio" data-page="portfolio">Portfolio</a></li>
+      <li><a href="/blog/" data-page="blog">Blog</a></li>
+      <li><a href="/about" data-page="about">About</a></li>
+    </ul>
+    <div class="nav-actions">
+      <a class="btn btn-primary btn-nav" href="/contact" data-page="contact">Let&rsquo;s Talk</a>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+  <div class="mobile-menu" id="mobile-menu">
+    <ul class="mobile-menu-links">
+      <li class="mobile-menu-label">Services</li>
+      <li><a href="/web-design" data-page="web-design">Web Design &amp; Development</a></li>
+      <li><a href="/pinterest-marketing" data-page="pinterest-marketing">Pinterest Marketing</a></li>
+      <li><a href="/seo" data-page="seo">SEO</a></li>
+      <li><a href="/digital-strategy" data-page="digital-strategy">Digital Strategy</a></li>
+      <li class="mobile-menu-label">Who I Help</li>
+      <li><a href="/for-product-businesses" data-page="for-product-businesses">Product Businesses</a></li>
+      <li><a href="/for-service-businesses" data-page="for-service-businesses">Service Businesses</a></li>
+      <li class="mobile-menu-label">Studio</li>
+      <li><a href="/portfolio" data-page="portfolio">Portfolio</a></li>
+      <li><a href="/blog/" data-page="blog">Blog</a></li>
+      <li><a href="/about" data-page="about">About</a></li>
+      <li><a href="/faqs" data-page="faqs">FAQs</a></li>
+      <li><a href="/contact" data-page="contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+<!-- /mg:nav -->
+
+<main id="top">
+
+  <!-- ================= HERO ================= -->
+  <section class="ed-hero">
+    <div class="wrap-wide ed-hero-grid dg-hero-grid">
+      <div class="ed-hero-copy">
+        <span class="eyebrow reveal">Built from scratch &middot; Live app</span>
+        <h1 class="reveal">Dog-Ear, a reading journal <em>I built.</em></h1>
+        <p class="reveal">Most of what I show here is websites. Dog-Ear is a full app: accounts, barcode scanning, series tracking, a journal you decorate and a payment flow. I designed it, wrote it and run it myself, so it is the clearest proof of what I can build when a business needs more than a standard storefront.</p>
+        <div class="hero-cta-row reveal">
+          <a class="btn btn-primary" href="https://dogearreads.com" target="_blank" rel="noopener">Open Dog-Ear <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h13M13 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+          <a class="btn btn-secondary" href="/web-design">See web design services</a>
+        </div>
+      </div>
+      <div class="dg-hero-phones reveal">
+        <figure class="dg-phone"><div class="dg-phone-shell"><img src="/assets/portfolio/dog-ear/dog-ear-home.jpg" width="600" height="1067" alt="Dog-Ear home screen showing a reader's shelf totals: books owned, books read, series and pages read this year" fetchpriority="high"></div></figure>
+        <figure class="dg-phone"><div class="dg-phone-shell"><img src="/assets/portfolio/dog-ear/dog-ear-series.jpg" width="600" height="1067" alt="Dog-Ear series screen with progress bars showing how many books of each series are owned and read" fetchpriority="high"></div></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= SCREENS ================= -->
+  <section class="ed-section ed-tint">
+    <div class="wrap-wide">
+      <div class="ed-head-left">
+        <span class="eyebrow reveal">The app</span>
+        <h2 class="reveal">Six screens, <em>real product.</em></h2>
+        <p class="reveal">These are screenshots of the running app with a demo library, the same images used in the store listing. Nothing here is a mockup.</p>
+      </div>
+      <div class="dg-phones">
+        <figure class="dg-phone reveal"><div class="dg-phone-shell"><img loading="lazy" src="/assets/portfolio/dog-ear/dog-ear-home.jpg" width="600" height="1067" alt="Dog-Ear home screen with shelf totals"></div><figcaption><strong>Home</strong>Your shelf at a glance: owned, read, currently reading and pages this year.</figcaption></figure>
+        <figure class="dg-phone reveal"><div class="dg-phone-shell"><img loading="lazy" src="/assets/portfolio/dog-ear/dog-ear-library.jpg" width="600" height="1067" alt="Dog-Ear library screen"></div><figcaption><strong>Library</strong>Every book with its cover, author and series, added by scanning the barcode.</figcaption></figure>
+        <figure class="dg-phone reveal"><div class="dg-phone-shell"><img loading="lazy" src="/assets/portfolio/dog-ear/dog-ear-series.jpg" width="600" height="1067" alt="Dog-Ear series screen with owned, read and missing counts"></div><figcaption><strong>Series</strong>What you own, what you have read and what is still missing, so you never buy a duplicate.</figcaption></figure>
+        <figure class="dg-phone reveal"><div class="dg-phone-shell"><img loading="lazy" src="/assets/portfolio/dog-ear/dog-ear-pick.jpg" width="600" height="1067" alt="Dog-Ear screen for picking the next book to read"></div><figcaption><strong>Pick my next read</strong>Spin the wheel on your own shelves or your wish list when you cannot decide.</figcaption></figure>
+        <figure class="dg-phone reveal"><div class="dg-phone-shell"><img loading="lazy" src="/assets/portfolio/dog-ear/dog-ear-journal.jpg" width="600" height="1067" alt="Dog-Ear reading journal index with side tabs and a year at a glance"></div><figcaption><strong>Journal</strong>A reading journal with side tabs and pages you decorate with stickers.</figcaption></figure>
+        <figure class="dg-phone reveal"><div class="dg-phone-shell"><img loading="lazy" src="/assets/portfolio/dog-ear/dog-ear-stats.jpg" width="600" height="1067" alt="Dog-Ear reading stats screen"></div><figcaption><strong>Stats</strong>Reading challenge progress, pages read and a yearly wrap up.</figcaption></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= WHAT IT DOES ================= -->
+  <section class="ed-section">
+    <div class="wrap-wide">
+      <div class="ed-head-left">
+        <span class="eyebrow reveal">What it does</span>
+        <h2 class="reveal">Built around how <em>readers actually shop and read.</em></h2>
+      </div>
+      <div class="dg-points">
+        <div class="dg-point reveal">
+          <h3>Add books without typing</h3>
+          <p>Scan a barcode and the book lands in the library with its cover, author and series. Rapid Scan adds a whole stack in a minute, and a Goodreads or StoryGraph export brings an existing history across.</p>
+        </div>
+        <div class="dg-point reveal">
+          <h3>Series tracking</h3>
+          <p>See which books in a series are owned, read or missing. The wish list lets someone scan a book in a store to check what they already have.</p>
+        </div>
+        <div class="dg-point reveal">
+          <h3>A journal that feels personal</h3>
+          <p>Reading challenge, A to Z challenge, quotes, notes and decorated pages on a dot grid, with the app&rsquo;s name, tagline and colors set by the reader.</p>
+        </div>
+        <div class="dg-point reveal">
+          <h3>Free to start, no ads</h3>
+          <p>The free plan covers up to 50 books with scanning, series, journal pages and stats. One upgrade removes the limit. Libraries are private and can be exported or deleted at any time.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= HOW IT WAS BUILT ================= -->
+  <section class="ed-section ed-tint">
+    <div class="wrap-wide">
+      <div class="ed-head-left">
+        <span class="eyebrow reveal">Under the hood</span>
+        <h2 class="reveal">More than a website, <em>and still one person.</em></h2>
+        <p class="reveal">Dog-Ear is the proof that the same care I put into a client site goes into software.</p>
+      </div>
+      <div class="dg-points">
+        <div class="dg-point reveal">
+          <h3>Brand and interface</h3>
+          <p>A bookish purple and gold identity, a dot grid paper texture and a mobile-first layout designed around a thumb, from the bottom tab bar to the scan button.</p>
+        </div>
+        <div class="dg-point reveal">
+          <h3>Accounts and payments</h3>
+          <p>Sign in, private libraries, a one-time lifetime upgrade through Stripe checkout and a nightly backup of every account.</p>
+        </div>
+        <div class="dg-point reveal">
+          <h3>Installs like an app</h3>
+          <p>It runs in any phone browser, can be added to a home screen, and has an Android version that is currently in Google Play closed testing.</p>
+        </div>
+        <div class="dg-point reveal">
+          <h3>Found by search</h3>
+          <p>A landing page and blog written for the way readers search, with structured data so search and AI answers can describe it correctly.</p>
+        </div>
+      </div>
+      <p class="dg-note reveal">Dog-Ear is my own product, not client work. I am showing it because it is real, live and in daily use, and because it shows what I can build beyond a storefront.</p>
+    </div>
+  </section>
+
+  <!-- ================= FINAL CTA ================= -->
+  <section class="final-cta has-bg-photo">
+    <div class="bg-photo" aria-hidden="true">
+      <img src="/assets/mockups/pinterest-to-shopify-checkout-journey.jpg" alt="" loading="lazy">
+    </div>
+    <div class="bg-scrim" aria-hidden="true"></div>
+    <div class="wrap">
+      <span class="eyebrow reveal">Have an idea?</span>
+      <h2 class="reveal">Need something built for <em>your business?</em></h2>
+      <div class="hero-cta-row reveal">
+        <a class="btn btn-light" href="/web-design">See web design &amp; development <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h13M13 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <a class="btn btn-secondary" href="/contact">Tell me about it</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- mg:footer -->
+<footer class="site-footer">
+  <div class="wrap-wide footer-grid">
+    <div class="footer-about">
+      <a href="/" class="brand" aria-label="Marie Glow Studio home">
+        <img class="brand-mark" src="/assets/brand/mg-monogram-160.png" width="38" height="35" alt="" aria-hidden="true">
+        <span class="brand-text"><span class="brand-name">Marie Glow</span><span class="brand-studio">Studio</span></span>
+      </a>
+      <p class="footer-tagline">Web Design &amp; Development &middot; Pinterest Marketing &middot; SEO &amp; Digital Strategy</p>
+      <p class="footer-entity">Marie Glow Studio is a digital studio in Wichita, KS that helps product and service small businesses with web design and development, Pinterest marketing, SEO and digital strategy. Working with clients across the United States.</p>
+      <a class="footer-email" href="mailto:hello@marieglowstudio.com">hello@marieglowstudio.com</a>
+      <p class="footer-address">Marie Glow Studio, 4925 S Broadway Ave, Unit #6067, Wichita, KS 67216</p>
+    </div>
+    <nav class="footer-col" aria-label="Services">
+      <h2 class="footer-heading">Services</h2>
+      <a href="/services" data-page="services">All Services</a>
+      <a href="/web-design" data-page="web-design">Web Design &amp; Development</a>
+      <a href="/pinterest-marketing" data-page="pinterest-marketing">Pinterest Marketing</a>
+      <a href="/seo" data-page="seo">SEO</a>
+      <a href="/digital-strategy" data-page="digital-strategy">Digital Strategy</a>
+      <a href="/for-product-businesses" data-page="for-product-businesses">For Product Businesses</a>
+      <a href="/for-service-businesses" data-page="for-service-businesses">For Service Businesses</a>
+    </nav>
+    <nav class="footer-col" aria-label="Offers">
+      <h2 class="footer-heading">Start Here</h2>
+      <a href="/website-starter" data-page="website-starter">Website Starter</a>
+      <a href="/complete-website-package" data-page="complete-website-package">Complete Website &amp; Brand Identity</a>
+      <a href="/pinterest-audit" data-page="pinterest-audit">Pinterest SEO Audit</a>
+      <a href="/pinterest-account-setup" data-page="pinterest-account-setup">Pinterest Account Setup</a>
+      <a href="/pinterest-management" data-page="pinterest-management">Pinterest Management</a>
+      <a href="/website-seo-audit" data-page="website-seo-audit">Website SEO Audit</a>
+      <a href="/seo-foundations" data-page="seo-foundations">SEO Foundations Setup</a>
+      <a href="/digital-strategy-roadmap" data-page="digital-strategy-roadmap">Digital Strategy Roadmap</a>
+    </nav>
+    <nav class="footer-col" aria-label="Studio and resources">
+      <h2 class="footer-heading">Studio</h2>
+      <a href="/about" data-page="about">About</a>
+      <a href="/portfolio" data-page="portfolio">Portfolio</a>
+      <a href="/design-evolution" data-page="design-evolution">Design Evolution</a>
+      <a href="/blog/" data-page="blog">Blog</a>
+      <a href="/guides/" data-page="resources">Guides</a>
+      <a href="/compare/" data-page="resources">Comparisons</a>
+      <a href="/tools/" data-page="resources">Free Tools</a>
+      <a href="/faqs" data-page="faqs">FAQs</a>
+      <a href="/billing" rel="nofollow">Manage Your Subscription</a>
+      <a href="/contact" data-page="contact">Contact</a>
+    </nav>
+  </div>
+  <div class="wrap-wide footer-bottom">
+    <span>&copy; 2026 Marie Glow Studio</span>
+    <nav class="footer-legal" aria-label="Legal">
+      <a href="/privacy-policy" data-page="privacy-policy">Privacy Policy</a>
+      <a href="/terms-of-service" data-page="terms-of-service">Terms of Service</a>
+    </nav>
+  </div>
+</footer>
+<!-- /mg:footer -->
+<script src="/assets/js/main.js"></script>
+</body>
+</html>

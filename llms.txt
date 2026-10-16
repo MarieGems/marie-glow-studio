@@ -29,6 +29,7 @@ One person, Marie Harvey, does the work start to finish, so the website, search 
 
 - [About](https://marieglowstudio.com/about): Marie Harvey, bachelor's degree in web design, runs her own product shop Marie Gems
 - [Portfolio](https://marieglowstudio.com/portfolio): client sites and clearly labeled concept builds
+- [Dog-Ear](https://marieglowstudio.com/dog-ear): a reading journal and book tracker app Marie designed, built and runs herself
 - [FAQs](https://marieglowstudio.com/faqs)
 - [Contact](https://marieglowstudio.com/contact): hello@marieglowstudio.com, replies within one to two business days
 
