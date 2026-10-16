@@ -2871,7 +2871,7 @@ Portfolio
 
 #### Real businesses. Real work. No invented case studies.
 
-Every project below is a real website or Pinterest account, product or service business. The three marked “concept build” are self-directed practice projects, not paid client work, and are labeled everywhere they appear.
+Every project below is a real website, app or Pinterest account, product or service business. The three marked “concept build” are self-directed practice projects, not paid client work, and are labeled everywhere they appear.
 
 Flip through the work
 
@@ -2902,6 +2902,18 @@ Product business · Live client work
 A warm, professional Shopify site for a growing bakery, built so customers can browse custom cakes and desserts and reach out easily. Custom branding, mobile-responsive design, collection organization, on-page SEO and performance work, focused on browsing and inquiries rather than a cart.
 
 [View the live site →](https://ellegantcreationsbakery.com)
+
+Beyond websites
+
+#### An app, built from scratch.
+
+Our own product · Live app
+
+#### Dog-Ear
+
+A reading journal and book tracker for people who love their shelves. Scan a barcode to add a book, track which books in a series you own, keep a decorated journal and see your yearly stats. Designed, built and run in house, with accounts, payments and an Android version now in Google Play testing.
+
+[See the app →](https://marieglowstudio.com/dog-ear)
 
 Pinterest design
 
@@ -3128,7 +3140,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (98)
+## Blog posts (99)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3200,6 +3212,91 @@ Yes. AI assistants and answer engines build their responses from consistent fact
 **Where should a business start fixing inconsistent NAP data?**
 
 Start with the website footer and Google Business Profile, since those are usually the two most visited sources of business information, then work through other directories and old social profiles one at a time.
+
+### When a Small Business Needs an App, Not Just a Website (What I Learned Building Dog-Ear)
+
+URL: https://marieglowstudio.com/blog/when-a-small-business-needs-an-app-not-just-a-website
+Topic: Keywords and Getting Found | Published: 2026-10-16
+
+A custom web app for small business is worth building only when customers need to do something again and again with their own saved information, and no standard website, Shopify store or booking tool can do it. For most small businesses a good website comes first. Dog-Ear, the reading journal app I built, shows where that line sits.
+
+#### Does my small business need an app, or is a website enough?
+
+A website is enough for most small businesses. If your goal is to explain what you offer, show your work, take bookings or sell products, a well-built site does that job, and a custom app adds cost and upkeep without adding customers. Shopify is usually the right home for an online store, and a fast custom-coded site connected to your booking tool or quote form usually suits a service business.
+
+An app becomes the right answer in a narrower case: people need to sign in, keep their own data, and use the tool repeatedly, not just read about you. That is a different kind of product from a brochure site or a store, and it is worth being honest about the difference before you spend anything.
+
+#### What is Dog-Ear, and why use it as the example?
+
+Dog-Ear is a reading journal and book tracker that I designed, built and run myself. It is my own product, not client work, which is exactly why it is a fair example: every decision, tradeoff and ongoing task is one I can describe from the inside. You can see it live at [dogearreads.com](https://dogearreads.com), and the [Dog-Ear showcase page](https://marieglowstudio.com/dog-ear) shows screenshots of the running app.
+
+It is a live web app that installs from a phone browser to the home screen. An Android version is in Google Play closed testing and is not publicly released yet. I am also the person behind [Marie Gems](https://mariegems.com), a product shop, and I run Marie Glow Studio, so I have worked on both sides of this question: a store that should be a store, and a tool that could not be a store or a normal website.
+
+#### What did Dog-Ear need that a standard website could not do?
+
+Dog-Ear needed a private, personal library for every reader, plus features that only make sense as software. A standard website or store template cannot hold a reader's own shelf, so these features pushed it into custom territory:
+
+- Accounts and private libraries. Each reader signs in to their own library, which stays private and can be exported or deleted.
+
+- Barcode scanning. Scanning a barcode adds a book with its cover, author and series. Rapid Scan adds a whole stack, and talk to type lets someone add by voice.
+
+- Imports. A Goodreads or StoryGraph export brings an existing reading history across.
+
+- Series tracking. The app shows which books in a series are owned, read or missing, and a wish list scan in a store helps avoid buying a duplicate.
+
+- A decorated journal. Side tabs, stickers and a dot grid page, plus a reading challenge, an A to Z challenge, stats and a yearly wrap up.
+
+- Picking a next read. A spin the wheel feature chooses from your shelves or wish list.
+
+None of those is a page that a visitor reads. Each one is something a reader does, with data that belongs to them, which is the signal that points toward an app.
+
+#### What is the decision test for building a custom web app?
+
+Build a custom app only if you can answer yes to most of these five questions, and always try a website or an existing tool first:
+
+- Do people need to sign in and keep their own data? A saved library, a progress tracker or a private account is app territory. A contact form is not.
+
+- Do they come back to use it, not just to read it? A tool people use weekly behaves differently from a page they visit once to learn your hours.
+
+- Does it rely on something a normal site cannot do well? Dog-Ear's barcode scanning is the example. If a standard feature covers it, use that feature.
+
+- Have you ruled out an existing tool? A booking platform, a Shopify app or a quote form often solves the problem. Service businesses in particular usually just need their site connected to the booking tool they already use.
+
+- Can you carry the upkeep? An app needs accounts, payments, backups and support after launch, not just a build.
+
+If you are answering no to the first three, you almost certainly need a better website, not an app. A salon, a contractor or a coach rarely needs custom software; a clear site that makes it easy to book or request a quote does more for them.
+
+#### What does a custom app cost you after it is built?
+
+A custom app costs ongoing work as well as build work. Dog-Ear has accounts to look after, Stripe checkout for the one time paid upgrade, and nightly backups of every account. Google Play Billing is planned for the Android app, and the Android version still has to get through closed testing before a public release. Privacy is part of the job too, because a reader's library has to stay private and remain exportable and deletable.
+
+That upkeep is the real price of "an app, not just a website." A brochure site can sit quietly for months. An app with accounts and payments cannot, and you should plan for that before you commission one.
+
+#### Can a custom web app still be found in search?
+
+A custom web app can be found in search, but only if you build the pages that search engines can read. Dog-Ear has its own landing page and a blog written for the way readers search, with structured data so search and AI answers can describe it correctly. The app itself sits behind a sign in, so the public pages do the finding.
+
+The same thinking applies to any business, on any platform. Pinterest rewards the same discipline, which is why guides like [how to do Pinterest keyword research](https://marieglowstudio.com/blog/pinterest-keyword-research) and [how to get found in Pinterest search](https://marieglowstudio.com/blog/how-to-get-found-pinterest-search) matter just as much to a product as the product itself. A great tool no one can find does not help anyone.
+
+#### What should a product or service business do first?
+
+Start with the website that fits your business, and only consider custom software once a real, repeated customer need stays unsolved. A product shop belongs on Shopify, as Marie Gems does. A service business usually does best with a fast custom-coded site connected to its booking tool, quote form or phone number. Marie Glow Studio's [web design and development](https://marieglowstudio.com/web-design) work covers both paths.
+
+If you do have an idea that does not fit either, write down the five test questions above and answer them honestly. A custom build is possible, as Dog-Ear shows, but it should be the answer to a clear need, not the starting point.
+
+#### Frequently asked questions
+
+**Does a small business need a custom web app?**
+
+Usually not. A well-built website, a Shopify store or a site connected to a booking tool covers most small businesses. A custom web app is justified when customers need to sign in, keep their own data and use the tool repeatedly.
+
+**What does a custom web app cost to maintain?**
+
+It needs ongoing work after launch: managing accounts, payments, backups and privacy. Dog-Ear, for example, has Stripe checkout for its upgrade, nightly backups and libraries that stay private and can be exported or deleted.
+
+**Can a web app be found in search?**
+
+Yes, through public pages. Dog-Ear has its own landing page and a blog written for search with structured data, since the app itself sits behind a sign in.
 
 ### Abandoned Cart Emails: What Actually Gets Customers to Come Back
 
