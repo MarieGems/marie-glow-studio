@@ -3140,7 +3140,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (100)
+## Blog posts (101)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3281,6 +3281,71 @@ Switching usually resets the clock, since the new direction has not had its own 
 **Is 60 to 90 days the right window for every channel?**
 
 It is a reasonable floor rather than a fixed number for every channel. A well targeted email send can sometimes show an early signal sooner, while organic channels such as Pinterest and search commonly need the fuller window before a pattern is reliable enough to judge.
+
+### Why Keyword Stuffing Backfires on Pinterest
+
+URL: https://marieglowstudio.com/blog/why-keyword-stuffing-backfires-on-pinterest
+Topic: Keywords and Getting Found | Published: 2026-10-16
+
+Keyword stuffing backfires on Pinterest because Pinterest matches a pin to search terms using every word in its title, description and board, so cramming in every popular keyword you can find pulls in irrelevant search terms, shows the pin to the wrong searchers, and weakens the signal that tells Pinterest what the pin is actually about.
+
+#### What Does Keyword Stuffing Actually Look Like on Pinterest?
+
+Keyword stuffing is listing every keyword a tool or a competitor's board suggests in a pin title or description, instead of only the words that describe what the pin actually shows. A handmade ceramic mug pin titled Ceramic Mug Coffee Mug Tea Cup Gift Idea Birthday Gift Christmas Gift Housewarming Gift Kitchen Decor is stuffed: most of those words describe a different occasion or a different product, not this particular mug.
+
+The same mistake shows up on a service business pin. A pin for one bathroom remodel project does not need home renovation, kitchen remodel, flooring, countertops, interior design, home improvement crammed into the description. Those words describe other services the business might also offer, not the project the pin is actually showing.
+
+A stuffed title compared with a specific title for the same pin
+| Stuffed title | Specific title |
+| Ceramic Mug Coffee Mug Tea Cup Gift Idea Birthday Gift Christmas Gift Housewarming Gift Kitchen Decor | Handmade Ceramic Coffee Mug With Speckled Glaze |
+| Home Renovation Kitchen Remodel Bathroom Remodel Flooring Countertops Interior Design Home Improvement | Small Bathroom Remodel Before and After Walkthrough |
+
+The specific title in each row names the actual thing in the pin. The stuffed title names a whole category of things the pin is not, which is exactly what tells Pinterest to show it to the wrong searches.
+
+#### Why Does Pinterest Treat a Stuffed Pin as a Poor Match?
+
+Pinterest treats a stuffed pin as a poor match because it reads every word in the title, description and board as a clue to which searches that pin should answer, and a pin crowded with unrelated words looks like it is about many things at once instead of one thing well. When Pinterest shows that pin to someone searching for one of the words it does not really answer, that person scrolls past it, closes it, or saves a different pin instead, and Pinterest reads that as a sign the pin was not a good match for that search.
+
+Repeated across enough searches, that can pull down how often Pinterest shows the pin for the searches it does answer well, not only the ones it does not. The extra keywords do not add reach. They dilute the few keywords that were actually earning the pin a spot in front of the right person.
+
+#### Where Do Keywords Actually Belong on a Pin?
+
+Keywords belong in four different places on a Pinterest account, and each place does a different job instead of repeating the same list everywhere. Stuffing happens when a business tries to put every keyword in every spot instead of matching the keyword to the job it needs to do.
+
+- Profile name and bio: the handful of words that describe the business as a whole
+- Board title and description: the words that describe that board's specific topic
+- Pin title: the exact words that describe this one pin
+- Pin description: one or two sentences that expand on the title with closely related, still accurate words
+
+Board by board, a full walk-through of exactly where each keyword goes lives in the [placement guide on this blog](https://marieglowstudio.com/blog/where-to-use-keywords-on-pinterest), which pairs well with this post once the stuffing is already cleaned up.
+
+#### How Should a Pin's Keywords Actually Be Chosen?
+
+A pin's keywords should be chosen by asking what a real person would type while looking for this specific pin, not by listing every word connected to the general topic. Typing a few words into Pinterest's own search bar and reading the [autocomplete suggestions](https://marieglowstudio.com/blog/how-to-use-pinterests-search-bar-autocomplete-for-free-keyword-ideas) shows real phrases people search for, and a closer [keyword research pass](https://marieglowstudio.com/blog/pinterest-keyword-research) narrows that list down to the ones that genuinely describe the pin in front of you. If a suggested keyword would not make sense to someone who clicked through and saw the actual pin, it does not belong on that pin.
+
+#### What Is a Reasonable Number of Keywords for One Pin?
+
+A reasonable pin names the specific thing it shows, plus one or two words that add real context, not a running list. A pin title can usually hold the main phrase plus a short, accurate descriptor. A pin description can add two or three closely related phrases written as a natural sentence instead of a list separated by commas. Once a title or description stops reading like something a person would actually say or type, it has crossed from descriptive into stuffed.
+
+#### What Should You Do If a Pin Is Already Over Stuffed?
+
+A stuffed pin gets fixed by rewriting the title and description down to the handful of keywords that actually describe it, not by adding more on top. Drop the words that describe a different product, a different occasion or a different service, and keep only the ones a searcher would use to find exactly this pin.
+
+The Pinterest SEO Audit at Marie Glow Studio looks at existing pin titles, descriptions and keywords as one part of a full account review, then delivers a ranked list of what to fix first. [The Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) is one way to get a second set of eyes on which keywords are actually helping and which ones are just noise.
+
+#### Frequently asked questions
+
+**What counts as keyword stuffing on a Pinterest pin?**
+
+It is listing keywords connected to the general topic instead of only the words that describe what this specific pin shows, such as adding gift occasion words to a pin about one product.
+
+**Does keyword stuffing get a Pinterest account penalized?**
+
+Pinterest has not published a specific penalty for it, but a stuffed pin gets shown to searches it does not answer, which lowers how often people engage with it and, over time, how often Pinterest shows it at all.
+
+**How many keywords should a pin title actually have?**
+
+Enough to describe the pin accurately and nothing more, usually one clear phrase plus a couple of closely related words, rather than a running list of every keyword connected to the topic.
 
 ### When a Small Business Needs an App, Not Just a Website (What I Learned Building Dog-Ear)
 
