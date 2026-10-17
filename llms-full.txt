@@ -3140,7 +3140,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (99)
+## Blog posts (100)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3212,6 +3212,75 @@ Yes. AI assistants and answer engines build their responses from consistent fact
 **Where should a business start fixing inconsistent NAP data?**
 
 Start with the website footer and Google Business Profile, since those are usually the two most visited sources of business information, then work through other directories and old social profiles one at a time.
+
+### The 60 to 90 Day Rule: How Long to Give a Marketing Channel Before You Judge It
+
+URL: https://marieglowstudio.com/blog/the-60-to-90-day-rule-how-long-to-give-a-marketing-channel-before-you-judge-it
+Topic: Digital Strategy | Published: 2026-10-16
+
+How long to try a marketing channel before it works comes down to one window: at least 60 to 90 days of consistent effort. That is the timeline general small business guidance from The Hartford and Toptal points to before judging whether a new channel, whether Pinterest, SEO or email, is actually working for your business.
+
+Most small business owners do not have a problem with effort. They have a problem with timing: expecting a signal in the first two or three weeks, then quietly dropping a channel right around the point it was about to start working. The 60 to 90 day window gives a channel room to do what it is actually built to do, whether that is a pin surfacing in Pinterest search, an SEO fix waiting on Google to recrawl a page, or a new email sequence building its first real list.
+
+#### How long should you try a marketing channel before it works?
+
+Give any new channel at least 60 to 90 days of consistent effort before deciding whether it is working, per the general small business guidance cited by The Hartford and Toptal. That window is long enough to get past setup, show an early pattern and rule out a slow first week as the whole story, without dragging the trial out so long that a channel that genuinely is not a fit keeps absorbing time anyway.
+
+#### What counts as consistent effort during that window?
+
+Consistent effort means showing up on a schedule you can actually keep for 60 to 90 days straight, not a burst of activity followed by silence. For most small businesses, that looks like:
+
+- Posting or publishing on roughly the same schedule every week, rather than one large batch followed by a long gap
+
+- Using the same core keywords and topic across pins, pages or emails instead of changing direction every few days
+
+- Fixing the obvious friction on the page or booking step the channel is sending people to, so the effort has somewhere useful to land
+
+- Writing down what you tried and when, so you can later tell a slow channel apart from a channel you simply stopped feeding
+
+Monthly Pinterest Management, as one example, plans around a set number of pins every month, 100 on the Starter tier up to 300 on Pro, specifically so the pace stays steady instead of depending on whichever week there happens to be time to post. The same idea applies to any channel: pick a pace, then keep it for the full window.
+
+#### Why do most small businesses quit before day sixty?
+
+Because the first few weeks of almost any channel look a lot like nothing happening: a handful of pin impressions, a page that has not moved in Google yet, an email list sitting at a dozen names. That stretch feels uncomfortable, and walking away from it can feel like a reasonable response to a channel that is not working, when it may actually be a channel that has not reached its own 60 to 90 days yet. Picking a channel that already matches how your customers search or browse makes that stretch shorter and less discouraging. [Where to Start With Small Business Marketing](https://marieglowstudio.com/blog/where-to-start-with-small-business-marketing) walks through how to choose that channel before committing a full 60 to 90 day window to the wrong one.
+
+#### What should you track during the 60 to 90 days, if not results yet?
+
+Watch for a leading signal, not a final result. The table below separates what a channel can reasonably show partway through the window from what it is not yet built to prove.
+
+| Channel | Signal to watch for in the first 60 to 90 days | Not realistic to expect yet |
+
+| Pinterest | Growing impressions and saves across a consistent set of pins | A steady stream of outbound clicks or sales |
+
+| Website SEO | Pages getting indexed and small movement in Search Console queries | Page one rankings for competitive search terms |
+
+| Email | A list that is actually growing week over week | A full welcome sequence driving most of your sales on its own |
+
+| Digital strategy work | Fewer obvious drop off points between your channels and your website | A finished plan changing results without anyone acting on it |
+
+For the exact numbers worth checking every month, not only during a new channel's first 60 to 90 days, [How to Measure Small Business Marketing](https://marieglowstudio.com/blog/how-to-measure-small-business-marketing) walks through what to track and how often.
+
+#### Does the 60 to 90 day rule work the same for a service business?
+
+The window stays the same, but what you are watching usually changes. For a salon, a contractor or a coach, the 60 to 90 days typically show up as more calls, messages and booked consultations rather than online checkout sales, so the right thing to watch is whether a Google Business Profile listing or a new service page is sending more of those inquiries, not whether it is producing revenue it was never built to generate directly. A product business watching the wrong number for its situation, or a service business doing the same in reverse, is one of the quickest ways to call a channel a failure before it has had a fair chance.
+
+#### What do you do if a channel still is not working after ninety days?
+
+Results still depend on your niche, competition and whether the consistent effort actually continued for the whole window, so 90 days is a fair trial, not a guarantee. If a channel genuinely has not moved after a full 60 to 90 days of real, steady effort, that is still useful information. Either the channel does not match how your customers actually search and browse for a business like yours, or something earlier in the chain, often the website the channel is sending people to, needs attention before the channel itself can be judged fairly. A [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) from Marie Glow Studio is built around exactly this kind of window: it maps where customers currently move across your website, search, Pinterest and email, where they drop off today, and hands you a written 90 day plan that names what to fix first instead of guessing at yet another new channel.
+
+#### Frequently asked questions
+
+**Does trying a channel for 90 days guarantee it will work?**
+
+No. Results still depend on your niche, competition and how consistently the effort continued, so 90 days is a fair trial rather than a promise. The window tells you whether a channel deserves more time, not whether it will ultimately produce sales or bookings.
+
+**What happens if you switch channels in the middle of the 60 to 90 days?**
+
+Switching usually resets the clock, since the new direction has not had its own fair trial yet. Changing the keywords, the page you send people to, or the type of content partway through means you are no longer testing the thing you started with, so treat that change as day one again.
+
+**Is 60 to 90 days the right window for every channel?**
+
+It is a reasonable floor rather than a fixed number for every channel. A well targeted email send can sometimes show an early signal sooner, while organic channels such as Pinterest and search commonly need the fuller window before a pattern is reliable enough to judge.
 
 ### When a Small Business Needs an App, Not Just a Website (What I Learned Building Dog-Ear)
 
