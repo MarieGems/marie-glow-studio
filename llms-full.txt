@@ -3140,9 +3140,72 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (102)
+## Blog posts (103)
 
 Index: https://marieglowstudio.com/blog/
+
+### The Online Business Launch Checklist: What to Handle Before You Sell Anything
+
+URL: https://marieglowstudio.com/blog/the-online-business-launch-checklist-what-to-handle-before-you-sell-anything
+Topic: Branding and Launching | Published: 2026-10-24
+
+Before you take a single sale or book a single client, five pieces of a new business belong in place: a checked business name, an EIN, a business bank account, a working domain and website, and a way to accept payment. This checklist walks through each one in order.
+
+#### What belongs on an online business launch checklist?
+
+A workable checklist covers five things before the first sale: a business name that has been checked against your state's registry, an EIN, a dedicated business bank account, a domain connected to a working website, and a payment processor wired into that site. Each one depends a little on the one before it, which is why the order matters more than the length of the list.
+
+- Search the business name before you print it anywhere
+
+- Apply for an EIN once the name is settled
+
+- Open a business bank account using that EIN
+
+- Connect a domain to a website built around one clear next step
+
+- Turn on payment processing so the website can actually get paid
+
+#### How do you check a business name before you use it?
+
+Search the name against your state's business registry and the US Patent and Trademark Office's trademark database before you file anything or order a sign. A registry search confirms no one else in your state has already filed the same name, which is what keeps formation paperwork from bouncing back. A trademark search flags a name that could draw a legal letter later, after you have already printed cards and built a following around it. While you are searching, check whether a matching domain is actually available; a name that is free at the registry but taken as a domain usually means a compromise on the website address later.
+
+#### Do you need an EIN before you launch?
+
+Most businesses need an EIN, the nine digit tax ID the IRS assigns, before they can open a dedicated business bank account, since banks generally ask for one as part of opening that account. A sole proprietor with no employees can sometimes use a Social Security number instead, but an EIN still keeps business paperwork separate from a personal one, which matters once tax season or a loan application arrives. Applying is free directly through the IRS. Entity rules vary by state and by business structure, so a tax professional or an attorney is the right person to confirm what applies to a specific business before anything is filed.
+
+#### Why open a business bank account before the first sale?
+
+A business bank account keeps the first payment that comes in separate from a personal checking account, which matters at tax time and matters more if the business is ever audited. Opening the account usually needs the EIN plus whatever formation paperwork the state issued, so it naturally comes after those two steps rather than before them. Getting the account open before the website goes live also means the payment processor has somewhere real to deposit the first sale, instead of routing it somewhere that has to be untangled later.
+
+#### What should the domain and website be ready to do before launch?
+
+On day one, the domain and the website need to do two things: tell a visitor exactly what the business sells or does, and give that visitor a single clear way to say yes, a purchase button, a scheduling link, a request for a quote, or simply a phone number to call. A [Website Starter](https://marieglowstudio.com/website-starter) page is shaped around that one next step, and once the intake form is finished, Marie Glow Studio turns it into a live page in short order, usually within the same business week. For a new business launching branding and a site together, the [Complete Website & Brand Identity package](https://marieglowstudio.com/complete-website-package) pairs full branding work with a multi page build: Shopify when the business sells products online, and a hand built site when the business runs on bookings, quotes or appointments. A domain and a website are also only one piece of a brand that has to hold together once people start looking; [why cohesive branding matters for small businesses](https://marieglowstudio.com/blog/why-cohesive-branding-matters-for-small-businesses) covers the rest of that picture.
+
+#### How does payment processing fit into the checklist?
+
+Payment processing is the last item on the list because it depends on everything before it: a processor needs a real business behind it and a bank account to deposit into. A product business connects a checkout to the website, often the one built into its ecommerce platform. A service business more often needs an invoicing or deposit tool connected to its own scheduling or quote page, since the sale happens after a conversation rather than at a cart. Every paid service at Marie Glow Studio runs through Stripe checkout in US dollars, which is one example of what that last piece looks like once it is wired in correctly.
+
+#### Is the checklist different for a service business?
+
+The five items stay the same for a service business, a salon, a contractor, a coach or a consultant, but the website's single next step moves from a purchase button to a request for a quote, a link to book directly, or just a phone call. A visitor usually arrives through a search, a referral or a Pinterest pin, lands on a page that has to explain what the business does and for whom right away, needs some proof the business is legitimate before they commit to anything bigger, and then asks a question before they ever book. That means the domain and website step of this checklist carries more weight for a service business than for a product business: the page has to earn trust in plain language, not just display a price.
+
+#### What should you handle first?
+
+Handle the name search first, since everything after it, the EIN application, the bank account and the domain, depends on a name that is actually settled. From there the EIN and the bank account come next, in that order, followed by the domain and website, with payment processing wired in last once there is a real account for it to deposit into. The order can flex a little: a service business already using a personal bank account for early bookings might open the dedicated account closer to the website launch instead of before it. What should not flex is skipping a step because the business already has a few customers; a name search or an EIN done after the fact is still worth doing properly rather than not at all. For the steps that come after this checklist, from the first announcement to the first week of sales, [product launch tips for small businesses](https://marieglowstudio.com/blog/product-launch-tips-for-small-businesses) picks up where this one leaves off.
+
+#### Frequently asked questions
+
+**What is the first step in starting an online business?**
+
+A business name search against your state's registry and the trademark database comes first, before any paperwork is filed or a domain is bought, so the business is not built on a name it cannot keep.
+
+**Do you need a business bank account before you start selling?**
+
+Yes. A dedicated business bank account keeps the first payment that comes in separate from personal money, which matters at tax time, and most banks ask for an EIN before they will open one.
+
+**Is the launch checklist different for a service business than a product business?**
+
+The five items stay the same, but the website's one next step changes: a buy button for a product business, or a booking link, quote form or phone number for a service business.
 
 ### Shopify vs WordPress vs Squarespace: Which Fits Your Small Business
 
