@@ -3140,9 +3140,76 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (103)
+## Blog posts (104)
 
 Index: https://marieglowstudio.com/blog/
+
+### Email Marketing vs. Social Media: Where Should Your Time Actually Go?
+
+URL: https://marieglowstudio.com/blog/email-marketing-vs-social-media-where-should-your-time-actually-go
+Topic: Email Marketing | Published: 2026-10-25
+
+For most small businesses, more weekly time should go toward email than social media, because an email list is an asset a business owns outright, while a social media following exists on terms a platform's algorithm sets and can change without notice. That ownership gap is what should decide where a limited weekly hour goes first.
+
+This is not an argument to delete every social account. It is a way to decide where the next free hour goes when a business owner cannot do everything well, by looking at the real tradeoffs between a channel a business controls and a following it does not.
+
+#### Why does an email list hold up better than a social following?
+
+An email list holds up better because sending to people who already said yes to hearing from a business skips the discovery problem social media still has to solve every time a post goes out. The reason is structural: the main cost of an email send is the time it takes to write and send, not a fee to reach an audience a business already earned, while a social post has to win fresh attention from a platform's feed every time, whether or not the people seeing it have ever bought anything. [Why Every Small Business Needs an Email List for Growth](https://marieglowstudio.com/blog/why-every-small-business-needs-an-email-list) covers more of the reasoning behind that gap.
+
+#### What does owned versus algorithm governed actually mean?
+
+An email list is a file of names and addresses a business holds and can move between providers whenever it wants. A social media following is a list of people a platform decided to let a business reach, under rules the business does not set and can change without notice. That is what owned versus algorithm governed means in practice: nobody can quietly cut an email list in half by changing how a feed ranks posts, while a change to any platform's algorithm can cut organic reach to an existing following with no warning and no way to appeal it.
+
+An email list compared with a social media following
+
+| Question | Email list | Social media following |
+
+| Who decides who sees the message | The business, every time it sends | The platform's algorithm decides reach |
+
+| What happens if the platform changes its rules | Nothing changes; the list still belongs to the business | Reach, features or the account itself can change overnight |
+
+| Cost to reach someone already interested | Low once the list exists | Often needs paid promotion to be seen reliably |
+
+| Best for | Repeat customers, launches, a direct ask | First discovery and building interest before someone joins the list |
+
+#### Does this mean a small business should quit social media?
+
+No. Social platforms are still one of the better ways to get in front of someone who has never heard of a business before, which an email list cannot do on its own since it only reaches people already on it. Pinterest works differently than feed based platforms, because people arrive already searching for an idea, a product or a service, and a well optimized pin can keep surfacing in results long after the day it was first published. That makes Pinterest one of the better places to send a stranger toward an email sign up, even while the list itself does the heavier lifting once someone is on it. [How Pinterest and Email Marketing Work Together](https://marieglowstudio.com/blog/pinterest-and-email-marketing) looks at that handoff in more detail. Before splitting time between email and social at all, [Where to Start With Small Business Marketing](https://marieglowstudio.com/blog/where-to-start-with-small-business-marketing) is worth a look if neither channel has been chosen deliberately yet.
+
+#### How should a small business split limited weekly hours between email and social?
+
+Start from how large the list already is, not from a fixed percentage, since a list of twelve people and a list of twelve hundred need different amounts of weekly attention.
+
+- No list yet: spend most of the week's marketing time building one sign up path, even a single page with one offer, before adding more social content on top of it. [Growing an Email List From Scratch](https://marieglowstudio.com/blog/growing-an-email-list-from-scratch) walks through exactly that first page and offer.
+
+- A list under a few hundred people: keep showing up on one or two channels for discovery, but protect a fixed block of time every week for writing to the list, even a short update.
+
+- A list that already brings in repeat sales or bookings: write to the list first, then use whatever time is left for social content that can point new people back to the sign up form.
+
+One pattern worth avoiding on either channel is writing to an audience only when there is something to sell, so the account or the inbox goes quiet for weeks and the next message reads like a stranger. [Email Marketing Mistakes Small Businesses Make](https://marieglowstudio.com/blog/email-marketing-mistakes-small-businesses-make) walks through that pattern and others worth fixing before adding more volume on either channel.
+
+#### Does this look different for a service business like a salon or a contractor?
+
+For a salon, a contractor or a coach, the honest starting split looks different, because the first job is usually getting someone from a search, a referral or a Pinterest pin to a service page that explains clearly what the business does and for whom, then on to a quote request or a booked call. An email list matters most once there is a base of past clients worth staying in touch with for repeat visits, referrals and seasonal reminders, not as the first thing to build before the service page itself is doing its job. A business still working on that trust signal, before and after photos, a clear process, a fast way to ask a question, usually gets more from fixing the page people land on first than from adding a third channel on top of two that are not converting yet.
+
+#### What is the first move this week?
+
+Pick one number to check this week instead of trying to fix both channels at once: how many people are actually on the email list right now, and whether the most recent send reflected a real plan or just whatever time allowed that week. If the website, Pinterest and email are all partly running but nobody has looked at how they connect, the [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) from Marie Glow Studio looks at that whole picture together: where visitors land, where they stall out, and which single change would move the most people forward, delivered as a written plan rather than another list of tactics to try on faith.
+
+#### Frequently asked questions
+
+**Is Pinterest a social media platform or a search engine?**
+
+Pinterest is a visual search and discovery platform. People use it to search for products, services, ideas and solutions. Unlike traditional social media, an optimized pin can keep appearing in search results and driving traffic long after it was published.
+
+**Should a small business stop posting on social media and only use email?**
+
+No. Social platforms, especially Pinterest, are still useful for reaching people who have never heard of the business before, since an email list only reaches people already on it. The practical approach is using social media for discovery and sending interested visitors toward an email sign up, while treating email as the channel that does more of the selling and repeat business once someone has joined the list.
+
+**What is the Digital Strategy Roadmap?**
+
+The $397 Digital Strategy Roadmap looks at how customers actually move between your website, search engines, Pinterest, email and other tools, points to the exact spot where that path breaks down, and leaves you with a written plan covering the next ninety days, plus a walkthrough to go over the findings together.
 
 ### The Online Business Launch Checklist: What to Handle Before You Sell Anything
 
