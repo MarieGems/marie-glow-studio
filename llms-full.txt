@@ -3140,9 +3140,90 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (104)
+## Blog posts (105)
 
 Index: https://marieglowstudio.com/blog/
+
+### Long-Tail Keywords: An Easy SEO Win for Small Business Websites
+
+URL: https://marieglowstudio.com/blog/long-tail-keywords-an-easy-seo-win-for-small-business-websites
+Topic: SEO and Search Visibility | Published: 2026-10-26
+
+Long tail keywords are longer, more specific search phrases, something like women’s running shoes for flat feet instead of shoes. They are one of the easiest SEO wins for a small business website because a specific phrase like that carries far less competition than a single broad word, while still matching exactly what a ready to act searcher typed.
+
+#### What Is a Long Tail Keyword?
+
+A long tail keyword is a search phrase with three or more words that gets fewer total searches than a short, broad keyword, but matches a much more specific need. A single word like shoes covers everyone from a child’s school shoe shopper to someone chasing a specific running shoe for a foot condition, so a page trying to rank for it competes with every shoe retailer online. A phrase like women’s running shoes for flat feet narrows that same search down to one clear need, and far fewer websites are trying to answer it well.
+
+#### Why Do Long Tail Keywords Carry Less Competition?
+
+Fewer pages compete for a long tail phrase because fewer businesses bother writing content specific enough to match it. Most sites write one page about shoes and stop there, so a small business that writes a page, a product description or a blog post answering women’s running shoes for flat feet specifically is often one of a handful of pages Google can even show for that exact phrase. [Why Your Website Is Not on Google, and How to Fix It](https://marieglowstudio.com/blog/why-your-website-is-not-on-google) looks at the more basic indexing problems that keep a site out of the running before keyword choice even matters.
+
+A broad keyword compared with a long tail keyword
+
+| Question | Broad keyword: shoes | Long tail keyword: women’s running shoes for flat feet |
+
+| Who else is trying to rank for it | Every shoe brand and retailer online | A much smaller group writing for that exact need |
+
+| What the searcher actually wants | Unclear, could be browsing or buying almost anything | A specific product solving a specific problem |
+
+| How realistic it is for a small site to rank for it | Very difficult without years of authority behind the site | Realistic with one well written, specific page |
+
+#### Where Should a Long Tail Keyword Actually Go on a Page?
+
+Once a long tail phrase is chosen for a page, it earns the most value by actually appearing in the spots a search engine and a reader both read first, not buried somewhere in the middle of a paragraph.
+
+- The page title and title tag, as close to the front of it as the sentence allows
+
+- The opening paragraph, in a sentence that answers the phrase directly
+
+- At least one subheading, worded the way the phrase would naturally appear in a question
+
+- The meta description, so the search result preview itself matches what was searched
+
+- The URL, when the page is new enough that the slug can still be written clean
+
+#### What Do Real Long Tail Keyword Examples Look Like for a Small Business?
+
+Women’s running shoes for flat feet is a long tail example built around a product business: specific to a product, a use case and a problem, instead of just the product category. A service business can apply the same idea by naming the specific job instead of the general trade, for example an emergency plumber available for a weekend water heater leak instead of just plumber, or a wedding hairstylist who travels to the venue instead of just hairstylist. The pattern holds either way: add the detail a real customer would actually type once they already know what they need. [Local SEO for Service Businesses: Where to Start](https://marieglowstudio.com/blog/local-seo-for-service-businesses) covers how a service business’s own local keywords usually differ from a product business’s.
+
+#### How Do You Find Long Tail Keywords Without Paying for a Keyword Tool?
+
+A paid keyword tool is not required to get started. A few free sources show the exact phrases people are already typing.
+
+- Start typing a broad term into Google and read the autocomplete suggestions that appear
+
+- Scroll to the People also ask and related searches sections near the bottom of a results page
+
+- Read the actual questions customers already ask by email, by phone, or through a Google Business Profile
+
+- Check Google Search Console for queries the site already shows up for, even at a low position, since those are proof people are already searching that way
+
+#### What Is the Honest Limit of Long Tail Keywords?
+
+Lower competition is not the same thing as a guaranteed ranking. A long tail phrase still needs a page that actually answers it clearly, loads properly, and reads better than the handful of other pages trying to rank for the same thing. Long tail keywords make the climb shorter, not automatic, and results still depend on the page itself, the niche, and how consistently new content keeps answering real questions.
+
+#### What Is the First Step This Week?
+
+Pick one page on the website and write down the one broad keyword it is probably trying to rank for right now. Then write the longer, more specific version a real customer would type, and check whether that exact phrase currently appears in the title, the opening paragraph and at least one subheading. If it does not, that single page is the fastest long tail win available this week. For a site with several pages that have never had a deliberate keyword plan, the [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) builds a keyword map across up to ten pages, along with titles, meta descriptions, schema markup and internal linking, so every page works from a real plan instead of a guess.
+
+#### Frequently asked questions
+
+**What counts as a long tail keyword?**
+
+A long tail keyword is a longer, more specific search phrase, usually three or more words, that matches a narrower need than a single broad keyword. It gets searched less often overall, but far fewer pages compete for it, which makes it realistic for a small business website to rank for.
+
+**Why are long tail keywords easier for a small business website to rank for?**
+
+Because far fewer websites write content specific enough to match an exact long tail phrase. A broad keyword like shoes is contested by every retailer selling shoes, while a phrase like women's running shoes for flat feet is contested by a much smaller group of pages written for that exact need.
+
+**Where should a long tail keyword be placed on a page?**
+
+In the page title and title tag, the opening paragraph, at least one subheading, the meta description, and the URL when possible, so the phrase appears everywhere a search engine and a reader both look first.
+
+**Can a long tail keyword guarantee a page will rank?**
+
+No. A long tail phrase lowers the competition, but the page still has to answer it clearly and read better than the other pages trying to rank for the same thing. Results depend on the page, the niche and ongoing content, not on keyword choice alone.
 
 ### Email Marketing vs. Social Media: Where Should Your Time Actually Go?
 
