@@ -537,9 +537,12 @@ main{overflow-x:clip}
 .close .btn.alt{background:transparent;color:var(--cream);border-color:var(--cream);box-shadow:4px 4px 0 var(--terra)}
 .close .btn.alt:hover{background:var(--cream);color:var(--cocoa)}
 @media(max-width:760px){
-.nav{padding-left:14px;padding-right:14px;gap:8px}
+.nav{padding-left:14px;padding-right:14px;gap:16px}
 .logo{font-size:20px}
 .menu{flex:none;border:0;box-shadow:none;background:none;padding:0}
 .menu summary{padding:0 12px;min-height:40px;font-size:15px;box-shadow:none;border:2px solid var(--cocoa);background:var(--cream)}
 .nav__cta{margin-left:auto;flex:none}
+.logo{display:inline-flex;align-items:center;min-height:44px}
+@media(max-width:360px){.nav{gap:12px}.logo{font-size:18px}.nav__cta{font-size:13px;padding:7px 11px;box-shadow:3px 3px 0 var(--cocoa)}.menu summary{padding:0 10px;font-size:14px}}
+@media(max-width:340px){.nav{padding-left:10px;padding-right:10px;gap:9px}.logo{font-size:16px}.nav__cta{font-size:12.5px;padding:6px 9px}.menu summary{padding:0 8px;font-size:13px}}
 }
