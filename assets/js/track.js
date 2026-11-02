@@ -78,7 +78,7 @@
     send('cta_click', {
       cta_type: type,
       cta_location: a.getAttribute('data-loc') || 'page',
-      destination: type === 'buy' ? 'stripe' : (type === 'ask' ? 'form' : 'contact'),
+      destination: type === 'buy' ? 'stripe' : (type === 'ask' ? 'form' : (type === 'demo' || type === 'case' || type === 'more' ? 'page' : 'contact')),
       transport_type: 'beacon'
     });
   });

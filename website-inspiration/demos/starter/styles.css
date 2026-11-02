@@ -1,0 +1,122 @@
+@font-face{font-family:"Young Serif";src:url(fonts/young-serif-latin.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:Karla;src:url(fonts/karla-latin.woff2) format("woff2");font-weight:400 600;font-style:normal;font-display:swap}
+/* Hollis & Rye Starter: one page, sage base, terracotta button, a quote slip as the signature */
+:root{--cream:#E3EBDD;--paper:#CCDAC1;--cocoa:#3B2417;--terra:#B5532F;--rust:#9A4222;--frost:#F3E7D3;--line:#A9BC9B;--max:1120px;--pad:clamp(18px,5vw,64px);--serif:"Young Serif",Georgia,serif}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:96px}
+body{margin:0;background:var(--cream);color:var(--cocoa);font:18px/1.6 Karla,system-ui,sans-serif}
+p{max-width:62ch}
+h1,h2{text-wrap:balance}
+.demo{background:var(--cocoa);color:var(--cream);font-size:14px;text-align:center;padding:8px 16px}
+.site-header{position:sticky;top:0;z-index:20;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:14px var(--pad);background:rgba(227,235,221,.94);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.logo{font:400 24px var(--serif);letter-spacing:.01em;color:inherit;text-decoration:none}
+.logo i{font-style:normal;color:var(--rust)}
+/* Button: pill, cocoa border, hard offset shadow, presses on hover */
+.btn{display:inline-block;background:var(--terra);color:#fff;text-decoration:none;font:600 18px Karla,sans-serif;padding:14px 28px;min-height:48px;border:3px solid var(--cocoa);border-radius:999px;box-shadow:4px 4px 0 var(--cocoa);cursor:pointer}
+.btn:hover{transform:translate(2px,2px);box-shadow:2px 2px 0 var(--cocoa)}
+.btn:active{transform:translate(4px,4px);box-shadow:0 0 0 var(--cocoa)}
+@media(prefers-reduced-motion:no-preference){.btn{transition:transform .1s,box-shadow .1s}}
+.tag{font:600 13px Karla,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--rust)}
+h1{font:400 clamp(40px,6vw,84px)/1.02 var(--serif);margin:14px 0 22px;letter-spacing:-.02em}
+h1 em{color:var(--rust);font-style:normal}
+h2{font:400 clamp(28px,3.8vw,48px)/1.1 var(--serif);margin:10px 0 16px}
+.note{font-size:16px;color:#5A4434}
+
+/* hero: headline, an arch photo and a quote slip lying across it */
+.hero{display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(28px,5vw,80px);align-items:center;max-width:1280px;margin:auto;padding:clamp(36px,6vw,84px) var(--pad) clamp(56px,8vw,110px)}
+.lede{font-size:clamp(19px,1.7vw,23px);max-width:34ch;margin:0 0 28px}
+.hero-cta{display:flex;flex-wrap:wrap;gap:14px 22px;align-items:center}
+.hero-cta .note{margin:0}
+.art{position:relative;justify-self:center;width:min(100%,460px);padding:0 0 28px 28px}
+.arch{margin:0;border:3px solid var(--cocoa);border-radius:999px 999px 28px 28px;overflow:hidden;box-shadow:10px 10px 0 var(--cocoa);aspect-ratio:4/5;background:var(--paper)}
+.arch img{display:block;width:100%;height:100%;object-fit:cover}
+.slip{position:absolute;left:-6%;bottom:0;width:min(66%,300px);background:var(--frost);border:2px solid var(--cocoa);padding:14px 16px 12px;transform:rotate(-4deg);box-shadow:5px 5px 0 var(--cocoa);font-size:15px;line-height:1.35}
+.slip b{font-family:var(--serif);font-weight:400}
+.slip .h{font:600 11px Karla,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--rust);margin-bottom:6px}
+.slip div+div{display:flex;justify-content:space-between;gap:12px;padding:3px 0;border-bottom:1px dotted var(--line)}
+.slip .t{border:0;font-weight:600}
+.seal{position:absolute;right:-4%;top:6%;width:112px;height:112px;border-radius:50%;background:var(--terra);color:#fff;border:3px solid var(--cocoa);display:grid;place-items:center;text-align:center;font:600 13px/1.2 Karla,sans-serif;padding:12px;transform:rotate(9deg);box-shadow:4px 4px 0 var(--cocoa)}
+
+/* bands */
+.band{padding:clamp(48px,7vw,96px) var(--pad);border-top:1px solid var(--line)}
+.band.leaf{background:var(--paper)}
+.inner{max-width:var(--max);margin:auto}
+.cols{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:clamp(24px,5vw,72px);align-items:start}
+.big{font:400 clamp(26px,3.4vw,44px)/1.14 var(--serif);margin:10px 0 0}
+
+/* three steps */
+.steps{list-style:none;margin:28px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(14px,2vw,24px)}
+.steps li{background:#fff;border:2px solid var(--cocoa);border-radius:22px;padding:24px 22px 26px;box-shadow:5px 5px 0 var(--cocoa)}
+.steps b{display:block;font:400 22px var(--serif);margin-bottom:8px}
+.steps span{display:block;color:#4A3426}
+
+/* proof: the quote on a ticket */
+.proof{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:clamp(24px,5vw,72px);align-items:center}
+.ticket{position:relative;background:var(--frost);border:2px solid var(--cocoa);padding:26px 30px 24px;max-width:540px;box-shadow:8px 8px 0 var(--cocoa)}
+.quote{margin:0}
+.quote div{display:flex;justify-content:space-between;gap:16px;padding:8px 0;border-bottom:1px dotted #B9A98E}
+.quote b{font-family:var(--serif);font-weight:400}
+.quote .t{border:0;font-weight:600;font-size:1.1em}
+.lead{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:22px 0 26px;max-width:520px}
+.lead div{background:#fff;border:2px solid var(--cocoa);border-radius:18px;padding:16px 18px}
+.lead b{display:block;font:400 clamp(24px,3vw,34px)/1.1 var(--serif);color:var(--rust)}
+
+/* photos */
+.photos{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(12px,2vw,24px);margin:28px 0 0}
+.photos figure{margin:0}
+.photos img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid var(--cocoa);border-radius:22px;box-shadow:5px 5px 0 var(--cocoa);background:var(--paper)}
+.photos figcaption{margin:12px 4px 0;font:400 20px var(--serif)}
+
+/* closing */
+.close{background:var(--cocoa);color:var(--cream);padding:clamp(56px,8vw,120px) var(--pad);text-align:center;border-top:0}
+.close h2{font-size:clamp(30px,4.6vw,60px);max-width:20ch;margin:0 auto 18px}
+.close p{margin:0 auto 26px;color:#E3EBDD}
+.close .btn{border-color:var(--cream);box-shadow:4px 4px 0 var(--cream)}
+.close .btn:hover{box-shadow:2px 2px 0 var(--cream)}
+.close .note{color:#D4DECB;margin-top:22px}
+.close a:not(.btn){color:var(--cream)}
+.bridge{font:400 clamp(20px,2.2vw,28px)/1.35 var(--serif);max-width:30ch;margin:0 auto 6px}
+
+.site-footer{background:#2A190F;color:var(--cream);padding:30px var(--pad);font-size:15px}
+
+/* request page keeps its simple form */
+section{padding:clamp(40px,6vw,80px) var(--pad);border-top:1px solid var(--line)}
+.wrap{max-width:var(--max);margin:auto;display:grid;grid-template-columns:200px 1fr;gap:32px}
+.form{max-width:520px;display:grid;gap:16px}
+label{font-weight:600;display:grid;gap:6px}
+input,textarea{font:inherit;padding:12px;border:2px solid var(--cocoa);border-radius:6px;background:#fff;color:var(--cocoa)}
+main a:not(.btn){color:#7A3418;text-underline-offset:3px}
+
+@media(max-width:900px){
+  .hero,.cols,.proof{grid-template-columns:1fr}
+  .art{width:min(100%,380px)}
+  .steps{grid-template-columns:1fr}
+  .photos{grid-template-columns:1fr}
+  .wrap{grid-template-columns:1fr;gap:8px}
+  .site-header .btn{padding:10px 18px;font-size:16px}
+}
+
+/* Motion: transform and opacity only, off when the visitor asks for reduced motion */
+:root{--dur-2:250ms;--dur-3:450ms;--ease:cubic-bezier(.2,.7,.2,1)}
+@media(prefers-reduced-motion:no-preference){
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes drop{from{opacity:0;transform:rotate(-4deg) translateY(18px)}to{opacity:1;transform:rotate(-4deg)}}
+.hero h1{animation:rise var(--dur-3) var(--ease) both}
+.hero .lede,.hero-cta{animation:rise var(--dur-3) var(--ease) 90ms both}
+.arch{animation:rise 600ms var(--ease) 140ms both}
+.slip{animation:drop 600ms var(--ease) 420ms both}
+.js .quote div{opacity:0;transform:translateY(6px);transition:opacity var(--dur-2) var(--ease),transform var(--dur-2) var(--ease)}
+.js .ticket.in .quote div{opacity:1;transform:none}
+.js .ticket.in .quote div:nth-child(2){transition-delay:90ms}
+.js .ticket.in .quote div:nth-child(3){transition-delay:180ms}
+.js .ticket.in .quote div:nth-child(4){transition-delay:270ms}
+.js .ticket.in .quote div:nth-child(5){transition-delay:360ms}
+.js .ticket.in .quote div:nth-child(6){transition-delay:450ms}
+}
+
+.skip{position:absolute;left:8px;top:-60px;z-index:100;background:var(--cocoa);color:#E3EBDD;padding:12px 18px;border-radius:0 0 8px 8px;font-weight:600;text-decoration:none}
+.skip:focus{top:0;outline:3px solid var(--rust);outline-offset:2px}
+@media print{.js .quote div{opacity:1!important;transform:none!important;transition:none!important}.site-header{position:static}}
+/* Focus: one clear ring on everything you can tab to */
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid var(--rust);outline-offset:3px}
+.close a:focus-visible,.site-footer a:focus-visible{outline-color:#E3EBDD}
