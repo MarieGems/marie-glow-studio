@@ -216,23 +216,45 @@
 
 <main id="top">
 
-  <!-- ================= HERO: full-bleed video background ================= -->
-  <section class="ed-hero ed-hero-video">
-    <div class="hero-video-wrap" aria-hidden="true">
-      <video class="hero-video" autoplay muted loop playsinline preload="metadata" poster="/assets/video/hero-hand-scrolling-laptop-poster.jpg">
-        <source src="/assets/video/hero-hand-scrolling-laptop.webm" type="video/webm">
-        <source src="/assets/video/hero-hand-scrolling-laptop.mp4" type="video/mp4">
-      </video>
+  <!-- ================= HERO: ribbon of portfolio pieces ================= -->
+  <section class="ed-hero ed-hero-ribbon" aria-labelledby="hero-title">
+    <div class="rb-stage" aria-hidden="true">
+      <div class="rb-ribbon">
+        <ul class="rb-track">
+          <li class="rb-panel" style="--i:0"><img src="/assets/hero-ribbon/marie-gems.webp" alt="" width="640" height="400" loading="eager" decoding="async"></li>
+          <li class="rb-panel" style="--i:1"><img src="/assets/hero-ribbon/your-kind-mind.webp" alt="" width="640" height="400" loading="eager" decoding="async"></li>
+          <li class="rb-panel" style="--i:2"><img src="/assets/hero-ribbon/hollis-rye.webp" alt="" width="640" height="400" loading="eager" decoding="async"></li>
+          <li class="rb-panel" style="--i:3"><img src="/assets/hero-ribbon/marie-harvey.webp" alt="" width="640" height="400" loading="eager" decoding="async"></li>
+          <li class="rb-panel" style="--i:4"><img src="/assets/hero-ribbon/ellegant-creations.webp" alt="" width="640" height="400" loading="eager" decoding="async"></li>
+          <li class="rb-panel" style="--i:5"><img src="/assets/hero-ribbon/spiker-heating.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:6"><img src="/assets/hero-ribbon/rskin-studio.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:7"><img src="/assets/hero-ribbon/dog-ear.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:8"><img src="/assets/hero-ribbon/rainbowstar.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:9"><img src="/assets/hero-ribbon/florals-garden.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+        </ul>
+        <ul class="rb-track rb-track-copy">
+          <li class="rb-panel" style="--i:0"><img src="/assets/hero-ribbon/marie-gems.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:1"><img src="/assets/hero-ribbon/your-kind-mind.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:2"><img src="/assets/hero-ribbon/hollis-rye.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:3"><img src="/assets/hero-ribbon/marie-harvey.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:4"><img src="/assets/hero-ribbon/ellegant-creations.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:5"><img src="/assets/hero-ribbon/spiker-heating.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:6"><img src="/assets/hero-ribbon/rskin-studio.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:7"><img src="/assets/hero-ribbon/dog-ear.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:8"><img src="/assets/hero-ribbon/rainbowstar.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+          <li class="rb-panel" style="--i:9"><img src="/assets/hero-ribbon/florals-garden.webp" alt="" width="640" height="400" loading="lazy" decoding="async"></li>
+        </ul>
+      </div>
     </div>
-    <button class="hero-video-toggle" type="button" aria-label="Pause background video" aria-pressed="false">
+    <button class="hero-video-toggle rb-toggle" type="button" aria-label="Pause moving pieces" aria-pressed="false">
       <svg class="icon-pause" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3v14H7zM14 5h3v14h-3z" fill="currentColor"/></svg>
       <svg class="icon-play" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l11 7-11 7z" fill="currentColor"/></svg>
     </button>
-    <div class="wrap-wide">
-      <div class="ed-hero-copy">
+    <div class="wrap-wide rb-copy">
+      <p class="ed-lede rb-lede stagger" style="--i:2">I build websites, Pinterest marketing and search visibility for small product and service businesses, then connect them so the person who finds you can easily buy from you, book you or call you.</p>
+      <div class="rb-bottom">
         <span class="eyebrow stagger" style="--i:0">Marie Glow Studio &middot; Wichita, KS</span>
-        <h1 class="stagger" style="--i:1">Be easier to find, easier to choose and easier to <em>say yes&nbsp;to.</em></h1>
-        <p class="ed-lede stagger" style="--i:2">I build websites, Pinterest marketing and search visibility for small product and service businesses, then connect them so the person who finds you can easily buy from you, book you or call you.</p>
+        <h1 id="hero-title" class="stagger" style="--i:1">Be easier to find, easier to choose and easier to <em>say yes&nbsp;to.</em></h1>
         <div class="hero-cta-row stagger" style="--i:3">
           <a class="btn btn-primary" href="/contact">Tell me about your business <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h13M13 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
           <a class="btn btn-secondary" href="/services">See services and prices</a>
@@ -586,18 +608,18 @@
 <!-- /mg:footer -->
 
 <script>
-  // Background hero video: pause/play control, and no autoplay for visitors who ask for reduced motion.
+  // Hero ribbon: pause/play control, and no motion for visitors who ask for reduced motion.
   (function(){
-    var v = document.querySelector('.hero-video'), b = document.querySelector('.hero-video-toggle');
-    if (!v || !b) return;
+    var h = document.querySelector('.ed-hero-ribbon'), b = document.querySelector('.rb-toggle');
+    if (!h || !b) return;
     function set(paused){
-      if (paused) v.pause(); else v.play().catch(function(){});
+      h.classList.toggle('is-paused', paused);
       b.setAttribute('aria-pressed', paused ? 'true' : 'false');
-      b.setAttribute('aria-label', paused ? 'Play background video' : 'Pause background video');
+      b.setAttribute('aria-label', paused ? 'Play moving pieces' : 'Pause moving pieces');
       b.classList.toggle('is-paused', paused);
     }
-    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) { v.removeAttribute('autoplay'); set(true); }
-    b.addEventListener('click', function(){ set(!v.paused); });
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) set(true);
+    b.addEventListener('click', function(){ set(!h.classList.contains('is-paused')); });
   })();
 </script>
 <script src="/assets/js/main.js"></script>
