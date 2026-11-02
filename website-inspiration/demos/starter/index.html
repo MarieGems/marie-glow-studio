@@ -101,5 +101,5 @@ window.addEventListener('beforeprint',function(){q.classList.add('in');});
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){q.classList.add('in');io.disconnect();}});},{rootMargin:'0px 0px -15% 0px'});io.observe(q);})();
 </script>
 
-</body>
+<a class="mg-back" href="/website-inspiration/" style="position:fixed;left:12px;bottom:16px;z-index:2147483000;background:#342846;color:#fff;font:600 14px/1 system-ui,sans-serif;padding:12px 16px;border-radius:999px;text-decoration:none;box-shadow:0 2px 10px rgba(0,0,0,.35)">&larr; Back to the gallery</a><script>(function(){var a=document.querySelector(".mg-back");if(!a)return;try{var r=document.referrer?new URL(document.referrer):null;if(r&&r.origin===location.origin&&r.pathname.indexOf("/website-inspiration/")===0&&r.pathname!==location.pathname){a.innerHTML="&larr; Back";a.href=r.href;a.addEventListener("click",function(e){if(history.length>1){e.preventDefault();history.back();}});}}catch(e){}})();</script></body>
 </html>
