@@ -3218,7 +3218,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (108)
+## Blog posts (109)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3378,6 +3378,61 @@ Yes. Most Pinterest searches are unbranded, meaning people type what they want r
 **Should a business drop its own name and only use unbranded keywords?**
 
 No. Keep both. The business's own name becomes useful once people already know it and search for it directly; unbranded keywords are what bring in people who do not know it yet.
+
+### How to Choose a Domain Name for Your Business Without Overthinking It
+
+URL: https://marieglowstudio.com/blog/how-to-choose-a-domain-name-for-your-business-without-overthinking-it
+Topic: Shopify and Web Design | Published: 2026-11-03
+
+The short answer is to keep a domain name between five and fourteen characters, easy to say out loud and spell from memory, free of hyphens, numbers and intentional misspellings, and clear of any trademark conflict before you buy it. A domain name only has to be findable and ownable. It does not have to be clever.
+
+#### How long should a domain name be?
+
+Keep a domain name between five and fourteen characters whenever the name you actually want allows it. Domain registrars such as GoDaddy, Network Solutions and Wix point to this same range for a reason: a short name is easier to say over the phone, easier to type correctly on a small screen, and easier to remember after someone sees it once on a Pinterest pin or a business card. A shop called Marigold Supply Co. might shorten to marigoldsupply.com rather than spelling out the full name. A contractor named Hersh Roofing and Exteriors has the same decision to make: hershroofing.com says enough, and it fits on a truck door.
+
+#### Should a domain name match your business name exactly?
+
+Match it exactly when the exact match is available, since that keeps your name, your signage and your domain consistent everywhere a customer encounters you. When the exact match is already registered by someone else, add one plain, descriptive word instead of changing the spelling: a bakery called Brambleberry could try brambleberrybakery.com. A service business has more room to work with, because people search by what they need as often as by a business name. A salon might register the owner's brand name and still be found if the domain reads naturally, and a coach or consultant whose given name is common online may be better served by a domain that names the service plainly, so a new visitor understands what they are landing on before they even click.
+
+#### Why skip hyphens, numbers and misspellings in a domain name?
+
+Skip them because every one of the three creates a moment where a customer has to guess. A hyphen disappears when someone reads a domain out loud or types it from memory, so marigold-supply.com and marigoldsupply.com become two different addresses in a customer's head and only one of them is yours. A number is read two ways: someone hears "four" and does not know if that means the digit 4 or the word four spelled out, so a name like 4seasonsflorist.com splits its own traffic. A deliberate misspelling, dropping a vowel or doubling a letter to make an otherwise taken name available, sends anyone who types the correctly spelled version straight to whoever actually owns it, which can mean sending your own visitors to a competitor by accident.
+
+#### What should you check before you buy a domain name?
+
+Check these four things before you commit to any domain name, in this order:
+
+- Length: five to fourteen characters where the name allows it
+
+- Spelling: a name a stranger could spell correctly after hearing it once
+
+- Format: no hyphens, no digits standing in for words, no stylized misspellings
+
+- Trademark: a search to confirm the name is not already protected in your category
+
+The trademark check matters even for a brand new, small business, because registering a domain does not grant any trademark right by itself. A quick search of the United States Patent and Trademark Office's trademark database, plus a plain search of the name alongside your industry or city, catches most conflicts before they cost you a rebrand later. If another business in your same category already uses a very similar name, even informally, that is worth a second look before you buy and build on top of it.
+
+#### What if the domain name you want is already taken?
+
+Add a real word instead of reaching for a workaround. A geographic word, a category word or a short tagline usually reads better to a person and performs better in search than a hyphen, a number or a misspelling ever will: wichitamarigoldsupply.com or marigoldsupplyco.com both read as real names rather than puzzles. A different extension, such as .co or .shop, is a reasonable second choice for a product brand if the .com is unavailable and the business plans to buy the .com later if it frees up, but it is worth checking first whether the name is taken because someone built an active business on it or because it is simply registered and unused, since the second case sometimes means a real conversation and a fair price, not a forced rebrand.
+
+#### What should you do once you have the domain name?
+
+Connect the domain to a site built to use it well, since the domain itself is only the address, not the destination. A product business usually wants a shop built to show items clearly and make checkout simple; a service business usually wants a page that explains what it offers and gives a visitor a fast way to call, book or ask a question. The [Website Starter](https://marieglowstudio.com/website-starter) at Marie Glow Studio is a professional, mobile responsive one page site for a shop or a service business, built around your brand colors, fonts, logo, photos and copy, and it is typically live in about five business days once a completed intake arrives. If the new domain is paired with a full rebrand instead of a single page, [DIY Website vs Professional Website Design](https://marieglowstudio.com/blog/diy-website-vs-professional-website-design) and [Small Business Website Essentials](https://marieglowstudio.com/blog/small-business-website-essentials) are good next reads before you decide how much of the build to take on yourself.
+
+#### Frequently asked questions
+
+**Does a domain name need to match my business name exactly?**
+
+It helps when the exact match is available, since that keeps your name, signage and domain consistent. When it is taken, add one plain, descriptive word instead of changing the spelling, and lean toward a domain that names what you do when your business name is common or hard to search.
+
+**Why should a domain name avoid hyphens and numbers?**
+
+A hyphen disappears when a domain is read aloud or typed from memory, and a number can be read as a digit or spelled out, so both split traffic between two different addresses and only one of them is actually yours.
+
+**What should I do if the domain name I want is already taken?**
+
+Add a real, descriptive word rather than a hyphen, a number or a misspelling, and check whether the name is taken by an active business or simply registered and unused before deciding whether to try a different extension or make an offer.
 
 ### Long-Tail Keywords: An Easy SEO Win for Small Business Websites
 
