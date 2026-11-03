@@ -3218,7 +3218,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (107)
+## Blog posts (108)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3322,6 +3322,62 @@ A worksheet graphic, a framework explained in one image, or a short answer pulle
 **How fast does Pinterest work for a brand new service business?**
 
 There is no fixed timeline. Some pins start showing up in search within weeks and others take months, depending on the account's keywords, the pins themselves, the website they point to, and how consistently new pins are published.
+
+### Branded vs. Unbranded Keywords: Why Pinterest Searches Skew Unbranded
+
+URL: https://marieglowstudio.com/blog/branded-vs-unbranded-keywords-why-pinterest-searches-skew-unbranded
+Topic: Keywords and Getting Found | Published: 2026-11-03
+
+Most searches on Pinterest are unbranded: people type what they want, not a business name. Fit Small Business research confirms this is the majority pattern on the platform, which means a small business with no following yet can still rank for the problem itself, with no brand recognition required.
+
+#### What is the difference between a branded and an unbranded Pinterest keyword?
+
+A branded keyword names a business, a product line or a specific brand, something like a shop's own name or a service's own name. An unbranded keyword names the need instead: a category, a problem or an outcome a stranger types in without knowing yet who solves it. On Pinterest, where the search bar behaves more like a planning tool than a social feed, most of what people type falls into the unbranded group, because they are searching for an idea or a solution, not a company they have already heard of.
+
+A branded keyword compared with an unbranded keyword, for two kinds of business
+| Business type | Branded keyword | Unbranded keyword |
+| A handmade product shop | The shop's own name | Housewarming gift ideas for a new homeowner |
+| A local service business, such as a salon or a contractor | The business's own name | Best haircut for fine hair, or kitchen remodel ideas on a budget |
+
+#### Why do most Pinterest searches skew unbranded?
+
+Fit Small Business research on Pinterest search behavior found that the majority of searches on the platform are unbranded, meaning people are typing what they want rather than a name they already trust. Pinterest's own description of itself backs this up: it is a visual search and discovery platform where people look for products, services, ideas and solutions, closer to how someone searches Google than how someone scrolls a social feed. A search engine built that way rewards the words that describe a need, not a logo.
+
+#### How is this different from keyword strategy on Google?
+
+Google search carries a much larger share of navigational, branded searches: people searching a company by name because they already decided they want that company, often to find a login page, a store locator or a phone number. Pinterest skews the other way, since most people arrive still looking for an idea or a solution rather than already knowing which business they want. That is the main reason a keyword plan built for Google, heavy on the business's own name and location, undersells on Pinterest, where the words describing the need tend to outperform the words describing the business.
+
+#### What does that mean for a business with no followers yet?
+
+It means a brand new Pinterest account, with zero followers and zero history, is searching inside the same unbranded pool as every other account, since most of what people type into Pinterest is the need itself rather than a business name. That is a real advantage for a business that has not built an audience anywhere yet: a salon, a contractor or a coach with no existing following can be found by someone searching for the exact problem they solve, the same way a new product shop can be found by someone searching for a gift idea instead of a brand name.
+
+A common mistake is running a Pinterest account the way you would run an Instagram feed: pinning almost nothing but photos of a business's own products or its own storefront. Pinterest keeps asking accounts to limit self promotion, and a feed built only from branded content skips past the unbranded searches most likely to bring in someone who has never heard of the business. Mixing in pins built around the need itself, a tip, an idea or a short checklist, next to the proof shots, is what tends to work instead.
+
+#### Where should unbranded keywords actually go?
+
+Unbranded keywords belong wherever Pinterest reads words on an account: inside a profile name, a bio line, a board title, a board description, a pin title, a pin description, or the text laid directly over the pin image. The deeper breakdown of exactly which field carries which kind of keyword is covered in [where to use keywords on Pinterest](https://marieglowstudio.com/blog/where-to-use-keywords-on-pinterest), and the process for finding search terms worth targeting in the first place is covered in [how to do Pinterest keyword research](https://marieglowstudio.com/blog/pinterest-keyword-research). How Pinterest decides which pin to show for a given search in the first place is its own topic, covered in [how to get found in Pinterest search](https://marieglowstudio.com/blog/how-to-get-found-pinterest-search).
+
+#### Does branded keyword strategy ever matter on Pinterest?
+
+Yes, once there is something to recognize. A business's own name becomes a useful keyword after it has customers who already know it and search for it directly, the way someone might later search a shop by name instead of by the gift they first went looking for. Early on, though, almost nobody is typing a name they have never heard, so unbranded keywords are what actually bring in new people. Results from either kind of keyword still depend on the account's niche, the competition in that niche, and how consistently new pins go out, the same honest limit that applies to every part of Pinterest marketing.
+
+#### What is the first step to finding the right unbranded keywords?
+
+The free first step is Pinterest's own search bar: typing a broad word related to the business and reading the autocomplete suggestions and guided search pills that appear, since those come directly from what people are already searching. That gives a rough list of unbranded phrases worth trying in a board title, a pin title or a pin description. For a business that already has pins up and wants to know specifically which keywords are missing from its profile, boards and pin text, the [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) looks at the account's existing keyword use alongside its boards, pins and website connection, then returns a ranked list of what to fix first instead of leaving the business to guess at the right order.
+
+#### Frequently asked questions
+
+**What counts as a branded keyword versus an unbranded one on Pinterest?**
+
+A branded keyword is a business or product name. An unbranded keyword describes the need, problem or outcome instead, which is the kind of search most people type on Pinterest.
+
+**Can a brand new Pinterest account with no followers show up in search?**
+
+Yes. Most Pinterest searches are unbranded, meaning people type what they want rather than a name they already trust, so a new account with no followers can still turn up for the right unbranded search, the same as an account with history.
+
+**Should a business drop its own name and only use unbranded keywords?**
+
+No. Keep both. The business's own name becomes useful once people already know it and search for it directly; unbranded keywords are what bring in people who do not know it yet.
 
 ### Long-Tail Keywords: An Easy SEO Win for Small Business Websites
 
