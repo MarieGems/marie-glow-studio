@@ -6,12 +6,13 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 
 ### Website Starter
 - Price: $249 (one-time)
-- Delivery: 5 business days from completed intake, guaranteed, or the revision round is free
+- Delivery: 5 business days from completed intake, guaranteed, or the revision round is free. Confirmed by Marie on 2026-11-02: she stands behind this wording; the clock starts only once intake is complete (same clock-start idea as the Digital Strategy Roadmap).
 - Works for: a shop or a service business (buy button, booking link, quote form or call button)
 - Includes: professionally designed mobile-responsive one-page website customized to your brand colors/fonts/logo/photos/copy, basic on-page SEO, contact section with social links, domain-connection assistance, basic pre-launch testing, one revision round, a free Pinterest Quick-Start Checklist. For a service business, the site connects to your existing booking tool, quote form or phone number (a link/embed to the client's own tool; Marie Glow Studio does not provide or pay for the booking platform itself).
 - Hosting: delivered as static files, no ongoing platform subscription charged by Marie Glow Studio for the Website Starter itself. Host it anywhere that supports a static HTML site (your own domain, GitHub Pages, Netlify, or similar); hosting, domain and any third-party service costs are the client's own.
 - Add-ons: extra pages $79 each; Light-Edit Care Plan (first 30 days free, then $25/edit or $15/month for up to two)
-- Not included: e-commerce, custom photography or copywriting, unlimited revisions
+- Care Plan edit turnaround: within 2 business days of receiving a complete edit request (decided 2026-11-02).
+- Not included: e-commerce, custom photography or copywriting, unlimited revisions, a client-editable CMS (decided 2026-11-02: not offered on the Starter for now; the Light-Edit Care Plan is the edit path)
 - Upgrade path: $100 of what you paid is credited toward the Complete Package if you upgrade within 6 months
 - Checkout: https://buy.stripe.com/cNi7sMd101Hi7x68j83VC05
 
@@ -19,7 +20,11 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 - Price: $1,497 (one-time)
 - Delivery: roughly 2-3 weeks depending on how quickly product images/content are provided
 - Includes: custom primary logo, brand colors, font recommendations, visual brand direction, style guide, social media graphics, full site build (Shopify for online stores, custom-coded for service businesses), custom homepage, mobile-responsive layout, essential pages, navigation, product/collection organization for up to 20 items, contact form, footer, policy pages, domain support, full store review/testing/training. For a service business, the custom-coded site is wired to your existing booking or scheduling tool, quote form or phone number (a link/embed to the client's own tool; Marie Glow Studio does not provide or pay for the booking platform itself).
+- Edits on a custom-coded service site (decided 2026-11-02): the first 30 days of Light-Edit Care Plan edits are included, then the same Light-Edit Care Plan applies ($25 per edit, or $15/month for up to two edits), with the same 2-business-day turnaround.
+- Booking and order tracking (decided 2026-11-02, supersedes the Tier 3 add-on): included in the $1,497 Complete package. Includes a styled availability calendar, a deposit step that links to the client's own Stripe or Square, an order-status page and a 3D cake design page. A custom-built payment system is quoted separately. Marie Glow Studio still does not provide or pay for the booking or payment platform itself.
+- Signature homepage option (decided 2026-11-02): a scroll-driven 3D homepage and a cake builder (pick size, flavor, filling and finish, see an estimate, send a quote request) and the 3D cake design with booking are part of this package, not a Website Starter feature and not a separate quoted extra. Example: the Hollis & Rye bakery demo, where a 3D cake flies through the page as you scroll (30-websites/melli-bakery/index.html). The Website Starter stays the plain one-page site. The booking calendar, deposit link and order tracking are the separate Tier 3 add-on above.
 - Credit: the $397 Digital Strategy Roadmap is credited toward this package if booked within 60 days
+- Ownership and hosting (decided 2026-11-02): the client owns the final deliverables once paid in full, the domain is always registered in the client's name, and the Shopify store account on a store build is the client's. A custom-coded service site can be hosted by Marie for $25 a month, no minimum, hosting only (edits stay on the Light-Edit Care Plan), or the client takes the files and hosts elsewhere at no charge from Marie Glow Studio. Marie keeps only her own copy of the files and uses her own login if the client asks for edits.
 - Refund policy: non-refundable once work begins
 - Checkout: https://buy.stripe.com/28E3cwgdc3Pq7x6czo3VC06
 
