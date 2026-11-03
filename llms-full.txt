@@ -3218,7 +3218,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (111)
+## Blog posts (112)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3547,6 +3547,67 @@ Monthly. Emailing less often than once a month means subscribers are more likely
 **Should a service business email as often as a product business?**
 
 The cadence can be the same, but the content differs. A product business often has new items or a sale to announce most weeks, while a service business usually leans on reminders, seasonal tips or answers to questions clients already ask, so there is still something worth sending.
+
+### How to Write a Blog Post That Actually Ranks on Google
+
+URL: https://marieglowstudio.com/blog/how-to-write-a-blog-post-that-actually-ranks-on-google
+Topic: SEO and Search Visibility | Published: 2026-11-03
+
+The short answer to how to write a blog post that ranks on Google is to start from a real question people already search, then structure the answer so both Google and AI tools can read it in seconds: one clear title, question shaped subheadings, and the direct answer first in every section.
+
+#### What Makes a Blog Post Rank on Google?
+
+A blog post ranks when it is the clearest, most complete answer to a question someone actually typed into Google, and when Google can tell that quickly from the title, the headings and the first few sentences. Writing skill matters, but structure and a real question matter more. A post that reads well but never states its answer plainly, or buries it under three paragraphs of introduction, asks Google and the reader to work harder than they should have to.
+
+The question matters more than it might feel like it should. A shop owner writing about a product and a service business owner writing about a quote or booking process are both chasing the same thing: the exact words a future customer already typed into the search bar, not the phrase that sounds clever inside the business.
+
+#### Where Do You Find the Right Topic Before You Write?
+
+Start with a question your own customers already ask, not a guess. Google's own People Also Ask box, the one that opens under search results for a related term, is a free source of real questions people type in. A keyword or question research tool does the same thing at a larger scale, showing which phrasings people actually use. The questions on your own FAQ page, or the ones you answer by email every week, count too: if someone already asked it once, someone else is probably searching for it.
+
+Longer, more specific searches, like how to write a blog post for a small bakery website rather than just blog writing, are usually easier to rank for, because fewer pages compete for them. [Long tail keywords are an easier SEO win for a small business](https://marieglowstudio.com/blog/long-tail-keywords-an-easy-seo-win-for-small-business-websites) for exactly this reason.
+
+#### How Should You Structure a Blog Post for Google and AI Search?
+
+One title carries the main idea. That is the H1, and a page should only have one. Below it, question shaped subheadings break the topic into the smaller questions a reader actually has, and each one should answer its own question in the sentence right after it, so the section makes sense even if it is the only part someone reads. That is also how AI tools like ChatGPT and Google's own AI answers pull a passage out of a page to quote: structuring for [answer engine optimization](https://marieglowstudio.com/blog/answer-engine-optimization-for-small-business) is largely the same work as structuring for a human reader in a hurry.
+
+A simple structure that works for most topics:
+
+- One title that states the topic plainly
+- An opening paragraph that answers the title's question directly
+- Three to six subheadings, each shaped as a question
+- Short paragraphs under each subheading, answer first
+- A list or table wherever the content is naturally a list or a comparison
+
+Behind that structure, [schema markup](https://marieglowstudio.com/blog/what-is-schema-markup) tells Google and AI tools what kind of content a page is, an article, a set of FAQs, a set of steps, in a format they can read without guessing. It will not make a weak post rank, but it removes one more layer of guesswork for a strong one.
+
+#### What Belongs in the Opening Paragraph?
+
+The direct answer, in plain words, before anything else. A reader and a search engine should both be able to read the first two or three sentences and know exactly what the post says, without scrolling. Save the backstory, the reasons the topic matters and any caveats for later in the post. If the opening paragraph could be read on its own, out of context, and still make sense, it is doing its job.
+
+#### How Long Should a Blog Post Be to Rank?
+
+Long enough to fully answer the question, and no longer. Many posts that rank well land somewhere between several hundred and a couple thousand words, but the number follows the topic rather than setting it: a quick how to question might need a few hundred words done well, while a topic with several real sub-questions might need well over a thousand. Padding a short answer to hit a word count target usually hurts more than it helps, because it buries the answer the post was supposed to give. Length is also never a promise by itself. Results depend on the topic, the competition already writing about it, and how consistently new posts and links point back to older ones, not on hitting a specific word count.
+
+#### What Should You Do After You Publish a Blog Post?
+
+Link it from at least a couple of related posts and from the page on your site it supports, so Google can find it through your own site structure and readers can find it from something they already clicked. Submit the URL in Google Search Console so it gets crawled sooner instead of waiting to be discovered on its own. Then give it real time: a new post rarely ranks within days, and judging it after a week tells you very little.
+
+If building the keyword map, titles, meta descriptions and schema across a whole site sounds like more than one afternoon, [SEO Foundations Setup](https://marieglowstudio.com/seo-foundations) puts that foundation in place for up to 10 pages at once, so every new post you write afterward has something solid to plug into instead of starting from zero.
+
+#### Frequently asked questions
+
+**How many words should a blog post be to rank on Google?**
+
+There is no fixed number. A post should be long enough to fully answer the question it targets and no longer. Many posts that rank well land somewhere between several hundred and a couple thousand words, with the length following the topic rather than a target.
+
+**Do I need to copy the exact wording from Google's People Also Ask box?**
+
+No. People Also Ask shows the kind of questions people are already typing, so you can see real phrasing, but the post should answer the question in your own clear words rather than repeat the box word for word.
+
+**Can a blog post have more than one H1?**
+
+No. A page should have exactly one H1, the title, with the subtopics underneath it organized as H2 and H3 headings instead.
 
 ### Long-Tail Keywords: An Easy SEO Win for Small Business Websites
 
