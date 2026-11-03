@@ -18,12 +18,13 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 
 #### Website Starter
 - Price: $249 (one-time)
-- Delivery: 5 business days from completed intake, guaranteed, or the revision round is free
+- Delivery: 5 business days from completed intake, guaranteed, or the revision round is free. Confirmed by Marie on 2026-11-02: she stands behind this wording; the clock starts only once intake is complete (same clock-start idea as the Digital Strategy Roadmap).
 - Works for: a shop or a service business (buy button, booking link, quote form or call button)
 - Includes: professionally designed mobile-responsive one-page website customized to your brand colors/fonts/logo/photos/copy, basic on-page SEO, contact section with social links, domain-connection assistance, basic pre-launch testing, one revision round, a free Pinterest Quick-Start Checklist. For a service business, the site connects to your existing booking tool, quote form or phone number (a link/embed to the client's own tool; Marie Glow Studio does not provide or pay for the booking platform itself).
 - Hosting: delivered as static files, no ongoing platform subscription charged by Marie Glow Studio for the Website Starter itself. Host it anywhere that supports a static HTML site (your own domain, GitHub Pages, Netlify, or similar); hosting, domain and any third-party service costs are the client's own.
 - Add-ons: extra pages $79 each; Light-Edit Care Plan (first 30 days free, then $25/edit or $15/month for up to two)
-- Not included: e-commerce, custom photography or copywriting, unlimited revisions
+- Care Plan edit turnaround: within 2 business days of receiving a complete edit request (decided 2026-11-02).
+- Not included: e-commerce, custom photography or copywriting, unlimited revisions, a client-editable CMS (decided 2026-11-02: not offered on the Starter for now; the Light-Edit Care Plan is the edit path)
 - Upgrade path: $100 of what you paid is credited toward the Complete Package if you upgrade within 6 months
 - Checkout: https://buy.stripe.com/cNi7sMd101Hi7x68j83VC05
 
@@ -31,7 +32,11 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 - Price: $1,497 (one-time)
 - Delivery: roughly 2-3 weeks depending on how quickly product images/content are provided
 - Includes: custom primary logo, brand colors, font recommendations, visual brand direction, style guide, social media graphics, full site build (Shopify for online stores, custom-coded for service businesses), custom homepage, mobile-responsive layout, essential pages, navigation, product/collection organization for up to 20 items, contact form, footer, policy pages, domain support, full store review/testing/training. For a service business, the custom-coded site is wired to your existing booking or scheduling tool, quote form or phone number (a link/embed to the client's own tool; Marie Glow Studio does not provide or pay for the booking platform itself).
+- Edits on a custom-coded service site (decided 2026-11-02): the first 30 days of Light-Edit Care Plan edits are included, then the same Light-Edit Care Plan applies ($25 per edit, or $15/month for up to two edits), with the same 2-business-day turnaround.
+- Booking and order tracking (decided 2026-11-02, supersedes the Tier 3 add-on): included in the $1,497 Complete package. Includes a styled availability calendar, a deposit step that links to the client's own Stripe or Square, an order-status page and a 3D cake design page. A custom-built payment system is quoted separately. Marie Glow Studio still does not provide or pay for the booking or payment platform itself.
+- Signature homepage option (decided 2026-11-02): a scroll-driven 3D homepage and a cake builder (pick size, flavor, filling and finish, see an estimate, send a quote request) and the 3D cake design with booking are part of this package, not a Website Starter feature and not a separate quoted extra. Example: the Hollis & Rye bakery demo, where a 3D cake flies through the page as you scroll (30-websites/melli-bakery/index.html). The Website Starter stays the plain one-page site. The booking calendar, deposit link and order tracking are the separate Tier 3 add-on above.
 - Credit: the $397 Digital Strategy Roadmap is credited toward this package if booked within 60 days
+- Ownership and hosting (decided 2026-11-02): the client owns the final deliverables once paid in full, the domain is always registered in the client's name, and the Shopify store account on a store build is the client's. A custom-coded service site can be hosted by Marie for $25 a month, no minimum, hosting only (edits stay on the Light-Edit Care Plan), or the client takes the files and hosts elsewhere at no charge from Marie Glow Studio. Marie keeps only her own copy of the files and uses her own login if the client asks for edits.
 - Refund policy: non-refundable once work begins
 - Checkout: https://buy.stripe.com/28E3cwgdc3Pq7x6czo3VC06
 
@@ -104,11 +109,51 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 
 URL: https://marieglowstudio.com/
 
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+I build websites, Pinterest marketing and search visibility for small product and service businesses, then connect them so the person who finds you can easily buy from you, book you or call you.
+
 Marie Glow Studio · Wichita, KS
 
 #### Be easier to find, easier to choose and easier to say yes to.
-
-I build websites, Pinterest marketing and search visibility for small product and service businesses, then connect them so the person who finds you can easily buy from you, book you or call you.
 
 [Tell me about your business](https://marieglowstudio.com/contact)
 [See services and prices](https://marieglowstudio.com/services)
@@ -487,6 +532,8 @@ A small business website earns its keep when it turns a visitor into a customer.
 [See the Website Starter, $249](https://marieglowstudio.com/website-starter)
 [See the Complete Package, $1,497](https://marieglowstudio.com/complete-website-package)
 
+[Browse the website inspiration gallery](https://marieglowstudio.com/website-inspiration/)
+
 For product businesses
 
 #### Shopify website design built to check out, not just look good.
@@ -678,6 +725,7 @@ The Website Starter is a professional, mobile-friendly one-page site for $249: a
 
 [Get your website started for $249](https://buy.stripe.com/cNi7sMd101Hi7x68j83VC05)
 See what’s included
+[See a live Starter example](https://marieglowstudio.com/website-inspiration/demos/starter/)
 
 5
 
@@ -883,7 +931,7 @@ One round, made after you review your preview.
 
 **Where does the site live?**
 
-You get static files you can host on your own domain, GitHub Pages, Netlify, or any host that supports a static HTML site. Marie Glow Studio does not charge an ongoing platform subscription for the Website Starter itself; hosting, your domain and any third-party service costs are your own.
+You get static files you can host on your own domain, GitHub Pages, Netlify, or any host that supports a static HTML site. Marie Glow Studio does not charge an ongoing platform subscription for the Website Starter itself; hosting, your domain and any third-party service costs are your own. You own the final files once the Starter is paid in full, your domain is always registered in your name, and Marie keeps only her own copy.
 
 **Can I upgrade later?**
 
@@ -914,6 +962,7 @@ The Complete Website & Brand Identity Package covers both branding and website d
 
 [Start your project for $1,497](https://buy.stripe.com/28E3cwgdc3Pq7x6czo3VC06)
 See what’s included
+[See a live Complete example](https://marieglowstudio.com/website-inspiration/demos/full/)
 
 2-3
 
@@ -1064,6 +1113,10 @@ For a Shopify build, up to 20 items are included in the setup: titles, descripti
 **How long does it take?**
 
 Roughly 2 to 3 weeks, depending on how quickly you can provide photos and content. That covers branding, the full site build, testing and your feedback. If you are wondering why a website is not a one-day project, [here is why](https://marieglowstudio.com/blog/can-a-website-be-built-in-a-day).
+
+**Who owns my website, and who hosts it?**
+
+You do. Once the package is paid in full you own the final deliverables, and your domain is always registered in your name. On an online store, the Shopify account is yours. A custom-coded service site can be hosted by Marie for $25 a month with no minimum, or you can take the files and host them anywhere at no charge from Marie Glow Studio. Marie keeps only her own copy and uses her own login if you ask for edits.
 
 **Is this refundable?**
 
@@ -2871,7 +2924,7 @@ Portfolio
 
 #### Real businesses. Real work. No invented case studies.
 
-Every project below is a real website, app or Pinterest account, product or service business. The three marked “concept build” are self-directed practice projects, not paid client work, and are labeled everywhere they appear.
+Most projects below are a real website, app or Pinterest account for a product or service business. The four marked “concept build” are self-directed practice projects, not paid client work, and are labeled everywhere they appear. Hollis & Rye is a fictional bakery made to show what the $249 and $1,497 packages look like.
 
 Flip through the work
 
@@ -2903,6 +2956,21 @@ A warm, professional Shopify site for a growing bakery, built so customers can b
 
 [View the live site →](https://ellegantcreationsbakery.com)
 
+Concept build
+
+#### One bakery, two price points.
+
+Fictional business · Self-directed concept
+
+#### Hollis & Rye
+
+A made-up custom cake bakery, built twice so you can compare. The $249 Website Starter is one page with a clear offer, a sample gallery and a quote request. The $1,497 Complete Website adds brand guidelines, a 3D scroll cake home page, a cake builder with a live price, a booking calendar with a demo deposit and order tracking. Every price, date and photo in the demos is made up, and nothing is charged or sent.
+
+[Read the case study →](https://marieglowstudio.com/website-inspiration/bakery)
+[Open the Starter demo →](https://marieglowstudio.com/website-inspiration/demos/starter/)
+[Open the Complete demo →](https://marieglowstudio.com/website-inspiration/demos/full/)
+[Browse the gallery →](https://marieglowstudio.com/website-inspiration/)
+
 Beyond websites
 
 #### An app, built from scratch.
@@ -2929,6 +2997,8 @@ Marie Harvey is Marie’s personal brand site, where she shares her small busine
 
 MothlightCo
 MothlightCo is a bookish Etsy shop with a dark academia feel, getting ready to launch on Pinterest. These bookplate and reading pins were designed from real keyword research before the account opened, so it can start publishing on day one.
+
+Want to see full website builds you can click through? [Browse the website inspiration gallery →](https://marieglowstudio.com/website-inspiration/)
 
 Want to see how far the work has come? [See the design evolution →](https://marieglowstudio.com/design-evolution)
 
@@ -3110,6 +3180,14 @@ Some services, like [Pinterest Account Setup](https://marieglowstudio.com/pinter
 
 Approved collaborator or delegated-access methods are used whenever the platform supports them, so sharing a raw password usually isn’t necessary. Intake instructions explain how to grant access for your specific service.
 
+**Who owns my website, domain and code after a designer builds it?**
+
+You own your website. Under the [Terms of Service](https://marieglowstudio.com/terms-of-service), once a service is paid in full you own the final deliverables built for your project, and your domain is always registered in your name. You get the website files and can host them anywhere; Marie keeps only her own copy and uses her own login if you ask for edits. On a Shopify build, the store account is yours too. The [Website Starter](https://marieglowstudio.com/website-starter)’s static files can be hosted on your own domain or any static host, at your own cost. On a custom-coded [Complete package](https://marieglowstudio.com/complete-website-package) service site, hosting by Marie is optional at $25 a month with no minimum, or you can take the files and host them anywhere at no charge from Marie Glow Studio.
+
+**Who is Marie Glow Studio not a good fit for?**
+
+It is not a fit if you want to edit your own site through a content management system, need unlimited revisions, or want copywriting or photography done for you on the Website Starter. It is also not a fit for an online store on the $249 Website Starter (a store needs the Complete package on Shopify), for a guaranteed ranking or sales result, for Marie Glow Studio to provide or pay for your booking platform, or for a refund once a one-time service has started.
+
 **Can you guarantee results?**
 
 No. Rankings, impressions, clicks, leads and sales all depend on factors outside anyone’s control, including your niche, content, competition and market conditions. The focus is building strong, strategic foundations, not promising specific outcomes.
@@ -3140,9 +3218,61 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (105)
+## Blog posts (106)
 
 Index: https://marieglowstudio.com/blog/
+
+### Small Business Tech Stack: The Tools You Actually Need, and What to Skip
+
+URL: https://marieglowstudio.com/blog/small-business-tech-stack-the-tools-you-actually-need-and-what-to-skip
+Topic: Digital Strategy | Published: 2026-11-03
+
+Picking the right small business tech stack tools starts with four questions, not a feature list: does it cut manual work, does it connect to what you already use, can it grow with you, and does it protect client and customer data. A good stack might be five tools. A bad one is twelve that never talk to each other.
+
+#### What Counts as a Small Business Tech Stack?
+
+A tech stack is simply the tools a business runs on day to day: the website, the way customers pay or book, email, scheduling, and whatever keeps track of who a customer is and what they ordered or asked for. For a shop, that often means a website built to take an order, a payment processor, an email platform, and a Pinterest scheduler. For a service business, it is more likely a one page site, a booking tool or quote form, and a simple client list. Neither version needs to be large. It needs to cover the handful of jobs the business actually repeats every week, nothing more. Most owners are not choosing tools because they enjoy technology. They are choosing them because managing all of it alone is time that could go toward running the business instead.
+
+#### What Should You Ask Before You Add Any Tool?
+
+Two small business resources, SCORE and Prialto, frame the same four questions before a tool earns a place in the stack, and they hold up well in practice.
+
+- Does it reduce manual work, or does it just move the same task to a different screen?
+- Does it integrate with the tools already in place, so information does not have to be copied by hand from one system to another?
+- Can it scale as the business grows, instead of needing to be replaced the moment order volume or client count goes up?
+- Does it secure sensitive data, such as customer payment details, addresses, or intake and health information?
+
+A tool that fails even one of these is worth a second look before it joins the stack. A tool that fails two or three of them is usually the one quietly costing the most time later.
+
+#### Which Tools Does a Product Business Usually Need?
+
+A product business, whether it sells through Shopify, Etsy, or its own storefront, usually needs a short list working together: a website that can take an order, a payment processor, an email platform for a welcome sequence and order updates, and a scheduler such as Tailwind for planning and publishing Pinterest pins instead of doing it one pin at a time. These tend to get added in the order they start causing pain: payments and the website first, then email, then a scheduler once pinning by hand becomes the bottleneck. For a Shopify store specifically, a Rich Pin or catalog connection is worth adding early too, since it lets Pinterest pull real product data instead of relying on a static graphic. [Where to start with small business marketing](https://marieglowstudio.com/blog/where-to-start-with-small-business-marketing) walks through that same ordering problem from the marketing side.
+
+#### Which Tools Does a Service Business Usually Need?
+
+A service business built around appointments or quotes, a dog groomer, a plumber, or a yoga instructor running one on one sessions, needs a different stack even though the four questions above still apply. The website's job is to explain the service and lead to an inquiry rather than a cart. A booking tool or a quote form replaces the back and forth of scheduling by text or phone. A simple client record, even a well kept spreadsheet at first, tracks who has booked, what they asked for, and when to follow up. A Google Business Profile also matters more here than it does for most product businesses, since local search is often how a service business gets found in the first place. Keeping the business name, address and phone number consistent everywhere they appear online, from the website footer to directory listings, is part of that same local foundation. The [customer journey for service businesses](https://marieglowstudio.com/blog/customer-journey-for-service-businesses) breaks each of those stages down in more detail.
+
+#### Which Tools Should You Skip?
+
+The tools worth skipping are usually not bad tools; they are the wrong tool for the stage the business is actually at. A full client management platform before there are enough repeat clients to need one. A second scheduling tool that does almost the same job as the first, bought because a sale made it feel urgent. Any tool that requires exporting and reimporting data by hand to work with the rest of the stack, since removing that manual step is the entire point of having a stack at all. If a tool cannot pass the four questions above, it is worth skipping, or at least shelving until the business has grown into the problem it solves.
+
+#### How Do You Decide What to Fix First?
+
+The honest answer is usually whichever piece is costing the most manual time right now, not whichever tool looks the most interesting that week. A website that cannot take a booking matters more than a nicer looking email template. Deciding which piece to fix first does not have to be a guess. The [Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) looks at the stack as a whole, the website, search, Pinterest, email and the tools connecting them, and turns that same question into a written plan ranked by what is actually costing the business the most time right now. A closer look at [what digital strategy actually means for a small business](https://marieglowstudio.com/blog/what-is-digital-strategy-for-small-business) is a useful next stop before choosing anything new.
+
+#### Frequently asked questions
+
+**How many tools does a small business tech stack actually need?**
+
+Most small businesses need five or fewer core tools: a website, a way to get paid or booked, email, scheduling, and a simple record of who customers are. More tools than that usually means some of them are doing the same job.
+
+**What does the Digital Strategy Roadmap do for a scattered tech stack?**
+
+The Digital Strategy Roadmap is a one time, $397 service. It maps how customers actually move across the website, search, Pinterest, email and the rest of the tech stack, pinpoints where they drop off today, and delivers a written 90-day plan with priorities plus a walkthrough of what it found.
+
+**Does a Google Business Profile matter for a service business?**
+
+Yes. For a service business, local search and a well kept Google Business Profile are often how new clients find the business in the first place, which makes it as much a part of the tech stack as the website itself.
 
 ### Long-Tail Keywords: An Easy SEO Win for Small Business Websites
 
