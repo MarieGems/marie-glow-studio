@@ -3218,7 +3218,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (110)
+## Blog posts (111)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3480,6 +3480,73 @@ The $1,497 Complete Website and Brand Identity package includes a custom primary
 **Do branding questions work the same way for a service business as a product business?**
 
 The four areas are the same, but the answers differ. A product business usually needs its ideal customer questions to point toward clear photos and trust in the product. A service business, like a salon, a contractor or a coach, usually needs those same questions to point toward visible proof the work gets done well, since the customer is trusting a person rather than examining a product.
+
+### How Often Should You Actually Email Your List?
+
+URL: https://marieglowstudio.com/blog/how-often-should-you-actually-email-your-list
+Topic: Email Marketing | Published: 2026-11-03
+
+How often should you email your list? Weekly is the safest starting cadence for most small businesses: frequent enough to stay visible, light enough for one person to sustain. Monthly is the real floor, since anything less and subscribers forget why they signed up. Beyond that floor, how specific each email is matters more than hitting an exact number.
+
+#### How often should you actually email your list?
+
+For most small businesses, a weekly email is the safest place to start. It keeps your name in front of subscribers often enough that they recognize it, without demanding more writing than a one person operation can keep up with every day. If weekly is not realistic yet, drop to every other week before dropping further, and treat once a month as the lowest frequency that still counts as an active list. For a busy owner already handling the product, the bookings and the marketing alone, a sustainable weekly habit beats an ambitious daily plan that quietly stops after two weeks.
+
+#### Why does a weekly rhythm work better than emailing whenever you remember?
+
+Sending on a schedule, even an imperfect one, builds a habit on both sides. You get used to writing one email a week instead of waiting for inspiration, and subscribers start to expect something from you on roughly the same day. A predictable rhythm is also generally easier on deliverability than long silences followed by a burst of three emails in two days, since inbox providers tend to treat a steady sender more favorably than an erratic one. Consistency also makes the list easier to plan around: a weekly send has a natural place to put a seasonal reminder, a new product or an answer to a question a customer just asked.
+
+#### What happens if you only email once every few months?
+
+A list that hears from you every few months starts to feel like a stranger. Subscribers forget they signed up, forget what you sell, and are more likely to delete the email unread or mark it as spam. That pattern can also pull down your sender reputation over time, which makes it harder for every future email, not just the occasional one, to land in the inbox instead of a spam or promotions folder. Monthly is the floor for this reason: go slower than that and the relationship with the list quietly erodes, and the next email you send often performs worse than the one before it, not better.
+
+#### Does sending more often always help, or does quality matter more?
+
+Quality matters more, once you have cleared the monthly floor. A vague weekly email that says little will get ignored faster than a focused one that answers a real question or makes a real offer. Marketing voices like Lilach Bullock and platforms such as beehiiv land on the same point: weekly is a safe default to start from, but the exact frequency matters less than whether each email earns its place in someone's inbox. A business sending twice a month with real substance will usually outperform one sending four times with nothing specific to say.
+
+Cadence at a glance
+
+| Frequency | Best for | Watch for |
+
+| Weekly | A business with something new to say most weeks: new stock, bookings, seasonal work | Running out of real content and padding with filler |
+
+| Every other week | A smaller catalog or a service with fewer new offers to announce | Forgetting to send at all some months |
+
+| Monthly | The lowest frequency that still counts as an active list | Subscribers forgetting who you are between emails |
+
+#### How should a service business handle email frequency differently from a product business?
+
+A product business can lean on new items, restocks or a seasonal sale, so a weekly email usually has something fresh to announce. A service business, think a hair stylist, a general contractor or a business coach, usually has fewer new offers to send, so the email can lean on a seasonal reminder, a tip related to the work, or an answer to a question clients already ask face to face. The frequency matters less than making sure every email gives the reader a reason it showed up that day. A service business that cannot fill a weekly email honestly is better off at every other week with real content than weekly with filler.
+
+#### What if your list is not ready for a weekly email yet?
+
+A cadence only matters once there is a list to send to. If the list is still small or new, the more useful question is where new subscribers will come from before worrying about how often to email the ones you already have. Growing the list itself and building the first few emails a new subscriber receives both matter more at that stage than the long term weekly or monthly question.
+
+#### How do you decide your own cadence without guessing?
+
+- Start at weekly. It is the safest default, and it is easier to pull back from weekly than to build the habit of writing more often later.
+
+- Set a real floor for yourself. If a week is not realistic some months, drop to every other week before dropping further, and do not go longer than a month between emails.
+
+- Decide what each email is for before you write it. A reminder, an answer, an update or an offer are all valid reasons to send one. "It has been a while" is not.
+
+- Watch opens and unsubscribes over several sends, not one. A single quiet email does not mean the cadence is wrong; a pattern across a month or two does.
+
+Email rarely works alone. [How Pinterest and email marketing work together](https://marieglowstudio.com/blog/pinterest-and-email-marketing) looks at how pins can keep feeding new names into the same list a weekly email keeps warm, and [why every small business needs an email list](https://marieglowstudio.com/blog/why-every-small-business-needs-an-email-list) is worth reading first if the list itself, not the schedule, is still the missing piece. If Pinterest is where most of those future subscribers will come from, the [Pinterest SEO Audit](https://marieglowstudio.com/pinterest-audit) reviews the account, boards and pins that should be sending them your way, and ends with a ranked 30 day action plan you can work through before you worry about how often to email anyone.
+
+#### Frequently asked questions
+
+**Is weekly email too often for a small business?**
+
+Not usually. Weekly is the safest starting cadence for most small businesses, since it keeps you visible without demanding daily content. If weekly is not sustainable, every other week is a reasonable step down before monthly, which is the real floor.
+
+**What is the minimum frequency before an email list goes cold?**
+
+Monthly. Emailing less often than once a month means subscribers are more likely to forget they signed up, stop opening your emails, or mark them as spam, which can hurt how reliably future emails reach the inbox.
+
+**Should a service business email as often as a product business?**
+
+The cadence can be the same, but the content differs. A product business often has new items or a sale to announce most weeks, while a service business usually leans on reminders, seasonal tips or answers to questions clients already ask, so there is still something worth sending.
 
 ### Long-Tail Keywords: An Easy SEO Win for Small Business Websites
 
