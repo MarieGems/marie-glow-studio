@@ -3218,7 +3218,7 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (109)
+## Blog posts (110)
 
 Index: https://marieglowstudio.com/blog/
 
@@ -3433,6 +3433,53 @@ A hyphen disappears when a domain is read aloud or typed from memory, and a numb
 **What should I do if the domain name I want is already taken?**
 
 Add a real, descriptive word rather than a hyphen, a number or a misspelling, and check whether the name is taken by an active business or simply registered and unused before deciding whether to try a different extension or make an offer.
+
+### Branding Questions to Answer Before You Design a Single Thing
+
+URL: https://marieglowstudio.com/blog/branding-questions-to-answer-before-you-design-a-single-thing
+Topic: Branding and Launching | Published: 2026-11-03
+
+The branding questions a small business needs to answer before any design work starts cover four areas: why the business exists, who it serves, what personality it should project, and who else serves that same customer. Answering these first turns logo and color choices into decisions with a clear reason, not guesses.
+
+#### What branding questions should come before design work starts?
+
+Branding studios that run a structured discovery process before any logo or color work typically work through a list of questions covering four recurring areas: where the business came from, who its ideal customer is, what personality the brand should carry, and who else is already serving that same customer. The exact length of the list matters less than the order. Design choices made before these answers exist tend to get revisited later, once the business owner can finally say what the brand needed to do all along.
+
+#### What do you need to know about your business origin before you brand it?
+
+Start with why the business exists, not what it sells. What problem were you solving the day you started. What would a customer lose if the business closed tomorrow. What has already changed since the first version of the business, and what has stayed the same. A candle shop and a bookkeeping service are both answering the same origin questions, just with different answers, and the answers are what a logo or color palette is supposed to carry. For a closer look at why that consistency matters once the visual decisions start, see [why cohesive branding matters for a small business](https://marieglowstudio.com/blog/why-cohesive-branding-matters-for-small-businesses).
+
+#### Who is your ideal customer, and what do they actually need to see?
+
+An ideal customer description needs to go past age range and location. What decision is this person making when they find you. A shopper deciding between two candle brands is weighing something different than a homeowner deciding whether to trust a contractor with their kitchen, or a client deciding whether to book a consultation with a coach. For a product business, the customer usually needs to see the product clearly and trust the photos. For a service business, the customer usually needs to see proof the work gets done well: before and after photos, credentials, or a plain description of what happens after they reach out. Both answers point design in a direction. Neither one can be guessed from a logo alone. On Pinterest specifically, a shop pinning nothing but its own product photos reads differently to a browser than a shop whose boards also answer a broader question the customer already has, and the ideal customer questions are what decide which approach actually fits.
+
+#### What personality should your brand project?
+
+Brand personality is the set of words a stranger would use to describe the business after one visit to the website or one scroll through a Pinterest board: calm or energetic, playful or precise, luxury or approachable. These words decide font weight, color saturation, and how much white space a page gets, long before anyone picks a specific shade of purple or a specific typeface. Picking a logo that looks nothing like how the business actually talks to customers is one of the [branding mistakes small businesses should avoid](https://marieglowstudio.com/blog/branding-mistakes-small-businesses-should-avoid). The [difference between branding and marketing](https://marieglowstudio.com/blog/branding-vs-marketing) shows up here too: branding sets the personality, and marketing is what gets built on top of it once the personality is settled.
+
+#### How does competitor research change what you design?
+
+Competitor research in a branding discovery list is not about copying what already works. It is about seeing what a customer already associates with the category, so the new brand can either fit in on purpose or stand apart on purpose. If every business in a niche uses the same soft pastel palette, blending in with one more pastel logo wastes the chance to be remembered. If every competitor leans heavily on text and stock photography, a brand built around real photos and a clear visual identity stands out just by being different. This step also surfaces what customers already expect as a baseline: a working contact page, visible pricing, a way to see past work, so the new brand does not skip something the category treats as the minimum.
+
+#### What happens if a business skips these questions?
+
+Skipping discovery does not always produce something wrong looking. It usually produces something generic: a logo that would work for almost any business, colors chosen because they look nice rather than because they fit, and a website that does not sound like the business that owns it. The design still has to be used, so if the brand questions were never answered, the business ends up filling that gap during launch, in captions and page copy, instead of beforehand. Like any creative work, the outcome still depends on how clearly the business answers these questions and how consistently the brand gets applied once it is live. No branding process can guarantee a specific result in sales or recognition, only a stronger starting point.
+
+The [Complete Website and Brand Identity package](https://marieglowstudio.com/complete-website-package) starts with this same discovery work before any logo gets drawn: business origin, ideal customer, brand personality, and competitor positioning. From there it builds the custom primary logo, brand colors, font recommendations and style guide, then the site itself, built on Shopify when the business sells products online, or coded by hand when the business runs on bookings and quotes. Answering the branding questions first is what makes the rest of that process move faster, because the direction is already decided. A full project like this usually takes roughly two to three weeks once branding, content and photos are in hand, since the identity work happens before the pages do.
+
+#### Frequently asked questions
+
+**How many branding questions should a small business answer before designing a logo?**
+
+There is no fixed number. What matters is covering four areas before any logo or color choice gets made: business origin, ideal customer, brand personality, and competitor positioning. Skipping any one of them is usually what shows up later as a mismatched logo or an inconsistent website.
+
+**What does the Complete Website and Brand Identity package include for branding?**
+
+The $1,497 Complete Website and Brand Identity package includes a custom primary logo, brand colors, font recommendations, visual brand direction and a style guide, built from the same discovery questions covered in this post, before the full site gets built on Shopify or custom coded for a service business.
+
+**Do branding questions work the same way for a service business as a product business?**
+
+The four areas are the same, but the answers differ. A product business usually needs its ideal customer questions to point toward clear photos and trust in the product. A service business, like a salon, a contractor or a coach, usually needs those same questions to point toward visible proof the work gets done well, since the customer is trusting a person rather than examining a product.
 
 ### Long-Tail Keywords: An Easy SEO Win for Small Business Websites
 
