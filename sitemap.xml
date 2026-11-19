@@ -278,61 +278,61 @@
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-2</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-3</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-4</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-5</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-6</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-7</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-8</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-9</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/page-10</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
@@ -386,7 +386,13 @@
   </url>
   <url>
     <loc>https://marieglowstudio.com/blog/category/digital-strategy</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://marieglowstudio.com/blog/what-a-90-day-digital-strategy-roadmap-actually-looks-like</loc>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

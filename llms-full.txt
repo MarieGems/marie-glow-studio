@@ -3218,9 +3218,66 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (112)
+## Blog posts (113)
 
 Index: https://marieglowstudio.com/blog/
+
+### What a 90 Day Digital Strategy Roadmap Actually Looks Like
+
+URL: https://marieglowstudio.com/blog/what-a-90-day-digital-strategy-roadmap-actually-looks-like
+Topic: Digital Strategy | Published: 2026-11-19
+
+A 90 day digital strategy roadmap follows four stages: an assessment of what already exists, a short list of goals tied to the business, a priority order for what to fix first, and a rollout split across three monthly phases so nothing competes for attention at once.
+
+That basic shape, assess first, then set goals, then prioritize, then roll out in phases, is not unique to any one studio or any one kind of plan. What differs from one roadmap to the next is what actually gets assessed, how the goals get set, and how the phases get split for that specific business. Here is what that looks like over a real quarter, including what changes for a service business.
+
+#### What Happens in the Assessment Phase?
+
+The assessment phase starts with a plain look at what already exists: the website as it stands today, whatever Pinterest or search work is already in place, the email list if there is one, and how a visitor currently moves from finding the business to buying or booking. The point of this stage is not to grade anything. It is to find the one or two spots where a visitor who was ready to buy or book still left without doing either. If digital strategy as a concept still feels vague before any of this, [What Is Digital Strategy for a Small Business?](https://marieglowstudio.com/blog/what-is-digital-strategy-for-small-business) covers the basic pieces first.
+
+A useful assessment also separates what is broken from what is simply missing. A website with no analytics installed is a different problem than a website with analytics showing a steady stream of visitors who never reach a contact form. The first is a setup gap. The second is a page, a message or a next step that is not doing its job. Both get written down, but they do not get fixed the same way.
+
+#### How Are the 90 Day Goals Set?
+
+Goals for the quarter come from the assessment, not from a generic list of marketing metrics. A business with almost no Pinterest traffic needs a different 90 day goal than a business getting plenty of Pinterest clicks that never turn into an email signup or a sale. The goal should be specific enough to check at the end of the quarter: more inquiries from the service page, a working signup path on the homepage, a second Pinterest board actually connected to products, rather than a vague aim like "grow the business."
+
+Setting the goal before picking tactics also keeps the next 90 days from turning into a list of things that sounded useful in isolation. A new logo, a rebuilt Pinterest profile and a weekly email are each fine on their own, but only one or two of them usually address the actual gap the assessment found. The rest can wait for a later quarter.
+
+#### How Does the Roadmap Decide What to Fix First?
+
+Priority order follows where the journey breaks down worst, not personal preference or whichever piece feels most comfortable to work on. A broken contact form that visitors are already reaching outranks a new blog post nobody is reading yet, because fixing it recovers people who were already close to saying yes. A Pinterest account with no SEO foundation at all usually outranks adding more pins to it, since more content built on a weak foundation just repeats the same mistake at a larger scale.
+
+This is also where an honest limit belongs. A written plan can point to the right order of operations, but it cannot guarantee a specific amount of traffic, inquiries or sales once each item is fixed. Results still depend on the business, its niche, its competition and how closely the plan actually gets followed.
+
+#### How Does the Quarter Break Into Three Phases?
+
+A common way to split a 90 day plan is one phase per month. The first month addresses the single biggest leak the assessment found, the kind of fix that, left alone, keeps undoing everything layered on top of it later. The second month builds the next layer once that foundation holds, whether that is a stronger Pinterest account, a cleaner set of service pages or a first email sequence. The third month adds the pieces that depend on the first two already working, such as sending Pinterest traffic toward an email list that did not exist in month one, and ends with a review of what moved and what still needs attention.
+
+Each phase needs its own window to actually show something, which is part of why a 90 day plan is written in phases instead of handed over as one long list. [The 60 to 90 Day Rule](https://marieglowstudio.com/blog/the-60-to-90-day-rule-how-long-to-give-a-marketing-channel-before-you-judge-it) goes into why a single marketing channel needs roughly that much time before anyone can fairly judge whether it is working.
+
+#### What Does This Look Like for a Service Business?
+
+A roadmap for a salon, a contractor or a coach follows the same four stages, but the assessment and the goals look at a different kind of path. A product business is mapping a route to checkout. A service business is mapping a route to an inquiry, a call or a booking, where someone discovers the business first, then needs a service page that is clear about who it is for, then wants some sign the business can be trusted, and only then sends a question or a quote request before anything on a calendar gets booked. [The Customer Journey for Service Businesses, Step by Step](https://marieglowstudio.com/blog/customer-journey-for-service-businesses) walks through that version of the path in more detail.
+
+For a service business, the assessment often turns up a missing or confusing step between "asks a question" and "books," rather than a problem with discovery itself. The 90 day plan for that business might spend month one on a clearer service page and a faster way to ask a question, rather than more Pinterest content, because more visitors will not help if the page they land on still cannot convert them.
+
+#### What Does the Marie Glow Studio Digital Strategy Roadmap Include?
+
+The Digital Strategy Roadmap, $397, builds this exact structure. It maps where customers move across the website, search, Pinterest, email and tools, points to where that path breaks down today, and hands over a written 90 day plan with priorities, finished with a walkthrough of what it found. It is delivered within 10 business days of everything needed to begin actually arriving, since the clock only starts once the required information and access are in hand, not on the day it is purchased. If a [Complete Website & Brand Identity package](https://marieglowstudio.com/complete-website-package) follows within 60 days, the $397 already paid is credited toward it. [See the Digital Strategy Roadmap](https://marieglowstudio.com/digital-strategy-roadmap) for the full details before deciding whether a written plan or a specific service is the right next step.
+
+#### Frequently asked questions
+
+**How long does it take to get a 90 day roadmap?**
+
+The Digital Strategy Roadmap is delivered within 10 business days once everything needed to begin, the required information, content and access, has actually arrived. The clock does not start at purchase or first contact, and time spent waiting on the client does not count toward that window.
+
+**What happens once the 90 days are over?**
+
+The roadmap itself is a written plan, not three months of implementation. At the end of the window, a business either works through its own priority list or books the next piece, and if that next step is the Complete Website and Brand Identity package within 60 days, the 397 dollars already paid is credited toward it.
+
+**Does a 90 day roadmap replace hiring someone for each piece separately?**
+
+No. The roadmap is the planning layer that decides which piece, the website, Pinterest, SEO or email, needs attention first and in what order. Implementing each piece is still a separate step, whether that happens in house or gets booked as its own service.
 
 ### Small Business Tech Stack: The Tools You Actually Need, and What to Skip
 
