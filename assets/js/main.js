@@ -506,3 +506,26 @@ document.addEventListener('partials:loaded', function(){
   // safety: never leave glass up if something goes wrong
   setTimeout(function(){ document.querySelectorAll('.glass:not(.go)').forEach(function(g){ var p = g.parentNode; if (p && p.getBoundingClientRect().top < window.innerHeight*0.5 && p.getBoundingClientRect().bottom > 0) g.classList.add('go'); }); }, 8000);
 })();
+
+// ===== section headings: big highlight-box wording with a different color per section (2026-11-20) =====
+(function(){
+  var secs = [].slice.call(document.querySelectorAll('main section'));
+  var lightSet = ['plum','orchid'], darkSet = ['lilac','gold'], li = 0, di = 0;
+  secs.forEach(function(sec){
+    var hs = sec.querySelectorAll('h2');
+    if (!hs.length) return;
+    var prev = sec.previousElementSibling;
+    var isDark = sec.matches('.final-cta,.section-bg-photo,.proof-section,#testimonials') || (prev && prev.matches('.ed-strip') && sec.matches('.ed-section'));
+    if (isDark) return;   // dark sections keep their cream and gold headings
+    var pick = lightSet[li++ % lightSet.length];
+    [].forEach.call(hs, function(h){
+      if (h.closest('.blog-body') || h.querySelector('.gl-hl')) return;
+      var sp = document.createElement('span');
+      sp.className = 'gl-hl';
+      sp.setAttribute('data-hl', pick);
+      while (h.firstChild) sp.appendChild(h.firstChild);
+      h.appendChild(sp);
+      h.classList.add('hl-big');
+    });
+  });
+})();

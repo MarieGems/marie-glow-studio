@@ -3606,4 +3606,16 @@ body main :is(.final-cta,.section-bg-photo) .orbit-hero{--ox:50%;--ob:30%;--R:30
 body main :is(.final-cta,.section-bg-photo) .orbit-hero .orbit-ring{scale:1.45;}
 body main :is(.final-cta,.section-bg-photo) .eyebrow,body main .final-cta.has-bg-photo .eyebrow,body main .section-bg-photo .section-head .eyebrow{color:var(--pl2)!important;}
 }
+/* ===== section headings: big highlight-box wording, dark purple and light purple boxes with gold accents (2026-11-20) ===== */
+body main h2.hl-big{font-size:clamp(2rem,4.8vw,3.5rem);line-height:1.12;letter-spacing:-.02em;text-shadow:none;max-width:20ch;overflow-wrap:break-word;}
+body main h2.hl-big .gl-hl{line-height:1.4;}
+body main h2.hl-big .gl-hl[data-hl="orchid"]{background:#DDB8F2;color:var(--mg-ink);}
+body main h2.hl-big .gl-hl[data-hl="lilac"]{background:var(--mg-bg);color:var(--mg-ink);}
+body main h2.hl-big .gl-hl[data-hl="plum"]{background:var(--pl2);color:var(--cream);border-color:#2e2140;}
+body main h2.hl-big .gl-hl em{color:#E0A82E;text-shadow:1px 1px 0 #8a6418,2px 2px 0 #5a3f0a;}
+body main h2.hl-big .gl-hl[data-hl="orchid"] em,body main h2.hl-big .gl-hl[data-hl="lilac"] em{color:#5E3A98;text-shadow:none;}
+body main .ed-two-col h2.hl-big,body main .ed-col-head h2.hl-big{max-width:100%;}
+@media (max-width:760px){body main h2.hl-big{font-size:clamp(1.8rem,8vw,2.6rem);}}
+/* ===== hero headline italic words in gold (2026-11-20) ===== */
+body main .ed-hero h1 .gl-hl em,body main .ed-hero-video h1 .gl-hl em,body main .ed-hero-ribbon h1 .gl-hl em{color:#E0A82E!important;text-shadow:1px 1px 0 #8a6418,2px 2px 0 #5a3f0a!important;}
 /* ===== STUDIO SYSTEM (site-wide) END =====*/
