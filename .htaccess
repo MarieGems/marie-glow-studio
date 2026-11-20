@@ -1,7 +1,8 @@
 # BEGIN Marie Glow Studio site rules (hand-written; kept above the generated blog redirect block)
 ErrorDocument 404 /404.html
 DirectoryIndex index.html
-Options -MultiViews
+Options -MultiViews -Indexes
+# -Indexes: no folder listings. Without it, folders with no index page (the demo vendor/ folders) served an auto listing and Google crawled its sort links (?NA, ?MD, ?SA, ?SD) as 28 duplicate pages.
 # BEGIN turnstile-secret guard: never serve the Turnstile secret key file, even if it is placed here by mistake
 <FilesMatch "^turnstile-secret.*$">
   <IfModule mod_authz_core.c>
