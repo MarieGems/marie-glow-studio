@@ -321,3 +321,188 @@ document.addEventListener('partials:loaded', function(){
       .catch(function () {});
   })).then(function () { document.dispatchEvent(new CustomEvent('partials:loaded')); });
 })();
+
+// ===== STUDIO EFFECTS (site-wide): glass shatter reveal, pop-in, depth drift, orbiting phones =====
+(function(){
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var narrow = window.matchMedia('(max-width:760px)').matches;
+  function rnd(a,b){ return a + Math.random()*(b-a); }
+
+  // ---------- pop-in order: stagger siblings so groups pop one after another ----------
+  var popSel = '.price-list li,.faq-item,.ed-rows li,.journey-card,.mg-review,.ed-feature,.blog-card,.ed-facts div,.hero-cta-row .btn';
+  document.querySelectorAll(popSel).forEach(function(el){
+    var i = 0, p = el.previousElementSibling;
+    while (p) { i++; p = p.previousElementSibling; }
+    el.style.setProperty('--i', Math.min(i, 7));
+    el.classList.add('popx');
+  });
+
+  // ---------- orbiting phones: turn a scene with 2+ phones into a ring of phones around a laptop ----------
+  var FILL = ['phone-pin-a','phone-pin-f','phone-pin-g','phone-pin-h','phone-florals','phone-pin-c'];
+  var CENTER = ['laptop-gems','laptop-ykm','laptop-bakery','laptop-rskin','laptop-harvey'];
+  var orbits = [];
+  function isPhone(sp){ var im = sp.querySelector('img'); return !!(im && /\/phone-/.test(im.getAttribute('src') || '')); }
+  function buildOrbit(sc){
+    if (sc.querySelector('.orbit') || sc.closest('.bg-photo')) return;
+    var sps = [].slice.call(sc.querySelectorAll('.sp'));
+    var phones = sps.filter(isPhone);
+    if (phones.length < 2) return;
+    var srcs = phones.map(function(sp){ return sp.querySelector('img').getAttribute('src'); });
+    var centerSp = sps.filter(function(sp){ var im = sp.querySelector('img'); return im && /\/laptop-/.test(im.getAttribute('src') || ''); })[0];
+    var centerSrc = centerSp ? centerSp.querySelector('img').getAttribute('src') : '/assets/hero-props/' + CENTER[Math.floor(Math.random()*CENTER.length)] + '.webp';
+    phones.forEach(function(sp){ sp.parentNode.removeChild(sp); });
+    if (centerSp) centerSp.parentNode.removeChild(centerSp);
+    FILL.forEach(function(n){ var s = '/assets/hero-props/' + n + '.webp'; if (srcs.length < 6 && srcs.indexOf(s) < 0) srcs.push(s); });
+    var o = document.createElement('div');
+    o.className = 'orbit' + (sc.classList.contains('sc-fill') ? ' orbit-hero' : '');
+    o.setAttribute('aria-hidden', 'true');
+    var html = '<div class="orbit-ring"><span class="oc"><img src="' + centerSrc + '" alt="" decoding="async"></span>';
+    srcs.forEach(function(s, i){ html += '<span class="ob" style="--a:' + (i*360/srcs.length).toFixed(1) + 'deg"><img src="' + s + '" alt="" loading="lazy" decoding="async"></span>'; });
+    html += '</div>';
+    o.innerHTML = html;
+    sc.appendChild(o);
+    o.style.setProperty('--th', '20deg');
+    orbits.push(o);
+  }
+  document.querySelectorAll('.sc').forEach(buildOrbit);
+
+
+  // ---------- every hero scene moves: the biggest prop sits in the middle, the others orbit it ----------
+  function buildGeneric(sc){
+    if (sc.querySelector('.orbit') || !sc.closest('.hero-video-wrap')) return;
+    var sps = [].slice.call(sc.querySelectorAll(':scope > .sp'));
+    if (sps.length < 3) return;
+    var wOf = function(sp){ return parseFloat(sp.style.getPropertyValue('--w')) || 10; };
+    sps.sort(function(a, b){ return wOf(b) - wOf(a); });
+    var center = sps[0], rest = sps.slice(1, 6);
+    var o = document.createElement('div');
+    o.className = 'orbit orbit-hero orbit-gen';
+    o.setAttribute('aria-hidden', 'true');
+    var ring = document.createElement('div'); ring.className = 'orbit-ring';
+    var oc = document.createElement('span'); oc.className = 'oc';
+    oc.style.setProperty('--cw', wOf(center) + 'cqw');
+    while (center.firstChild) oc.appendChild(center.firstChild);
+    center.parentNode.removeChild(center);
+    ring.appendChild(oc);
+    var maxw = 0;
+    rest.forEach(function(sp, i){
+      var ob = document.createElement('span'); ob.className = 'ob';
+      var w = wOf(sp); if (w > maxw) maxw = w;
+      ob.style.setProperty('--a', (i*360/rest.length).toFixed(1) + 'deg');
+      ob.style.setProperty('--pw', w + 'cqw');
+      while (sp.firstChild) ob.appendChild(sp.firstChild);
+      sp.parentNode.removeChild(sp);
+      ring.appendChild(ob);
+    });
+    o.style.setProperty('--R', (21 + maxw*0.3).toFixed(1) + 'cqw');
+    o.appendChild(ring); sc.appendChild(o);
+    o.style.setProperty('--th', '20deg');
+    orbits.push(o);
+  }
+  document.querySelectorAll('.sc').forEach(buildGeneric);
+
+  var visible = [];
+  var oio = ('IntersectionObserver' in window) ? new IntersectionObserver(function(es){
+    es.forEach(function(e){
+      var i = visible.indexOf(e.target);
+      if (e.isIntersecting && i < 0) visible.push(e.target);
+      if (!e.isIntersecting && i >= 0) visible.splice(i, 1);
+    });
+  }, {rootMargin:'120px'}) : null;
+  if (oio) orbits.forEach(function(o){ oio.observe(o); });
+  if (!reduce && oio) {
+    (function tick(t){
+      var sy = window.scrollY;
+      for (var i = 0; i < visible.length; i++) {
+        visible[i].style.setProperty('--th', ((t*0.014 + sy*0.2) % 360).toFixed(2) + 'deg');
+      }
+      requestAnimationFrame(tick);
+    })(0);
+  }
+
+  // ---------- depth drift: props in a scene slide at different speeds while you scroll ----------
+  var scenes = [].slice.call(document.querySelectorAll('.sc'));
+  scenes.forEach(function(sc){
+    [].forEach.call(sc.querySelectorAll('.sp'), function(sp){
+      var z = parseInt(sp.style.zIndex || '2', 10) || 2;
+      sp.style.setProperty('--dp', (4 + z*5));
+    });
+  });
+  if (!reduce && scenes.length) {
+    var driftTick = false;
+    var drift = function(){
+      driftTick = false;
+      var vh = window.innerHeight;
+      scenes.forEach(function(sc){
+        var r = sc.getBoundingClientRect();
+        if (r.bottom < -100 || r.top > vh + 100) return;
+        var p = (r.top + r.height/2 - vh/2) / vh;
+        sc.style.setProperty('--sy', Math.max(-1, Math.min(1, p)).toFixed(3));
+      });
+    };
+    window.addEventListener('scroll', function(){ if (!driftTick) { driftTick = true; requestAnimationFrame(drift); } }, {passive:true});
+    drift();
+  }
+
+  // ---------- glass shatter reveal ----------
+  if (reduce || !('IntersectionObserver' in window)) return;
+  var glassSel = '.ed-feature-media,.ed-hero-frame,.sc:not(.sc-fill),.journey-card,.mg-review,.blog-feature';
+  var vh0 = window.innerHeight;
+  var gio = new IntersectionObserver(function(es){
+    es.forEach(function(e){
+      if (e.isIntersecting) { gio.unobserve(e.target); shatter(e.target); }
+    });
+  }, {threshold:0.4});
+  function glassify(el){
+    var cs = window.getComputedStyle(el);
+    if (cs.position === 'static') el.style.position = 'relative';
+    var cols = narrow ? 4 : 6, rows = narrow ? 3 : 4, pts = [], r, c;
+    for (r = 0; r <= rows; r++) { pts.push([]); for (c = 0; c <= cols; c++) {
+      var x = c/cols*100, y = r/rows*100;
+      if (c > 0 && c < cols) x += rnd(-7, 7);
+      if (r > 0 && r < rows) y += rnd(-9, 9);
+      pts[r].push([x, y]);
+    } }
+    var g = document.createElement('div');
+    g.className = 'glass'; g.setAttribute('aria-hidden', 'true');
+    var svg = '<svg class="glass-cracks" viewBox="0 0 100 100" preserveAspectRatio="none">';
+    for (r = 0; r < rows; r++) for (c = 0; c < cols; c++) {
+      var a = pts[r][c], b = pts[r][c+1], d = pts[r+1][c], e2 = pts[r+1][c+1];
+      var cx = (a[0]+b[0]+d[0]+e2[0])/4, cy = (a[1]+b[1]+d[1]+e2[1])/4;
+      var poly = 'polygon(' + [a,b,e2,d].map(function(p){ return p[0].toFixed(1) + '% ' + p[1].toFixed(1) + '%'; }).join(',') + ')';
+      var dist = Math.sqrt((cx-50)*(cx-50) + (cy-50)*(cy-50));
+      var s = document.createElement('i');
+      s.className = 'shard';
+      s.style.clipPath = poly; s.style.webkitClipPath = poly;
+      s.style.setProperty('--dx', ((cx-50)*0.9 + rnd(-14,14)).toFixed(0) + 'px');
+      s.style.setProperty('--dy', (rnd(70, 190) + (cy-50)*0.8).toFixed(0) + 'px');
+      s.style.setProperty('--rot', rnd(-55, 55).toFixed(0) + 'deg');
+      s.style.setProperty('--d', (dist*9).toFixed(0) + 'ms');
+      g.appendChild(s);
+      svg += '<path d="M' + a[0].toFixed(1) + ' ' + a[1].toFixed(1) + 'L' + b[0].toFixed(1) + ' ' + b[1].toFixed(1) + 'L' + e2[0].toFixed(1) + ' ' + e2[1].toFixed(1) + '" />';
+    }
+    svg += '</svg>';
+    g.insertAdjacentHTML('beforeend', svg);
+    el.appendChild(g);
+    el.classList.add('glassed');
+  }
+  function shatter(el){
+    var g = el.querySelector(':scope > .glass');
+    if (!g) return;
+    g.classList.add('go');
+    setTimeout(function(){ if (g.parentNode) g.parentNode.removeChild(g); el.classList.remove('glassed'); }, 1900);
+  }
+  function arm(){
+    document.querySelectorAll(glassSel).forEach(function(el){
+      if (el.__glass) return;
+      var rect = el.getBoundingClientRect();
+      if (rect.top < vh0 * 0.85) return;      // already on screen at load: no glass
+      el.__glass = true;
+      glassify(el);
+      gio.observe(el);
+    });
+  }
+  if (document.readyState === 'complete') arm(); else window.addEventListener('load', arm);
+  // safety: never leave glass up if something goes wrong
+  setTimeout(function(){ document.querySelectorAll('.glass:not(.go)').forEach(function(g){ var p = g.parentNode; if (p && p.getBoundingClientRect().top < window.innerHeight*0.5 && p.getBoundingClientRect().bottom > 0) g.classList.add('go'); }); }, 8000);
+})();
