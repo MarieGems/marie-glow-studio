@@ -110,50 +110,102 @@ Marie Glow Studio is a digital studio in Wichita, KS that helps product and serv
 URL: https://marieglowstudio.com/
 
 -
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 -
 
 -
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 -
 
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-I build websites, Pinterest marketing and search visibility for small product and service businesses, then connect them so the person who finds you can easily buy from you, book you or call you.
+Skip intro
 
 Marie Glow Studio · Wichita, KS
 
 #### Be easier to find, easier to choose and easier to say yes to.
+
+I build websites, Pinterest marketing and search visibility for small product and service businesses, then connect them so the person who finds you can easily buy from you, book you or call you.
 
 [Tell me about your business](https://marieglowstudio.com/contact)
 [See services and prices](https://marieglowstudio.com/services)
@@ -2199,6 +2251,8 @@ hello@marieglowstudio.com
 
 URL: https://marieglowstudio.com/digital-strategy
 
+Your Plan
+
 Digital Strategy
 
 #### Your website, search, Pinterest and email are already one customer journey.
@@ -2849,6 +2903,8 @@ A few lines about your services is plenty. I read every message myself and reply
 
 URL: https://marieglowstudio.com/about
 
+Your Plan
+
 About Marie Glow Studio · Wichita, KS
 
 #### One studio. One person. Every piece connected.
@@ -3218,9 +3274,82 @@ Every message is read personally. No forms into the void.
 
 ---
 
-## Blog posts (113)
+## Blog posts (114)
 
 Index: https://marieglowstudio.com/blog/
+
+### Website Copy That Converts: How to Write Site Copy Like a Conversion Copywriter
+
+URL: https://marieglowstudio.com/blog/website-copy-that-converts-how-to-write-site-copy-like-a-conversion-copywriter
+Topic: Shopify and Web Design | Published: 2026-11-20
+
+Website copy that converts a small business visitor into a customer starts with a headline that states what the reader gains, not just what the business does, because most visitors read only a portion of a page's words before deciding whether to stay.
+
+#### What makes website copy convert, instead of just read well?
+
+Website copy converts when it matches how people actually read a page: fast, scanning for the gain, and only slowing down once the page proves it is worth their time. Conversion copywriting research, cited by firms such as Gibson Copy, finds that visitors read somewhere between 20 and 28 percent of the words on a typical page. That means the words closest to the top, the headline, the first line under it, and the first button, carry most of the weight. A small business site that spends its opening lines describing the company instead of the visitor's problem loses most of its readers before they reach the part that would actually convince them.
+
+#### What should a headline actually promise?
+
+A headline should promise what the visitor gains, not what the business does. A headline like "Professional Web Design Services" describes the business. A headline like "A Website That Gets You Chosen, Not Just Seen" describes the outcome a visitor is actually looking for. A visitor who skims past the first line never finds out what the business does well, so the headline is doing work the rest of the page never gets a chance to do.
+
+- What the business does: "We build Shopify stores." What the visitor gains: "A store that turns a scroll into a sale."
+
+- What the business does: "We design websites for service businesses." What the visitor gains: "A site that turns a search into a booked call."
+
+#### How should a homepage or service page be structured so visitors keep reading?
+
+A page that converts puts the gain in the headline, the proof in the next line, and a single next step within the first screen a visitor sees, then saves the detail for the people willing to scroll. Burying the call to action below several paragraphs of background asks a skimming visitor to do work before they ever get a reason to.
+
+- The headline states the gain.
+
+- One line of proof or clarity follows it.
+
+- One next step appears before any other detail.
+
+- Supporting detail, photos and reviews follow for the reader who keeps going.
+
+A homepage that front loads detail instead of a next step is one of the [common mistakes that hurt conversions](https://marieglowstudio.com/blog/website-mistakes-that-hurt-conversions) on small business sites, and the same ordering question shows up in [homepage design tips for small businesses](https://marieglowstudio.com/blog/homepage-design-tips-small-businesses).
+
+#### Does website copy need to be different for a product business than a service business?
+
+The structure stays the same; the gain changes. A product business selling on Shopify needs a headline about the product and a straight path to checkout, with details and reviews answering doubts along the way. A service business, like a salon, a contracting company or a coaching practice, needs a headline built around the outcome a client wants, proof shown through real work or reviews, and a single next step such as a call, a quote request or a booking link. That service business customer's path usually runs from discovery to an inquiry and then a booking, not straight to checkout, so the copy has to ask for the right next step at the right point instead of borrowing the checkout language a product page uses.
+
+#### What copy mistakes most often hurt conversions?
+
+- A headline that names the service instead of the result, such as "Website Design Services" instead of a line about what the visitor actually gets.
+
+- No single next step: several buttons competing for attention that each ask for something different.
+
+- Jargon in the first two lines that a new visitor has to translate before they understand what the business offers.
+
+- Detail about the business placed above the one thing the visitor actually came to find out.
+
+#### How do I know if new copy is actually working?
+
+A copy rewrite is not finished the day it goes live. The next step is to watch the one action the page is built to produce, a completed Shopify checkout, a booking request or a submitted contact form, and change one part of the page at a time, starting with the headline, if that number does not move. Changing the headline, the photos and the button text all at once makes it impossible to tell afterward which change actually helped. A product page can often be checked within days once enough visitors pass through it; a service page that depends on a slower inquiry to booking path usually needs a longer stretch before the pattern is clear. Either way, the page itself, not a guess about what sounds persuasive, is the only honest judge of whether the new copy earned its keep.
+
+#### Do I need to hire a copywriter, or can I write this myself?
+
+Most small business owners can write this themselves once the structure is clear: state the gain, prove it quickly, give one next step. The Website Starter, Marie Glow Studio's $249 one page site, is built this way on purpose: the business owner provides the copy, and the page structure around it is built to carry whatever that copy says. The Complete Website & Brand Identity package can include copy help if it is asked about before booking, but the headline formula above works whether the copy ends up written in house or with help.
+
+Marie Glow Studio's founder writes the product copy for her own shop, [Marie Gems](https://mariegems.com), herself, the same way she writes and builds everything else for this studio.
+
+A website built around how your own customers decide, with page structure already doing part of the conversion work for your copy, is what [Marie Glow Studio's web design and development service](https://marieglowstudio.com/web-design) builds for product and service businesses alike.
+
+#### Frequently asked questions
+
+**Do you write the copy for my website?**
+
+You provide the copy for the Website Starter, since copywriting is not included in that package. If you want copy help with the Complete Website and Brand Identity package, ask before you book, and nothing goes live without your review either way.
+
+**What is the fastest way to improve a homepage that is not converting?**
+
+Rewrite the headline so it states what the visitor gains instead of what the business does, then make sure there is one clear next step above the fold instead of several competing buttons.
+
+**Is website copy different for a service business than a product business?**
+
+The structure is the same, but the gain changes: a product business leads with the product and a path to checkout, while a service business leads with the outcome a client wants and a path to an inquiry or a booking.
 
 ### What a 90 Day Digital Strategy Roadmap Actually Looks Like
 
