@@ -3581,4 +3581,29 @@ body main .ed-hero-video .orbit-hero{--ox:50%;--ob:12%;--R:30cqw;--pw:16cqw;--cw
 @media (max-width:760px){body main .ed-hero-video:not(.ed-hero-ribbon) .hero-video-wrap{bottom:auto;height:calc(100% - 175px);}body main .ed-hero-video:not(.ed-hero-ribbon) .ed-hero-copy{padding:80px 0 60px;}body main .ed-hero-video .orbit-hero{--ox:50%;--ob:30%;--R:30cqw;--pw:22cqw;--cw:56cqw;}body main .ed-hero-video .orbit-hero .orbit-ring{scale:1.45;}body main .ed-hero-video:not(.ed-hero-ribbon) :is(.ed-hero-copy p,.ed-lede){background:rgba(245,229,252,.72);-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);}}
 .orbit .ob>img:first-of-type,.orbit .oc>img:first-of-type{position:relative;z-index:2;}
 
+/* ===== closing sections and bands: desktop keeps the side props, phones get big props with text on top (2026-11-20) ===== */
+body main :is(.final-cta,.section-bg-photo) .sc-mob{display:none;}
+body main :is(.final-cta,.section-bg-photo) .gl-hl{background:none;border:0;box-shadow:none;padding:0;color:inherit;line-height:inherit;display:inline;}
+@media (max-width:760px){
+body main :is(.final-cta,.section-bg-photo) .sc-desk{display:none;}
+body main :is(.final-cta,.section-bg-photo) .sc-mob{display:block;}
+body main :is(.final-cta,.section-bg-photo){min-height:0;display:flex;align-items:center;justify-content:center;text-align:center;}
+body main .final-cta{padding:110px 0 70px;}
+body main .section-bg-photo{padding:100px 0 60px;}
+body main :is(.final-cta,.section-bg-photo) .bg-photo{position:absolute;top:0;left:0;right:0;bottom:auto;height:calc(100% - 215px);}
+body main .final-cta.has-bg-photo .bg-scrim,body main .section-bg-photo.is-centered .bg-scrim{background:linear-gradient(180deg,var(--lav) 0,rgba(245,229,252,0) 110px,rgba(245,229,252,0) calc(100% - 110px),var(--lav) 100%);}
+body main :is(.final-cta,.section-bg-photo) .sc-fill{opacity:1;}
+body main :is(.final-cta,.section-bg-photo) .wrap{position:relative;z-index:2;display:flex;flex-direction:column;align-items:center;gap:16px;}
+body main :is(.final-cta,.section-bg-photo) .section-head{display:flex;flex-direction:column;align-items:center;gap:16px;}
+body main :is(.final-cta,.section-bg-photo) .eyebrow,body main .final-cta.has-bg-photo .eyebrow,body main .section-bg-photo .section-head .eyebrow{background:rgba(245,229,252,.96);color:var(--pl2);padding:5px 14px;border-radius:999px;}
+body main :is(.final-cta,.section-bg-photo) h2,body main .final-cta.has-bg-photo h2,body main .section-bg-photo h2{color:var(--mg-ink);text-shadow:none;max-width:18ch;margin:0 auto;}
+body main :is(.final-cta,.section-bg-photo) h2 em{color:var(--pl2);text-shadow:none;}
+body main :is(.final-cta,.section-bg-photo) .gl-hl{display:inline;background:var(--mg-bg);color:var(--mg-ink);border:3px solid #2e2140;border-radius:10px;padding:.04em .22em;-webkit-box-decoration-break:clone;box-decoration-break:clone;box-shadow:4px 4px 0 #2e2140;line-height:1.35;}
+body main :is(.final-cta,.section-bg-photo) :is(.hero-promise,.section-head p),body main .final-cta.has-bg-photo .hero-promise,body main .final-cta.has-bg-photo .hero-promise strong,body main .section-bg-photo .section-head p{background:rgba(245,229,252,.96);color:var(--mg-ink-soft)!important;padding:12px 18px;border-radius:14px;max-width:56ch;margin:0 auto;-webkit-backdrop-filter:none;backdrop-filter:none;}
+body main :is(.final-cta,.section-bg-photo) .hero-cta-row{justify-content:center;}
+body main :is(.final-cta,.section-bg-photo) .btn-secondary,body main .final-cta.has-bg-photo .btn-secondary,body main .final-cta.has-bg-photo .btn-secondary:hover{background:rgba(245,229,252,.96);color:var(--mg-ink);border-color:rgba(52,40,70,.4);}
+body main :is(.final-cta,.section-bg-photo) .orbit-hero{--ox:50%;--ob:30%;--R:30cqw;--pw:22cqw;--cw:56cqw;}
+body main :is(.final-cta,.section-bg-photo) .orbit-hero .orbit-ring{scale:1.45;}
+body main :is(.final-cta,.section-bg-photo) .eyebrow,body main .final-cta.has-bg-photo .eyebrow,body main .section-bg-photo .section-head .eyebrow{color:var(--pl2)!important;}
+}
 /* ===== STUDIO SYSTEM (site-wide) END =====*/

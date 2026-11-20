@@ -343,7 +343,7 @@ document.addEventListener('partials:loaded', function(){
   var orbits = [];
   function isPhone(sp){ var im = sp.querySelector('img'); return !!(im && /\/phone-/.test(im.getAttribute('src') || '')); }
   function buildOrbit(sc){
-    if (sc.querySelector('.orbit') || sc.closest('.bg-photo')) return;
+    if (sc.querySelector('.orbit') || sc.classList.contains('sc-desk')) return;
     var sps = [].slice.call(sc.querySelectorAll('.sp'));
     var phones = sps.filter(isPhone);
     if (phones.length < 2) return;
@@ -369,7 +369,7 @@ document.addEventListener('partials:loaded', function(){
 
   // ---------- every hero scene moves: the biggest prop sits in the middle, the others orbit it ----------
   function buildGeneric(sc){
-    if (sc.querySelector('.orbit') || !sc.closest('.hero-video-wrap')) return;
+    if (sc.querySelector('.orbit') || sc.classList.contains('sc-desk') || !sc.closest('.hero-video-wrap, .bg-photo')) return;
     var sps = [].slice.call(sc.querySelectorAll(':scope > .sp'));
     if (sps.length < 3) return;
     var wOf = function(sp){ return parseFloat(sp.style.getPropertyValue('--w')) || 10; };
